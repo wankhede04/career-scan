@@ -14,11 +14,21 @@ from pathlib import Path
 
 from excel_manager import ExcelManager
 from scrapers import (
-    ArbeitnowScraper,
-    JobicyScraper,
+    # Public feed / API portals
     RemoteOKScraper,
+    JobicyScraper,
+    ArbeitnowScraper,
     RemotiveScraper,
     WWRScraper,
+    WorkingNomadsScraper,
+    EURemoteJobsScraper,
+    AIJobsScraper,
+    HimalayadScraper,
+    YCombinatorScraper,
+    # ATS platform scrapers
+    GreenhouseScraper,
+    AshbyScraper,
+    WorkableScraper,
 )
 from scrapers.base import BaseScraper, Job
 
@@ -30,7 +40,7 @@ logging.basicConfig(
 logger = logging.getLogger("career-scan")
 
 EXCEL_FILE = Path("remote_jobs.xlsx")
-MAX_WORKERS = 5
+MAX_WORKERS = 8
 
 
 def _cutoff_date():
@@ -52,11 +62,21 @@ def main() -> int:
     logger.info("Run date: %s  |  Cutoff: %s", today, cutoff)
 
     scrapers: list[BaseScraper] = [
+        # ── Public portals ────────────────────────────────────────────────────
         RemoteOKScraper(),
         JobicyScraper(),
         ArbeitnowScraper(),
         RemotiveScraper(),
         WWRScraper(),
+        WorkingNomadsScraper(),
+        EURemoteJobsScraper(),
+        AIJobsScraper(),
+        HimalayadScraper(),
+        YCombinatorScraper(),
+        # ── ATS platforms (per-company lists from companies.yml) ───────────────
+        GreenhouseScraper(),
+        AshbyScraper(),
+        WorkableScraper(),
     ]
 
     all_jobs: list[Job] = []
@@ -68,10 +88,10 @@ def main() -> int:
         for future in as_completed(futures):
             name, jobs, error = future.result()
             if error:
-                logger.warning("%-20s FAILED: %s", name, error)
+                logger.warning("%-22s FAILED: %s", name, error)
                 portal_stats[name] = 0
             else:
-                logger.info("%-20s -> %d jobs", name, len(jobs))
+                logger.info("%-22s → %d jobs", name, len(jobs))
                 portal_stats[name] = len(jobs)
                 all_jobs.extend(jobs)
 
@@ -81,21 +101,23 @@ def main() -> int:
     new_count = manager.add_jobs(all_jobs)
     manager.save()
 
-    print("\n" + "=" * 55)
+    # ── Summary ───────────────────────────────────────────────────────────────
+    print("\n" + "=" * 60)
     print(f"  career-scan  |  {today}")
-    print("=" * 55)
+    print("=" * 60)
     print(f"  Cutoff date : {cutoff}")
     print(f"  Portals     : {len(scrapers)}")
     print()
     for portal, count in sorted(portal_stats.items()):
-        print(f"  {portal:<22} {count:>4} jobs fetched")
+        status = f"{count:>4} jobs" if count else "  -- failed"
+        print(f"  {portal:<26} {status}")
     print()
     print(f"  Total fetched : {len(all_jobs)}")
     print(f"  New added     : {new_count}")
     print(f"  Duplicates    : {len(all_jobs) - new_count}")
     print(f"  Excel total   : {manager.total_rows} rows")
     print(f"  Saved to      : {EXCEL_FILE}")
-    print("=" * 55 + "\n")
+    print("=" * 60 + "\n")
 
     return 0
 
