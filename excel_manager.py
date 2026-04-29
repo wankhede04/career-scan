@@ -1,8 +1,8 @@
 from __future__ import annotations
 
+import hashlib
 import logging
-import os
-from datetime import date, datetime, timezone
+from datetime import datetime, timezone
 from pathlib import Path
 from typing import Optional
 
@@ -46,8 +46,6 @@ class ExcelManager:
         self._new_count = 0
         self._load()
 
-    # ── Internal ──────────────────────────────────────────────────────────────
-
     def _load(self) -> None:
         if self.path.exists():
             self._wb = openpyxl.load_workbook(self.path)
@@ -55,19 +53,16 @@ class ExcelManager:
                 self._ws = self._wb[SHEET_NAME]
                 self._collect_existing_uids()
                 return
-        # Fresh workbook
         self._wb = Workbook()
         self._ws = self._wb.active
         self._ws.title = SHEET_NAME
         self._write_header()
 
     def _collect_existing_uids(self) -> None:
-        """Read the URL column from the existing sheet and store hashed UIDs."""
         url_col_idx = self._col_index("URL")
         for row in self._ws.iter_rows(min_row=2, values_only=True):
             url = row[url_col_idx - 1]
             if url:
-                import hashlib
                 uid = hashlib.md5(str(url).strip().rstrip("/").lower().encode()).hexdigest()
                 self._existing_uids.add(uid)
 
@@ -87,11 +82,7 @@ class ExcelManager:
         self._ws.row_dimensions[1].height = 22
         self._ws.freeze_panes = "A2"
 
-    def _next_row(self) -> int:
-        return self._ws.max_row + 1
-
     def _row_fill(self, row: int) -> Optional[PatternFill]:
-        # Alternate row shading (row 1 = header)
         return ALT_FILL if row % 2 == 0 else None
 
     def _write_row(self, row: int, job: Job) -> None:
@@ -116,21 +107,15 @@ class ExcelManager:
             if fill:
                 cell.fill = fill
 
-        # Make URL a hyperlink
         url_col = self._col_index("URL")
         url_cell = self._ws.cell(row=row, column=url_col)
         url_cell.hyperlink = job.url
         url_cell.font = Font(color="0563C1", underline="single")
 
-    # ── Public API ────────────────────────────────────────────────────────────
-
     def add_jobs(self, jobs: list[Job]) -> int:
-        """Add jobs not already present. Returns count of newly added jobs."""
-        # Group new jobs: newest date first
         new_jobs = [j for j in jobs if j.uid not in self._existing_uids]
         new_jobs.sort(key=lambda j: j.date_posted, reverse=True)
 
-        # Insert new rows directly after header (row 2), pushing old rows down
         if new_jobs:
             self._ws.insert_rows(2, amount=len(new_jobs))
             for offset, job in enumerate(new_jobs):
@@ -144,11 +129,11 @@ class ExcelManager:
 
     def save(self) -> None:
         self._wb.save(self.path)
-        logger.info("Saved workbook → %s", self.path)
+        logger.info("Saved workbook -> %s", self.path)
 
     @property
     def total_rows(self) -> int:
-        return max(0, self._ws.max_row - 1)  # subtract header
+        return max(0, self._ws.max_row - 1)
 
     @property
     def new_count(self) -> int:

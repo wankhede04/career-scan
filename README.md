@@ -22,7 +22,7 @@ Automated daily scraper that pulls **remote jobs posted within the last 24 hours
 | Title | Job title |
 | Company | Hiring company |
 | Location | Remote scope / timezone requirement |
-| Job Type | full-time, part-time, contract… |
+| Job Type | full-time, part-time, contract... |
 | Category | Industry / function |
 | Tags | Skill tags |
 | Salary | Salary range if disclosed |
@@ -43,7 +43,7 @@ GitHub Actions workflow (`.github/workflows/daily_scrape.yml`) runs at **07:00 U
 3. Runs `python main.py`
 4. Commits and pushes `remote_jobs.xlsx` if any new rows were added
 
-You can also trigger it manually from the **Actions** tab → **Daily Remote Jobs Scrape** → **Run workflow**.
+You can also trigger it manually from the **Actions** tab -> **Daily Remote Jobs Scrape** -> **Run workflow**.
 
 ## Local Usage
 

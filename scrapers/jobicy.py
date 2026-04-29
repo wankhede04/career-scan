@@ -19,13 +19,13 @@ class JobicyScraper(BaseScraper):
         try:
             resp = self._get(API_URL, params=params)
         except Exception as e:
-            logger.warning("%s: fetch failed – %s", self.name, e)
+            logger.warning("%s: fetch failed - %s", self.name, e)
             return []
 
         try:
             payload: dict[str, Any] = resp.json()
         except Exception as e:
-            logger.warning("%s: JSON parse failed – %s", self.name, e)
+            logger.warning("%s: JSON parse failed - %s", self.name, e)
             return []
 
         raw_jobs = payload.get("jobs", [])
