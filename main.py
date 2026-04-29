@@ -13,6 +13,7 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 from excel_manager import ExcelManager
+from job_filter import filter_jobs
 from scrapers import (
     # Public feed / API portals
     RemoteOKScraper,
@@ -62,7 +63,7 @@ def main() -> int:
     logger.info("Run date: %s  |  Cutoff: %s", today, cutoff)
 
     scrapers: list[BaseScraper] = [
-        # ── Public portals ────────────────────────────────────────────────────
+        # Public portals
         RemoteOKScraper(),
         JobicyScraper(),
         ArbeitnowScraper(),
@@ -73,7 +74,7 @@ def main() -> int:
         AIJobsScraper(),
         HimalayadScraper(),
         YCombinatorScraper(),
-        # ── ATS platforms (per-company lists from companies.yml) ───────────────
+        # ATS platforms (per-company lists from companies.yml)
         GreenhouseScraper(),
         AshbyScraper(),
         WorkableScraper(),
@@ -91,17 +92,20 @@ def main() -> int:
                 logger.warning("%-22s FAILED: %s", name, error)
                 portal_stats[name] = 0
             else:
-                logger.info("%-22s → %d jobs", name, len(jobs))
+                logger.info("%-22s -> %d jobs", name, len(jobs))
                 portal_stats[name] = len(jobs)
                 all_jobs.extend(jobs)
 
     logger.info("Total fetched: %d jobs across all portals", len(all_jobs))
 
+    # Apply filters
+    filtered_jobs, filter_stats = filter_jobs(all_jobs)
+    logger.info("After filter: %d jobs remain", len(filtered_jobs))
+
     manager = ExcelManager(EXCEL_FILE)
-    new_count = manager.add_jobs(all_jobs)
+    new_count = manager.add_jobs(filtered_jobs)
     manager.save()
 
-    # ── Summary ───────────────────────────────────────────────────────────────
     print("\n" + "=" * 60)
     print(f"  career-scan  |  {today}")
     print("=" * 60)
@@ -112,11 +116,25 @@ def main() -> int:
         status = f"{count:>4} jobs" if count else "  -- failed"
         print(f"  {portal:<26} {status}")
     print()
-    print(f"  Total fetched : {len(all_jobs)}")
-    print(f"  New added     : {new_count}")
-    print(f"  Duplicates    : {len(all_jobs) - new_count}")
-    print(f"  Excel total   : {manager.total_rows} rows")
-    print(f"  Saved to      : {EXCEL_FILE}")
+    print(f"  Total fetched  : {len(all_jobs)}")
+    print()
+    print("  Filter criteria:")
+    print("    Experience   : 4-7 yrs  (mid / senior)")
+    print("    Languages    : Go, Rust, JS, TS, Python")
+    print("    Roles        : backend, fullstack, frontend,")
+    print("                   protocol, blockchain, AI/ML")
+    print()
+    print(f"  Filtered out   : {len(all_jobs) - len(filtered_jobs)}")
+    print(f"    Too junior   : {filter_stats['junior']}")
+    print(f"    Too senior   : {filter_stats['over_senior']}")
+    print(f"    Wrong role   : {filter_stats['wrong_designation']}")
+    print(f"    Wrong lang   : {filter_stats['wrong_language']}")
+    print()
+    print(f"  After filter   : {len(filtered_jobs)}")
+    print(f"  New added      : {new_count}")
+    print(f"  Duplicates     : {len(filtered_jobs) - new_count}")
+    print(f"  Excel total    : {manager.total_rows} rows")
+    print(f"  Saved to       : {EXCEL_FILE}")
     print("=" * 60 + "\n")
 
     return 0
