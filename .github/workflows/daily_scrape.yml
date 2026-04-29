@@ -42,10 +42,10 @@ jobs:
           git add remote_jobs.xlsx
 
           if git diff --cached --quiet; then
-            echo "ℹ️  No new jobs – nothing to commit."
+            echo "No new jobs - nothing to commit."
           else
             DATE=$(date -u +"%Y-%m-%d")
-            git commit -m "chore: update remote jobs – $DATE [skip ci]"
+            git commit -m "chore: update remote jobs - $DATE [skip ci]"
             git push origin HEAD
-            echo "✅ Pushed updated remote_jobs.xlsx for $DATE"
+            echo "Pushed updated remote_jobs.xlsx for $DATE"
           fi

@@ -17,22 +17,19 @@ class WWRScraper(BaseScraper):
     def get_jobs(self, cutoff: date) -> list[Job]:
         try:
             resp = self._get(RSS_URL, headers={
-                "User-Agent": (
-                    "Mozilla/5.0 (compatible; career-scan-bot/1.0)"
-                ),
+                "User-Agent": "Mozilla/5.0 (compatible; career-scan-bot/1.0)",
                 "Accept": "application/rss+xml, application/xml, text/xml, */*",
             })
         except Exception as e:
-            logger.warning("%s: fetch failed – %s", self.name, e)
+            logger.warning("%s: fetch failed - %s", self.name, e)
             return []
 
         try:
             root = ET.fromstring(resp.content)
         except ET.ParseError as e:
-            logger.warning("%s: XML parse failed – %s", self.name, e)
+            logger.warning("%s: XML parse failed - %s", self.name, e)
             return []
 
-        ns = {"": ""}
         items = root.findall(".//item")
         jobs: list[Job] = []
 
@@ -51,7 +48,6 @@ class WWRScraper(BaseScraper):
 
             url = _text("link")
             if not url:
-                # WWR uses <link> which may be a CDATA or next sibling trick
                 link_el = item.find("link")
                 if link_el is not None and link_el.tail:
                     url = link_el.tail.strip()
@@ -59,11 +55,9 @@ class WWRScraper(BaseScraper):
                 continue
 
             title_raw = _text("title")
-            # WWR title format: "Company: Job Title at Company"
             parts = title_raw.split(" at ", 1)
             job_title = parts[0].strip() if parts else title_raw
 
-            # Extract region from <region> tag if present
             region_el = item.find("{https://weworkremotely.com}region")
             location = (region_el.text or "Remote").strip() if region_el is not None else "Remote"
 

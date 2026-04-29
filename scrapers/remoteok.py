@@ -27,20 +27,19 @@ class RemoteOKScraper(BaseScraper):
             )
             resp.raise_for_status()
         except Exception as e:
-            logger.warning("%s: fetch failed – %s", self.name, e)
+            logger.warning("%s: fetch failed - %s", self.name, e)
             return []
 
         try:
             data: list[Any] = resp.json()
         except Exception as e:
-            logger.warning("%s: JSON parse failed – %s", self.name, e)
+            logger.warning("%s: JSON parse failed - %s", self.name, e)
             return []
 
         jobs: list[Job] = []
         for item in data:
             if not isinstance(item, dict):
                 continue
-            # epoch is Unix timestamp (seconds)
             epoch = item.get("epoch")
             if epoch is None:
                 continue
@@ -61,7 +60,7 @@ class RemoteOKScraper(BaseScraper):
                 salary_parts.append(f"${item['salary_min']}")
             if item.get("salary_max"):
                 salary_parts.append(f"${item['salary_max']}")
-            salary = " – ".join(salary_parts)
+            salary = " - ".join(salary_parts)
 
             tags = item.get("tags") or []
 

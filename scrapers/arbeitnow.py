@@ -22,13 +22,13 @@ class ArbeitnowScraper(BaseScraper):
             try:
                 resp = self._get(API_URL, params={"page": page})
             except Exception as e:
-                logger.warning("%s: fetch failed (page %d) – %s", self.name, page, e)
+                logger.warning("%s: fetch failed (page %d) - %s", self.name, page, e)
                 break
 
             try:
                 payload: dict[str, Any] = resp.json()
             except Exception as e:
-                logger.warning("%s: JSON parse failed – %s", self.name, e)
+                logger.warning("%s: JSON parse failed - %s", self.name, e)
                 break
 
             items = payload.get("data", [])
@@ -40,7 +40,6 @@ class ArbeitnowScraper(BaseScraper):
                 if not isinstance(item, dict):
                     continue
 
-                # Skip non-remote listings
                 if not item.get("remote", False):
                     continue
 
@@ -75,11 +74,9 @@ class ArbeitnowScraper(BaseScraper):
                     description_snippet=(item.get("description") or "")[:500].strip(),
                 ))
 
-            # Stop paginating if all items on this page are older than cutoff
             if not any_recent and items:
                 break
 
-            # Check if there are more pages
             links = payload.get("links", {})
             if not links.get("next"):
                 break

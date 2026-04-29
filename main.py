@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-career-scan — daily remote jobs scraper
+career-scan -- daily remote jobs scraper
 Scrapes multiple job portals for remote positions posted today,
 deduplicates against the existing Excel, and saves an updated file.
 """
@@ -82,7 +82,7 @@ def main() -> int:
     all_jobs: list[Job] = []
     portal_stats: dict[str, int] = {}
 
-    logger.info("Scraping %d portals in parallel (max %d workers)…", len(scrapers), MAX_WORKERS)
+    logger.info("Scraping %d portals in parallel (max %d workers)...", len(scrapers), MAX_WORKERS)
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as pool:
         futures = {pool.submit(_fetch, s, cutoff): s.name for s in scrapers}
         for future in as_completed(futures):

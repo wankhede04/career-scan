@@ -37,7 +37,6 @@ class Job:
 
     @property
     def uid(self) -> str:
-        """Stable dedup key based on URL (normalised)."""
         key = self.url.strip().rstrip("/").lower()
         return hashlib.md5(key.encode()).hexdigest()
 
@@ -60,11 +59,9 @@ class BaseScraper(ABC):
         return datetime.now(timezone.utc).date()
 
     def _is_recent(self, d: date, cutoff: date) -> bool:
-        """Return True if d is on or after cutoff."""
         return d >= cutoff
 
     def _parse_date(self, raw: str) -> Optional[date]:
-        """Try several common date formats and return a date or None."""
         formats = [
             "%Y-%m-%dT%H:%M:%S%z",
             "%Y-%m-%dT%H:%M:%SZ",
