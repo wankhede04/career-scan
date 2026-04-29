@@ -1,0 +1,127 @@
+# companies.yml — ATS company lists for career-scan
+#
+# Each ATS scraper reads its section here.
+# If a section is empty, the scraper falls back to hardcoded defaults.
+# Add or remove companies freely; bad tokens are silently skipped.
+#
+# ── Greenhouse ──────────────────────────────────────────────────────────────
+# Board token = the subdomain in: https://boards.greenhouse.io/{board_token}
+greenhouse:
+  - board_token: anthropic
+    name: Anthropic
+  - board_token: cloudflare
+    name: Cloudflare
+  - board_token: stripe
+    name: Stripe
+  - board_token: hashicorp
+    name: HashiCorp
+  - board_token: datadog
+    name: Datadog
+  - board_token: elastic
+    name: Elastic
+  - board_token: mongodb
+    name: MongoDB
+  - board_token: gitlab
+    name: GitLab
+  - board_token: pagerduty
+    name: PagerDuty
+  - board_token: hubspot
+    name: HubSpot
+  - board_token: zendesk
+    name: Zendesk
+  - board_token: dbtlabs
+    name: dbt Labs
+  - board_token: scaleai
+    name: Scale AI
+  - board_token: mixpanel
+    name: Mixpanel
+  - board_token: brex
+    name: Brex
+  - board_token: figma
+    name: Figma
+  - board_token: notion
+    name: Notion
+  - board_token: rippling
+    name: Rippling
+  - board_token: gusto
+    name: Gusto
+  - board_token: reddit
+    name: Reddit
+  - board_token: twilio
+    name: Twilio
+  - board_token: dropbox
+    name: Dropbox
+  - board_token: squarespace
+    name: Squarespace
+
+# ── Ashby ────────────────────────────────────────────────────────────────────
+# Board token = the subdomain in: https://jobs.ashbyhq.com/{board_token}
+ashby:
+  - board_token: elevenlabs
+    name: ElevenLabs
+  - board_token: linear
+    name: Linear
+  - board_token: resend
+    name: Resend
+  - board_token: supabase
+    name: Supabase
+  - board_token: clerk
+    name: Clerk
+  - board_token: perplexityai
+    name: Perplexity AI
+  - board_token: modal
+    name: Modal
+  - board_token: fly
+    name: Fly.io
+  - board_token: neon
+    name: Neon
+  - board_token: turso
+    name: Turso
+  - board_token: trigger
+    name: Trigger.dev
+  - board_token: cal
+    name: Cal.com
+  - board_token: dub
+    name: Dub.co
+  - board_token: liveblocks
+    name: Liveblocks
+  - board_token: inngest
+    name: Inngest
+  - board_token: qdrant
+    name: Qdrant
+  - board_token: weaviate
+    name: Weaviate
+  - board_token: langchain
+    name: LangChain
+  - board_token: mistral
+    name: Mistral AI
+  - board_token: cohere
+    name: Cohere
+
+# ── Workable ─────────────────────────────────────────────────────────────────
+# Subdomain = the company slug in: https://{subdomain}.workable.com
+workable:
+  - subdomain: typeform
+    name: Typeform
+  - subdomain: hotjar
+    name: Hotjar
+  - subdomain: travelperk
+    name: TravelPerk
+  - subdomain: personio
+    name: Personio
+  - subdomain: factorial
+    name: Factorial
+  - subdomain: babbel
+    name: Babbel
+  - subdomain: intellias
+    name: Intellias
+  - subdomain: learnworlds
+    name: LearnWorlds
+  - subdomain: epignosis
+    name: Epignosis
+  - subdomain: workable
+    name: Workable
+  - subdomain: codefresh
+    name: Codefresh
+  - subdomain: kainos
+    name: Kainos
