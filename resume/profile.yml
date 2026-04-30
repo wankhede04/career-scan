@@ -1,0 +1,30 @@
+# Structured candidate profile passed alongside the resume.
+# Optional but improves tailoring quality. Replace with your real data.
+
+name: Your Name
+location: Remote (UTC+5:30)
+years_experience: 6
+target_roles:
+  - Senior Backend Engineer
+  - Staff Software Engineer
+  - Protocol / Blockchain Engineer
+target_compensation_usd: 130000
+authorised_to_work:
+  - India
+  - EU (remote contractor)
+  - US (remote contractor)
+languages_spoken:
+  - English (fluent)
+preferred_stack:
+  - Go
+  - Rust
+  - TypeScript
+  - Python
+strengths:
+  - distributed systems
+  - protocol design
+  - performance / observability
+  - mentoring & cross-team alignment
+notes: |
+  Optional free-form notes the LLM can use, e.g. recent achievements,
+  preferred tone for cover letters, things to NOT mention, etc.

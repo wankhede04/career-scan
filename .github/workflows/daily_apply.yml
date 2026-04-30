@@ -1,0 +1,154 @@
+name: Daily Auto-Apply
+
+on:
+  schedule:
+    # Run every day at 07:30 UTC, 30 min after the scraper finishes.
+    - cron: "30 7 * * *"
+  workflow_dispatch:
+    inputs:
+      max_jobs:
+        description: "max new jobs to process"
+        required: false
+        default: "15"
+      retry_errors:
+        description: "retry records currently in 'error' state"
+        required: false
+        default: "false"
+        type: boolean
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  apply:
+    name: Tailor & Submit
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Install pandoc (for resume.md -> resume.pdf)
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y --no-install-recommends pandoc texlive-latex-recommended texlive-fonts-recommended texlive-latex-extra
+
+      - name: Run applier
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          APPLIER_MODEL: ${{ vars.APPLIER_MODEL || 'claude-sonnet-4-6' }}
+          APPLIER_AUTO_SUBMIT: ${{ vars.APPLIER_AUTO_SUBMIT || '0' }}
+          APPLIER_MAX_PER_RUN: ${{ github.event.inputs.max_jobs || '15' }}
+          APPLIER_FIRST_NAME: ${{ secrets.APPLIER_FIRST_NAME }}
+          APPLIER_LAST_NAME: ${{ secrets.APPLIER_LAST_NAME }}
+          APPLIER_EMAIL: ${{ secrets.APPLIER_EMAIL }}
+          APPLIER_PHONE: ${{ secrets.APPLIER_PHONE }}
+          APPLIER_LINKEDIN: ${{ secrets.APPLIER_LINKEDIN }}
+          APPLIER_GITHUB_URL: ${{ secrets.APPLIER_GITHUB_URL }}
+          APPLIER_PORTFOLIO: ${{ secrets.APPLIER_PORTFOLIO }}
+        run: |
+          if [ "${{ github.event.inputs.retry_errors }}" = "true" ]; then
+            python -m applier.main --retry-errors
+          else
+            python -m applier.main
+          fi
+
+      - name: Render resumes to PDF
+        run: |
+          shopt -s nullglob
+          for md in applications/*/resume.md; do
+            dir=$(dirname "$md")
+            if [ ! -f "$dir/resume.pdf" ] || [ "$md" -nt "$dir/resume.pdf" ]; then
+              echo "rendering $md -> $dir/resume.pdf"
+              pandoc "$md" -o "$dir/resume.pdf" \
+                --pdf-engine=pdflatex \
+                -V geometry:margin=0.7in \
+                -V fontsize=10pt \
+                -V colorlinks=true || echo "pandoc failed for $md (skipping)"
+            fi
+          done
+
+      - name: Open tracking issues for new applications
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -e
+          # find tailored applications without an issue_number recorded
+          python <<'PY'
+          import json, os, subprocess
+          from pathlib import Path
+
+          state_path = Path("applications/_state.json")
+          if not state_path.exists():
+              raise SystemExit(0)
+
+          state = json.loads(state_path.read_text())
+          changed = False
+          for uid, rec in state.items():
+              if rec["state"] != "tailored" or rec.get("issue_number"):
+                  continue
+              slug = rec["slug"]
+              title = f"Application: {rec['company']} — {rec['title']}"
+              body = (
+                  f"**Company**: {rec['company']}\n"
+                  f"**Role**: {rec['title']}\n"
+                  f"**Source**: {rec['source']}\n"
+                  f"**Posting**: {rec['url']}\n\n"
+                  f"### Tailored artifacts\n"
+                  f"- [JD](applications/{slug}/jd.md)\n"
+                  f"- [Resume](applications/{slug}/resume.md)\n"
+                  f"- [Cover letter](applications/{slug}/cover_letter.md)\n"
+                  f"- [Match notes](applications/{slug}/match_summary.md)\n\n"
+                  f"### Checklist\n"
+                  f"- [ ] reviewed tailored resume\n"
+                  f"- [ ] submitted application\n"
+                  f"- [ ] recruiter response received\n"
+              )
+              try:
+                  out = subprocess.check_output([
+                      "gh", "issue", "create",
+                      "--title", title,
+                      "--body", body,
+                      "--label", "application",
+                  ], text=True).strip()
+                  # gh prints the issue URL; extract trailing number
+                  num = int(out.rsplit("/", 1)[-1])
+                  rec["issue_number"] = num
+                  changed = True
+                  print(f"opened issue #{num} for {slug}")
+              except Exception as exc:
+                  print(f"skip issue for {slug}: {exc}")
+
+          if changed:
+              state_path.write_text(json.dumps(state, indent=2, sort_keys=True))
+          PY
+
+      - name: Commit and push artifacts
+        run: |
+          git config user.name  "career-scan-bot"
+          git config user.email "career-scan-bot@users.noreply.github.com"
+
+          git add applications/ resume/
+
+          if git diff --cached --quiet; then
+            echo "no application changes to commit"
+          else
+            DATE=$(date -u +"%Y-%m-%d")
+            git commit -m "chore: tailored applications - $DATE [skip ci]"
+            git push origin HEAD
+            echo "pushed updated applications for $DATE"
+          fi
