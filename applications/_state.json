@@ -1,0 +1,407 @@
+{
+  "2140d3355d8a03ad9a9d88efa90845c2": {
+    "company": "",
+    "created_at": "2026-05-01T09:16:20+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-01T09:16:20+00:00",
+        "from": "queued",
+        "note": "len=485",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-01T09:16:20+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-04-30-company-opensea-staff-product-designer-2140d3",
+    "source": "WeWorkRemotely",
+    "state": "error",
+    "title": "Opensea: Staff Product Designer",
+    "uid": "2140d3355d8a03ad9a9d88efa90845c2",
+    "updated_at": "2026-05-01T09:16:20+00:00",
+    "url": "https://weworkremotely.com/remote-jobs/opensea-staff-product-designer"
+  },
+  "30b17668e2cb925dcbdadacd97d79ae9": {
+    "company": "",
+    "created_at": "2026-05-01T09:16:20+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-01T09:16:20+00:00",
+        "from": "queued",
+        "note": "len=533",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-01T09:16:20+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-04-30-company-mutt-data-devops-30b176",
+    "source": "WeWorkRemotely",
+    "state": "error",
+    "title": "Mutt Data: Devops",
+    "uid": "30b17668e2cb925dcbdadacd97d79ae9",
+    "updated_at": "2026-05-01T09:16:20+00:00",
+    "url": "https://weworkremotely.com/remote-jobs/mutt-data-devops"
+  },
+  "4a31c3ea600fd2daa24c90b088fda000": {
+    "company": "GitLab",
+    "created_at": "2026-05-01T09:16:21+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-01T09:16:21+00:00",
+        "from": "queued",
+        "note": "len=8871",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-01T09:16:21+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-04-30-gitlab-backend-engineer-analytics-instrumentation-golang-4a31c3",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Backend Engineer, Analytics Instrumentation (Golang)",
+    "uid": "4a31c3ea600fd2daa24c90b088fda000",
+    "updated_at": "2026-05-01T09:16:21+00:00",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8481922002"
+  },
+  "5176c0488ae93437a2bd44eba8eb1104": {
+    "company": "dexter health",
+    "created_at": "2026-05-01T09:16:19+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-01T09:16:20+00:00",
+        "from": "queued",
+        "note": "len=10812",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-01T09:16:20+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-01-dexter-health-backend-python-engineer-apis-databases-cloud-remote-5176c0",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "Backend Python Engineer (APIs, Databases & Cloud) - Remote",
+    "uid": "5176c0488ae93437a2bd44eba8eb1104",
+    "updated_at": "2026-05-01T09:16:20+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/dexter-health/backend-python-engineer-apis-databases-cloud-remote-cologne-274767"
+  },
+  "7d2d736777638c8d1a50f4beecd7a7e6": {
+    "company": "GitLab",
+    "created_at": "2026-05-01T09:16:21+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-01T09:16:22+00:00",
+        "from": "queued",
+        "note": "len=8871",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-01T09:16:22+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-04-30-gitlab-backend-engineer-analytics-instrumentation-golang-7d2d73",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Backend Engineer, Analytics Instrumentation (Golang)",
+    "uid": "7d2d736777638c8d1a50f4beecd7a7e6",
+    "updated_at": "2026-05-01T09:16:22+00:00",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8481929002"
+  },
+  "99be02c7a03ba085d0f3dda4fc636051": {
+    "company": "Hackstack GmbH",
+    "created_at": "2026-05-01T09:16:16+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-01T09:16:17+00:00",
+        "from": "queued",
+        "note": "len=8453",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-01T09:16:17+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-01-hackstack-gmbh-senior-rust-consultant-engineer-m-w-d-99be02",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "Senior Rust Consultant / Engineer (m/w/d)",
+    "uid": "99be02c7a03ba085d0f3dda4fc636051",
+    "updated_at": "2026-05-01T09:16:17+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/hackstack-gmbh/senior-rust-consultant-engineer-munich-451602"
+  },
+  "a5c38f82c7ceccdef39e11f9afba249c": {
+    "company": "",
+    "created_at": "2026-05-01T09:16:21+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-01T09:16:21+00:00",
+        "from": "queued",
+        "note": "len=748",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-01T09:16:21+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-04-30-company-visualis-senior-full-stack-developer-a5c38f",
+    "source": "WeWorkRemotely",
+    "state": "error",
+    "title": "Visualis: Senior Full Stack Developer",
+    "uid": "a5c38f82c7ceccdef39e11f9afba249c",
+    "updated_at": "2026-05-01T09:16:21+00:00",
+    "url": "https://weworkremotely.com/remote-jobs/visualis-senior-full-stack-developer"
+  },
+  "a9230004830ddd4dd7a2c2d7a50da7ae": {
+    "company": "GitLab",
+    "created_at": "2026-05-01T09:16:21+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-01T09:16:21+00:00",
+        "from": "queued",
+        "note": "len=13424",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-01T09:16:21+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-04-30-gitlab-ai-engineer-a92300",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "AI Engineer",
+    "uid": "a9230004830ddd4dd7a2c2d7a50da7ae",
+    "updated_at": "2026-05-01T09:16:21+00:00",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8517564002"
+  },
+  "b1a69432a1d37c0434344573adaf69df": {
+    "company": "",
+    "created_at": "2026-05-01T09:16:20+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-01T09:16:21+00:00",
+        "from": "queued",
+        "note": "len=533",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-01T09:16:21+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-04-30-company-qventus-devops-engineer-b1a694",
+    "source": "WeWorkRemotely",
+    "state": "error",
+    "title": "Qventus: DevOps Engineer",
+    "uid": "b1a69432a1d37c0434344573adaf69df",
+    "updated_at": "2026-05-01T09:16:21+00:00",
+    "url": "https://weworkremotely.com/remote-jobs/qventus-devops-engineer"
+  },
+  "b853962ea3f2b499988067067efa807e": {
+    "company": "dexter health",
+    "created_at": "2026-05-01T09:16:18+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-01T09:16:19+00:00",
+        "from": "queued",
+        "note": "len=10290",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-01T09:16:19+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-01-dexter-health-ai-engineer-llm-products-remote-b85396",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "AI Engineer (LLM Products) - Remote",
+    "uid": "b853962ea3f2b499988067067efa807e",
+    "updated_at": "2026-05-01T09:16:19+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/dexter-health/ai-engineer-llm-products-remote-cologne-236027"
+  },
+  "bc48c81b5015a68cc8ec895afdb00f62": {
+    "company": "dexter health",
+    "created_at": "2026-05-01T09:16:17+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-01T09:16:18+00:00",
+        "from": "queued",
+        "note": "len=10886",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-01T09:16:18+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-01-dexter-health-python-backend-engineer-remote-bc48c8",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "Python Backend Engineer - Remote",
+    "uid": "bc48c81b5015a68cc8ec895afdb00f62",
+    "updated_at": "2026-05-01T09:16:18+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/dexter-health/python-backend-engineer-remote-cologne-34228"
+  },
+  "cd2cc02883f4faad6c42160e442a1f4c": {
+    "company": "",
+    "created_at": "2026-05-01T09:16:20+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-01T09:16:20+00:00",
+        "from": "queued",
+        "note": "len=470",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-01T09:16:20+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-04-30-company-toptal-qa-automation-engineer-cd2cc0",
+    "source": "WeWorkRemotely",
+    "state": "error",
+    "title": "Toptal: QA Automation Engineer",
+    "uid": "cd2cc02883f4faad6c42160e442a1f4c",
+    "updated_at": "2026-05-01T09:16:20+00:00",
+    "url": "https://weworkremotely.com/remote-jobs/toptal-qa-automation-engineer-1"
+  },
+  "e71d3d074df964159c4ce529ff5cb3a5": {
+    "company": "GitLab",
+    "created_at": "2026-05-01T09:16:22+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-01T09:16:22+00:00",
+        "from": "queued",
+        "note": "len=13268",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-01T09:16:22+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-04-30-gitlab-backend-engineer-knowledge-graph-rust-e71d3d",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Backend Engineer, Knowledge Graph (Rust)",
+    "uid": "e71d3d074df964159c4ce529ff5cb3a5",
+    "updated_at": "2026-05-01T09:16:22+00:00",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8437754002"
+  },
+  "fe90bc2b096fbf643d493e1488d13109": {
+    "company": "dexter health",
+    "created_at": "2026-05-01T09:16:17+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-01T09:16:17+00:00",
+        "from": "queued",
+        "note": "len=10627",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-01T09:16:17+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-01-dexter-health-applied-ai-engineer-remote-fe90bc",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "Applied AI Engineer - Remote",
+    "uid": "fe90bc2b096fbf643d493e1488d13109",
+    "updated_at": "2026-05-01T09:16:17+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/dexter-health/applied-ai-engineer-remote-cologne-2870"
+  },
+  "fee952049c02329e2c3e61728c53a0f0": {
+    "company": "",
+    "created_at": "2026-05-01T09:16:20+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-01T09:16:20+00:00",
+        "from": "queued",
+        "note": "len=748",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-01T09:16:20+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-04-30-company-holywater-full-stack-developer-fee952",
+    "source": "WeWorkRemotely",
+    "state": "error",
+    "title": "Holywater: Full-Stack Developer",
+    "uid": "fee952049c02329e2c3e61728c53a0f0",
+    "updated_at": "2026-05-01T09:16:20+00:00",
+    "url": "https://weworkremotely.com/remote-jobs/holywater-full-stack-developer"
+  }
+}
