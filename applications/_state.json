@@ -1,4 +1,31 @@
 {
+  "12837f93d970e090a611fedcb40bd787": {
+    "company": "GitLab",
+    "created_at": "2026-05-02T08:48:15+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-02T08:48:15+00:00",
+        "from": "queued",
+        "note": "len=11550",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-02T08:48:15+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-04-30-gitlab-intermediate-backend-engineer-gitlab-delivery-upgrades-12837f",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Intermediate Backend Engineer, Gitlab Delivery: Upgrades",
+    "uid": "12837f93d970e090a611fedcb40bd787",
+    "updated_at": "2026-05-02T08:48:15+00:00",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8463951002"
+  },
   "2140d3355d8a03ad9a9d88efa90845c2": {
     "company": "",
     "created_at": "2026-05-01T09:16:20+00:00",
@@ -25,6 +52,60 @@
     "uid": "2140d3355d8a03ad9a9d88efa90845c2",
     "updated_at": "2026-05-01T09:16:20+00:00",
     "url": "https://weworkremotely.com/remote-jobs/opensea-staff-product-designer"
+  },
+  "228ffb57c1628b2bc49ccdb8eb9e3ef8": {
+    "company": "GitLab",
+    "created_at": "2026-05-02T08:48:16+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-02T08:48:16+00:00",
+        "from": "queued",
+        "note": "len=9859",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-02T08:48:16+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-04-30-gitlab-intermediate-backend-engineer-sscs-ai-governance-228ffb",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Intermediate Backend Engineer, SSCS: AI Governance",
+    "uid": "228ffb57c1628b2bc49ccdb8eb9e3ef8",
+    "updated_at": "2026-05-02T08:48:16+00:00",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8480551002"
+  },
+  "299a99211744114878fa56aa399ad6c6": {
+    "company": "",
+    "created_at": "2026-05-02T08:48:13+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-02T08:48:13+00:00",
+        "from": "queued",
+        "note": "len=749",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-02T08:48:13+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-01-company-xsolla-full-stack-developer-299a99",
+    "source": "WeWorkRemotely",
+    "state": "error",
+    "title": "Xsolla: Full Stack Developer",
+    "uid": "299a99211744114878fa56aa399ad6c6",
+    "updated_at": "2026-05-02T08:48:13+00:00",
+    "url": "https://weworkremotely.com/remote-jobs/xsolla-full-stack-developer"
   },
   "30b17668e2cb925dcbdadacd97d79ae9": {
     "company": "",
@@ -53,6 +134,33 @@
     "updated_at": "2026-05-01T09:16:20+00:00",
     "url": "https://weworkremotely.com/remote-jobs/mutt-data-devops"
   },
+  "46a3f8b8e9eeb71a5b8ea5dbaf9999da": {
+    "company": "GitLab",
+    "created_at": "2026-05-02T08:48:16+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-02T08:48:17+00:00",
+        "from": "queued",
+        "note": "len=13562",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-02T08:48:17+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-04-30-gitlab-senior-ai-engineer-46a3f8",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Senior AI Engineer",
+    "uid": "46a3f8b8e9eeb71a5b8ea5dbaf9999da",
+    "updated_at": "2026-05-02T08:48:17+00:00",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8464072002"
+  },
   "4a31c3ea600fd2daa24c90b088fda000": {
     "company": "GitLab",
     "created_at": "2026-05-01T09:16:21+00:00",
@@ -79,6 +187,33 @@
     "uid": "4a31c3ea600fd2daa24c90b088fda000",
     "updated_at": "2026-05-01T09:16:21+00:00",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8481922002"
+  },
+  "513f7bfb2703133d623dc0b3ed185881": {
+    "company": "GitLab",
+    "created_at": "2026-05-02T08:48:16+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-02T08:48:16+00:00",
+        "from": "queued",
+        "note": "len=10439",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-02T08:48:16+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-04-30-gitlab-intermediate-backend-engineer-sscs-supply-chain-513f7b",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Intermediate Backend Engineer,  SSCS: Supply Chain",
+    "uid": "513f7bfb2703133d623dc0b3ed185881",
+    "updated_at": "2026-05-02T08:48:16+00:00",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8480565002"
   },
   "5176c0488ae93437a2bd44eba8eb1104": {
     "company": "dexter health",
@@ -107,6 +242,33 @@
     "updated_at": "2026-05-01T09:16:20+00:00",
     "url": "https://www.arbeitnow.com/jobs/companies/dexter-health/backend-python-engineer-apis-databases-cloud-remote-cologne-274767"
   },
+  "6226f86866fffaa2053f4d413b290782": {
+    "company": "GitLab",
+    "created_at": "2026-05-02T08:48:14+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-02T08:48:15+00:00",
+        "from": "queued",
+        "note": "len=9263",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-02T08:48:15+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-04-30-gitlab-intermediate-backend-engineer-c-tenant-scale-git-6226f8",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Intermediate Backend Engineer (C), Tenant Scale: Git",
+    "uid": "6226f86866fffaa2053f4d413b290782",
+    "updated_at": "2026-05-02T08:48:15+00:00",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8497793002"
+  },
   "7d2d736777638c8d1a50f4beecd7a7e6": {
     "company": "GitLab",
     "created_at": "2026-05-01T09:16:21+00:00",
@@ -133,6 +295,60 @@
     "uid": "7d2d736777638c8d1a50f4beecd7a7e6",
     "updated_at": "2026-05-01T09:16:22+00:00",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8481929002"
+  },
+  "8b2d139c1e183b1015bbabd0c8fb1856": {
+    "company": "GitLab",
+    "created_at": "2026-05-02T08:48:17+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-02T08:48:18+00:00",
+        "from": "queued",
+        "note": "len=9270",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-02T08:48:18+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-04-30-gitlab-senior-backend-engineer-c-tenant-scale-git-8b2d13",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Senior Backend Engineer (C), Tenant Scale: Git",
+    "uid": "8b2d139c1e183b1015bbabd0c8fb1856",
+    "updated_at": "2026-05-02T08:48:18+00:00",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8497791002"
+  },
+  "98eafc07667430bbd79bdf2fe5943fa7": {
+    "company": "GitLab",
+    "created_at": "2026-05-02T08:48:14+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-02T08:48:14+00:00",
+        "from": "queued",
+        "note": "len=11418",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-02T08:48:14+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-04-30-gitlab-backend-engineer-knowledge-graph-rust-98eafc",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Backend Engineer, Knowledge Graph (Rust)",
+    "uid": "98eafc07667430bbd79bdf2fe5943fa7",
+    "updated_at": "2026-05-02T08:48:14+00:00",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8481958002"
   },
   "99be02c7a03ba085d0f3dda4fc636051": {
     "company": "Hackstack GmbH",
@@ -296,6 +512,33 @@
     "updated_at": "2026-05-01T09:16:18+00:00",
     "url": "https://www.arbeitnow.com/jobs/companies/dexter-health/python-backend-engineer-remote-cologne-34228"
   },
+  "c34cba2366c7d79b8b09384e0ec930d6": {
+    "company": "EquiMatch GmbH",
+    "created_at": "2026-05-02T08:48:12+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-02T08:48:13+00:00",
+        "from": "queued",
+        "note": "len=6439",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-02T08:48:13+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-02-equimatch-gmbh-m-a-research-analyst-c34cba",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "M&A Research Analyst",
+    "uid": "c34cba2366c7d79b8b09384e0ec930d6",
+    "updated_at": "2026-05-02T08:48:13+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/equimatch-gmbh/ma-research-analyst-berlin-498635"
+  },
   "cd2cc02883f4faad6c42160e442a1f4c": {
     "company": "",
     "created_at": "2026-05-01T09:16:20+00:00",
@@ -323,6 +566,60 @@
     "updated_at": "2026-05-01T09:16:20+00:00",
     "url": "https://weworkremotely.com/remote-jobs/toptal-qa-automation-engineer-1"
   },
+  "cec28b3913fea6950b0bf87de2330766": {
+    "company": "GitLab",
+    "created_at": "2026-05-02T08:48:15+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-02T08:48:16+00:00",
+        "from": "queued",
+        "note": "len=11420",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-02T08:48:16+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-04-30-gitlab-intermediate-backend-engineer-srm-security-platform-manageme-cec28b",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Intermediate Backend Engineer, SRM: Security Platform Management",
+    "uid": "cec28b3913fea6950b0bf87de2330766",
+    "updated_at": "2026-05-02T08:48:16+00:00",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8443325002"
+  },
+  "da360dd010a803048f944b788ec4568f": {
+    "company": "GitLab",
+    "created_at": "2026-05-02T08:48:17+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-02T08:48:17+00:00",
+        "from": "queued",
+        "note": "len=11284",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-02T08:48:17+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-04-30-gitlab-senior-backend-engineer-analytics-instrumentation-golang-da360d",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Senior Backend Engineer, Analytics Instrumentation (Golang)",
+    "uid": "da360dd010a803048f944b788ec4568f",
+    "updated_at": "2026-05-02T08:48:17+00:00",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8451512002"
+  },
   "e71d3d074df964159c4ce529ff5cb3a5": {
     "company": "GitLab",
     "created_at": "2026-05-01T09:16:22+00:00",
@@ -349,6 +646,114 @@
     "uid": "e71d3d074df964159c4ce529ff5cb3a5",
     "updated_at": "2026-05-01T09:16:22+00:00",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8437754002"
+  },
+  "ef467d019deca6c20b178ee6f6b2812e": {
+    "company": "",
+    "created_at": "2026-05-02T08:48:13+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-02T08:48:14+00:00",
+        "from": "queued",
+        "note": "len=749",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-02T08:48:14+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-01-company-dropbox-staff-fullstack-product-software-engineer-dash-ef467d",
+    "source": "WeWorkRemotely",
+    "state": "error",
+    "title": "Dropbox: Staff Fullstack Product Software Engineer, Dash",
+    "uid": "ef467d019deca6c20b178ee6f6b2812e",
+    "updated_at": "2026-05-02T08:48:14+00:00",
+    "url": "https://weworkremotely.com/remote-jobs/dropbox-staff-fullstack-product-software-engineer-dash"
+  },
+  "f3a433c63febd2f4c933839b4d894963": {
+    "company": "GitLab",
+    "created_at": "2026-05-02T08:48:17+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-02T08:48:17+00:00",
+        "from": "queued",
+        "note": "len=9697",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-02T08:48:17+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-04-30-gitlab-senior-backend-engineer-ai-pipeline-execution-f3a433",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Senior Backend Engineer (AI), Pipeline Execution",
+    "uid": "f3a433c63febd2f4c933839b4d894963",
+    "updated_at": "2026-05-02T08:48:17+00:00",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8514945002"
+  },
+  "fb3cb7cdfcf39405b4bf8a2f05e0b0e5": {
+    "company": "Reddit",
+    "created_at": "2026-05-02T08:48:14+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-02T08:48:14+00:00",
+        "from": "queued",
+        "note": "len=10040",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-02T08:48:14+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-01-reddit-staff-machine-learning-engineer-ranking-and-personalization-fb3cb7",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Staff Machine Learning Engineer, Ranking and Personalization",
+    "uid": "fb3cb7cdfcf39405b4bf8a2f05e0b0e5",
+    "updated_at": "2026-05-02T08:48:14+00:00",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7848689"
+  },
+  "fdb612cdaacbbf90fd2e132355be5bff": {
+    "company": "Lemon.io",
+    "created_at": "2026-05-02T08:48:11+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-02T08:48:12+00:00",
+        "from": "queued",
+        "note": "len=9888",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-02T08:48:12+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-02-lemon-io-senior-devops-engineer-fdb612",
+    "source": "Remotive",
+    "state": "error",
+    "title": "Senior DevOps Engineer",
+    "uid": "fdb612cdaacbbf90fd2e132355be5bff",
+    "updated_at": "2026-05-02T08:48:12+00:00",
+    "url": "https://remotive.com/remote-jobs/devops/senior-devops-engineer-2090002"
   },
   "fe90bc2b096fbf643d493e1488d13109": {
     "company": "dexter health",
