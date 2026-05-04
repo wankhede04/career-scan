@@ -53,6 +53,33 @@
     "updated_at": "2026-05-03T09:00:54+00:00",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8457315002"
   },
+  "0a48245982162c7d7c01f9d50b1bc49c": {
+    "company": "dexter health",
+    "created_at": "2026-05-04T09:35:12+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-04T09:35:12+00:00",
+        "from": "queued",
+        "note": "len=10979",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-04T09:35:12+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-04-dexter-health-python-software-engineer-backend-apis-remote-0a4824",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "Python Software Engineer, Backend & APIs - Remote",
+    "uid": "0a48245982162c7d7c01f9d50b1bc49c",
+    "updated_at": "2026-05-04T09:35:12+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/dexter-health/python-software-engineer-backend-apis-remote-cologne-284750"
+  },
   "12837f93d970e090a611fedcb40bd787": {
     "company": "GitLab",
     "created_at": "2026-05-02T08:48:15+00:00",
@@ -215,6 +242,33 @@
     "updated_at": "2026-05-03T09:00:55+00:00",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8437148002"
   },
+  "393ee9ad7022fc1a7e4eb717ae324cce": {
+    "company": "Dry Ground AI",
+    "created_at": "2026-05-04T09:35:16+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-04T09:35:16+00:00",
+        "from": "queued",
+        "note": "len=9055",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-04T09:35:16+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-04-30-dry-ground-ai-ai-engineer-393ee9",
+    "source": "Remotive",
+    "state": "error",
+    "title": "AI Engineer",
+    "uid": "393ee9ad7022fc1a7e4eb717ae324cce",
+    "updated_at": "2026-05-04T09:35:16+00:00",
+    "url": "https://remotive.com/remote-jobs/artificial-intelligence/ai-engineer-2089958"
+  },
   "45c39b93e0299bf1cdfa868601987825": {
     "company": "GitLab",
     "created_at": "2026-05-03T09:00:56+00:00",
@@ -376,6 +430,33 @@
     "uid": "5176c0488ae93437a2bd44eba8eb1104",
     "updated_at": "2026-05-01T09:16:20+00:00",
     "url": "https://www.arbeitnow.com/jobs/companies/dexter-health/backend-python-engineer-apis-databases-cloud-remote-cologne-274767"
+  },
+  "5dea3c5de8a8ddaf1fa41fdd08eb7e6b": {
+    "company": "A.Team",
+    "created_at": "2026-05-04T09:35:16+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-04T09:35:17+00:00",
+        "from": "queued",
+        "note": "len=10225",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-04T09:35:17+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-04-30-a-team-senior-independent-software-developer-5dea3c",
+    "source": "Remotive",
+    "state": "error",
+    "title": "Senior Independent Software Developer",
+    "uid": "5dea3c5de8a8ddaf1fa41fdd08eb7e6b",
+    "updated_at": "2026-05-04T09:35:17+00:00",
+    "url": "https://remotive.com/remote-jobs/software-development/senior-independent-software-developer-1919265"
   },
   "60dbd676b5ca7f9d7bf45570417743eb": {
     "company": "GitLab",
@@ -593,6 +674,33 @@
     "updated_at": "2026-05-03T09:00:50+00:00",
     "url": "https://www.arbeitnow.com/jobs/companies/pont-connects-ek/fullstack-developer-remote-ux-python-vuejs-dusseldorf-371903"
   },
+  "88c7575908980e26db0be766546f206a": {
+    "company": "GitLab",
+    "created_at": "2026-05-04T09:35:12+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-04T09:35:13+00:00",
+        "from": "queued",
+        "note": "len=11245",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-04T09:35:13+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-04-30-gitlab-staff-backend-engineer-gitlab-delivery-upgrades-88c757",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Staff Backend Engineer, Gitlab Delivery: Upgrades",
+    "uid": "88c7575908980e26db0be766546f206a",
+    "updated_at": "2026-05-04T09:35:13+00:00",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8463922002"
+  },
   "8b2d139c1e183b1015bbabd0c8fb1856": {
     "company": "GitLab",
     "created_at": "2026-05-02T08:48:17+00:00",
@@ -619,6 +727,60 @@
     "uid": "8b2d139c1e183b1015bbabd0c8fb1856",
     "updated_at": "2026-05-02T08:48:18+00:00",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8497791002"
+  },
+  "8ec177f1ad59af3a762d56340ce6999a": {
+    "company": "GitLab",
+    "created_at": "2026-05-04T09:35:14+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-04T09:35:15+00:00",
+        "from": "queued",
+        "note": "len=10391",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-04T09:35:15+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-04-30-gitlab-staff-backend-python-engineer-ai-engineering-duo-chat-8ec177",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Staff Backend (Python) Engineer, AI Engineering:Duo Chat",
+    "uid": "8ec177f1ad59af3a762d56340ce6999a",
+    "updated_at": "2026-05-04T09:35:15+00:00",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8450446002"
+  },
+  "97eb093e21c90786302cde0d9db7ba96": {
+    "company": "Datavent",
+    "created_at": "2026-05-04T09:35:11+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-04T09:35:12+00:00",
+        "from": "queued",
+        "note": "len=7336",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-04T09:35:12+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-04-datavent-ai-developer-claude-aws-97eb09",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "AI Developer (Claude + AWS)",
+    "uid": "97eb093e21c90786302cde0d9db7ba96",
+    "updated_at": "2026-05-04T09:35:12+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/datavent/ai-developer-claude-aws-hamburg-22354"
   },
   "98eafc07667430bbd79bdf2fe5943fa7": {
     "company": "GitLab",
@@ -673,6 +835,60 @@
     "uid": "99be02c7a03ba085d0f3dda4fc636051",
     "updated_at": "2026-05-01T09:16:17+00:00",
     "url": "https://www.arbeitnow.com/jobs/companies/hackstack-gmbh/senior-rust-consultant-engineer-munich-451602"
+  },
+  "9f11abe3416703b23de22c90735f84dc": {
+    "company": "Dropbox",
+    "created_at": "2026-05-04T09:35:15+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-04T09:35:16+00:00",
+        "from": "queued",
+        "note": "len=9060",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-04T09:35:16+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-04-30-dropbox-senior-full-stack-product-software-engineer-9f11ab",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Senior Full Stack Product Software Engineer",
+    "uid": "9f11abe3416703b23de22c90735f84dc",
+    "updated_at": "2026-05-04T09:35:16+00:00",
+    "url": "https://jobs.dropbox.com/listing/6449719?gh_jid=6449719"
+  },
+  "a58a89ceb636103b5530c7ccc55cb18c": {
+    "company": "GitLab",
+    "created_at": "2026-05-04T09:35:13+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-04T09:35:13+00:00",
+        "from": "queued",
+        "note": "len=9064",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-04T09:35:13+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-04-30-gitlab-staff-backend-engineer-go-continuous-delivery-a58a89",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Staff Backend Engineer (Go), Continuous Delivery",
+    "uid": "a58a89ceb636103b5530c7ccc55cb18c",
+    "updated_at": "2026-05-04T09:35:13+00:00",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8488961002"
   },
   "a5c38f82c7ceccdef39e11f9afba249c": {
     "company": "",
@@ -917,6 +1133,60 @@
     "updated_at": "2026-05-02T08:48:13+00:00",
     "url": "https://www.arbeitnow.com/jobs/companies/equimatch-gmbh/ma-research-analyst-berlin-498635"
   },
+  "c6b1c17ae4b664353aa1955c040cd738": {
+    "company": "Lemon.io",
+    "created_at": "2026-05-04T09:35:17+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-04T09:35:17+00:00",
+        "from": "queued",
+        "note": "len=11025",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-04T09:35:17+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-04-30-lemon-io-senior-full-stack-react-developer-c6b1c1",
+    "source": "Remotive",
+    "state": "error",
+    "title": "Senior Full-stack React Developer",
+    "uid": "c6b1c17ae4b664353aa1955c040cd738",
+    "updated_at": "2026-05-04T09:35:17+00:00",
+    "url": "https://remotive.com/remote-jobs/software-development/senior-full-stack-react-developer-2088711"
+  },
+  "cbb76f752dd2345d9c5fee979874ce88": {
+    "company": "A.Team",
+    "created_at": "2026-05-04T09:35:16+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-04T09:35:16+00:00",
+        "from": "queued",
+        "note": "len=7637",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-04T09:35:16+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-04-30-a-team-senior-independent-ai-engineer-architect-cbb76f",
+    "source": "Remotive",
+    "state": "error",
+    "title": "Senior Independent AI Engineer / Architect",
+    "uid": "cbb76f752dd2345d9c5fee979874ce88",
+    "updated_at": "2026-05-04T09:35:16+00:00",
+    "url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266"
+  },
   "cd2cc02883f4faad6c42160e442a1f4c": {
     "company": "",
     "created_at": "2026-05-01T09:16:20+00:00",
@@ -971,6 +1241,33 @@
     "updated_at": "2026-05-02T08:48:16+00:00",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8443325002"
   },
+  "d2c951c0fe59903966bfa760784e3852": {
+    "company": "GitLab",
+    "created_at": "2026-05-04T09:35:14+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-04T09:35:14+00:00",
+        "from": "queued",
+        "note": "len=10809",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-04T09:35:14+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-04-30-gitlab-staff-backend-engineer-sscs-ai-governance-d2c951",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Staff Backend Engineer, SSCS: AI Governance",
+    "uid": "d2c951c0fe59903966bfa760784e3852",
+    "updated_at": "2026-05-04T09:35:14+00:00",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8480531002"
+  },
   "da360dd010a803048f944b788ec4568f": {
     "company": "GitLab",
     "created_at": "2026-05-02T08:48:17+00:00",
@@ -998,6 +1295,60 @@
     "updated_at": "2026-05-02T08:48:17+00:00",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8451512002"
   },
+  "e3479f98820ca90b432d2c1e719ff80a": {
+    "company": "GitLab",
+    "created_at": "2026-05-04T09:35:13+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-04T09:35:13+00:00",
+        "from": "queued",
+        "note": "len=12524",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-04T09:35:13+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-04-30-gitlab-staff-backend-engineer-go-software-supply-chain-security-sec-e3479f",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Staff Backend Engineer (Go), Software Supply Chain Security: Secrets Management",
+    "uid": "e3479f98820ca90b432d2c1e719ff80a",
+    "updated_at": "2026-05-04T09:35:13+00:00",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8432235002"
+  },
+  "e48d931a9bb3cdcb4207b62ee1c20939": {
+    "company": "GitLab",
+    "created_at": "2026-05-04T09:35:14+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-04T09:35:14+00:00",
+        "from": "queued",
+        "note": "len=10251",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-04T09:35:14+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-04-30-gitlab-staff-backend-engineer-software-supply-chain-security-e48d93",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Staff Backend Engineer,  Software Supply Chain Security",
+    "uid": "e48d931a9bb3cdcb4207b62ee1c20939",
+    "updated_at": "2026-05-04T09:35:14+00:00",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8480559002"
+  },
   "e71d3d074df964159c4ce529ff5cb3a5": {
     "company": "GitLab",
     "created_at": "2026-05-01T09:16:22+00:00",
@@ -1024,6 +1375,33 @@
     "uid": "e71d3d074df964159c4ce529ff5cb3a5",
     "updated_at": "2026-05-01T09:16:22+00:00",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8437754002"
+  },
+  "e8f2893bf7c09592047872d5d1359232": {
+    "company": "Mitre Media",
+    "created_at": "2026-05-04T09:35:17+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-04T09:35:17+00:00",
+        "from": "queued",
+        "note": "len=12251",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-04T09:35:17+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-04-30-mitre-media-tech-lead-full-stack-rails-engineer-e8f289",
+    "source": "Remotive",
+    "state": "error",
+    "title": "Tech Lead Full-Stack Rails Engineer",
+    "uid": "e8f2893bf7c09592047872d5d1359232",
+    "updated_at": "2026-05-04T09:35:17+00:00",
+    "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746"
   },
   "ebda86e0b8f282fd2744352560cfc31f": {
     "company": "GitLab",
@@ -1213,5 +1591,32 @@
     "uid": "fee952049c02329e2c3e61728c53a0f0",
     "updated_at": "2026-05-01T09:16:20+00:00",
     "url": "https://weworkremotely.com/remote-jobs/holywater-full-stack-developer"
+  },
+  "ffb1dc2e263c198fee7dc5352b6c49bd": {
+    "company": "GitLab",
+    "created_at": "2026-05-04T09:35:13+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-04T09:35:14+00:00",
+        "from": "queued",
+        "note": "len=11849",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-04T09:35:14+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-04-30-gitlab-staff-backend-engineer-knowledge-graph-rust-ffb1dc",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Staff Backend Engineer, Knowledge Graph (Rust)",
+    "uid": "ffb1dc2e263c198fee7dc5352b6c49bd",
+    "updated_at": "2026-05-04T09:35:14+00:00",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8481945002"
   }
 }
