@@ -80,6 +80,60 @@
     "updated_at": "2026-05-04T09:35:12+00:00",
     "url": "https://www.arbeitnow.com/jobs/companies/dexter-health/python-software-engineer-backend-apis-remote-cologne-284750"
   },
+  "0f080d5528c5beb72f4c74f8d9679793": {
+    "company": "Immovara GmbH",
+    "created_at": "2026-05-05T09:26:30+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-05T09:26:30+00:00",
+        "from": "queued",
+        "note": "len=8231",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-05T09:26:30+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-05-immovara-gmbh-laravel-developer-m-w-d-ai-first-proptech-0f080d",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "Laravel Developer (m/w/d) - AI-First PropTech",
+    "uid": "0f080d5528c5beb72f4c74f8d9679793",
+    "updated_at": "2026-05-05T09:26:30+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/immovara-gmbh/laravel-developer-ai-first-proptech-korntal-munchingen-239743"
+  },
+  "0ff9218c21a89559069e3fef22ff8a75": {
+    "company": "Reddit",
+    "created_at": "2026-05-05T09:26:36+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-05T09:26:37+00:00",
+        "from": "queued",
+        "note": "len=8096",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-05T09:26:37+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-04-reddit-staff-machine-learning-engineer-ads-measurement-modeling-0ff921",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Staff Machine Learning Engineer, Ads Measurement Modeling",
+    "uid": "0ff9218c21a89559069e3fef22ff8a75",
+    "updated_at": "2026-05-05T09:26:37+00:00",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7890096"
+  },
   "12837f93d970e090a611fedcb40bd787": {
     "company": "GitLab",
     "created_at": "2026-05-02T08:48:15+00:00",
@@ -106,6 +160,60 @@
     "uid": "12837f93d970e090a611fedcb40bd787",
     "updated_at": "2026-05-02T08:48:15+00:00",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8463951002"
+  },
+  "185efa1096a393de400ad8e08da001d2": {
+    "company": "Stripe",
+    "created_at": "2026-05-05T09:26:33+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-05T09:26:34+00:00",
+        "from": "queued",
+        "note": "len=4467",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-05T09:26:34+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-04-stripe-fullstack-engineer-privy-185efa",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Fullstack Engineer, Privy",
+    "uid": "185efa1096a393de400ad8e08da001d2",
+    "updated_at": "2026-05-05T09:26:34+00:00",
+    "url": "https://stripe.com/jobs/search?gh_jid=7091959"
+  },
+  "1c0760906f2c620ade65ef3bbc62b9d2": {
+    "company": "Reddit",
+    "created_at": "2026-05-05T09:26:36+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-05T09:26:36+00:00",
+        "from": "queued",
+        "note": "len=9700",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-05T09:26:36+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-04-reddit-senior-staff-machine-learning-engineer-ml-understanding-1c0760",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Senior Staff Machine Learning Engineer, ML Understanding",
+    "uid": "1c0760906f2c620ade65ef3bbc62b9d2",
+    "updated_at": "2026-05-05T09:26:36+00:00",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7847148"
   },
   "2140d3355d8a03ad9a9d88efa90845c2": {
     "company": "",
@@ -377,6 +485,33 @@
     "updated_at": "2026-05-01T09:16:21+00:00",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8481922002"
   },
+  "50bc66efc120b716b8daa439d8853057": {
+    "company": "Reddit",
+    "created_at": "2026-05-05T09:26:36+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-05T09:26:36+00:00",
+        "from": "queued",
+        "note": "len=7181",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-05T09:26:36+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-04-reddit-senior-staff-machine-learning-engineer-feed-relevance-50bc66",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Senior Staff Machine Learning Engineer, Feed Relevance",
+    "uid": "50bc66efc120b716b8daa439d8853057",
+    "updated_at": "2026-05-05T09:26:36+00:00",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7791994"
+  },
   "513f7bfb2703133d623dc0b3ed185881": {
     "company": "GitLab",
     "created_at": "2026-05-02T08:48:16+00:00",
@@ -431,6 +566,60 @@
     "updated_at": "2026-05-01T09:16:20+00:00",
     "url": "https://www.arbeitnow.com/jobs/companies/dexter-health/backend-python-engineer-apis-databases-cloud-remote-cologne-274767"
   },
+  "5397b261a265b6d2b4899abd1d060069": {
+    "company": "Stripe",
+    "created_at": "2026-05-05T09:26:33+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-05T09:26:33+00:00",
+        "from": "queued",
+        "note": "len=5445",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-05T09:26:33+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-04-stripe-backend-engineer-developer-experience-product-platform-5397b2",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Backend Engineer, Developer Experience & Product Platform",
+    "uid": "5397b261a265b6d2b4899abd1d060069",
+    "updated_at": "2026-05-05T09:26:33+00:00",
+    "url": "https://stripe.com/jobs/search?gh_jid=7292520"
+  },
+  "58b8ab13cd9c9f0cea84991d0f8db54a": {
+    "company": "Stripe",
+    "created_at": "2026-05-05T09:26:32+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-05T09:26:32+00:00",
+        "from": "queued",
+        "note": "len=6990",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-05T09:26:32+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-04-stripe-backend-engineer-core-tech-canada-58b8ab",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Backend Engineer, Core Tech, Canada",
+    "uid": "58b8ab13cd9c9f0cea84991d0f8db54a",
+    "updated_at": "2026-05-05T09:26:32+00:00",
+    "url": "https://stripe.com/jobs/search?gh_jid=6567253"
+  },
   "5dea3c5de8a8ddaf1fa41fdd08eb7e6b": {
     "company": "A.Team",
     "created_at": "2026-05-04T09:35:16+00:00",
@@ -457,6 +646,33 @@
     "uid": "5dea3c5de8a8ddaf1fa41fdd08eb7e6b",
     "updated_at": "2026-05-04T09:35:17+00:00",
     "url": "https://remotive.com/remote-jobs/software-development/senior-independent-software-developer-1919265"
+  },
+  "5e9bb813ecf6ac86edb21ff34953e096": {
+    "company": "Stripe",
+    "created_at": "2026-05-05T09:26:32+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-05T09:26:33+00:00",
+        "from": "queued",
+        "note": "len=6808",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-05T09:26:33+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-04-stripe-backend-engineer-core-technology-5e9bb8",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Backend Engineer, Core Technology",
+    "uid": "5e9bb813ecf6ac86edb21ff34953e096",
+    "updated_at": "2026-05-05T09:26:33+00:00",
+    "url": "https://stripe.com/jobs/search?gh_jid=6042172"
   },
   "60dbd676b5ca7f9d7bf45570417743eb": {
     "company": "GitLab",
@@ -511,6 +727,33 @@
     "uid": "6226f86866fffaa2053f4d413b290782",
     "updated_at": "2026-05-02T08:48:15+00:00",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8497793002"
+  },
+  "6467baecf92a1e7bf1ef17163dfdfffd": {
+    "company": "Stripe",
+    "created_at": "2026-05-05T09:26:33+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-05T09:26:33+00:00",
+        "from": "queued",
+        "note": "len=7156",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-05T09:26:33+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-04-stripe-commercial-counsel-crypto-6467ba",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Commercial Counsel, Crypto",
+    "uid": "6467baecf92a1e7bf1ef17163dfdfffd",
+    "updated_at": "2026-05-05T09:26:33+00:00",
+    "url": "https://stripe.com/jobs/search?gh_jid=7392188"
   },
   "724625d51774f3c8e7c108bb35c5ad56": {
     "company": "GitLab",
@@ -701,6 +944,33 @@
     "updated_at": "2026-05-04T09:35:13+00:00",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8463922002"
   },
+  "8a271af43bf6cf5bf50d138fbc6f77ba": {
+    "company": "laria.ai",
+    "created_at": "2026-05-05T09:26:29+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-05T09:26:30+00:00",
+        "from": "queued",
+        "note": "len=8375",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-05T09:26:30+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-05-laria-ai-werkstudent-in-ki-marketing-m-w-d-8a271a",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "Werkstudent:in KI Marketing (m/w/d)",
+    "uid": "8a271af43bf6cf5bf50d138fbc6f77ba",
+    "updated_at": "2026-05-05T09:26:30+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/lariaai/werkstudentin-ki-marketing-berlin-9847"
+  },
   "8b2d139c1e183b1015bbabd0c8fb1856": {
     "company": "GitLab",
     "created_at": "2026-05-02T08:48:17+00:00",
@@ -781,6 +1051,33 @@
     "uid": "97eb093e21c90786302cde0d9db7ba96",
     "updated_at": "2026-05-04T09:35:12+00:00",
     "url": "https://www.arbeitnow.com/jobs/companies/datavent/ai-developer-claude-aws-hamburg-22354"
+  },
+  "98db4dd1c2c412b930211d00529d9cab": {
+    "company": "Stripe",
+    "created_at": "2026-05-05T09:26:31+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-05T09:26:32+00:00",
+        "from": "queued",
+        "note": "len=5336",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-05T09:26:32+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-04-stripe-backend-engineer-ai-security-98db4d",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Backend Engineer, AI Security",
+    "uid": "98db4dd1c2c412b930211d00529d9cab",
+    "updated_at": "2026-05-05T09:26:32+00:00",
+    "url": "https://stripe.com/jobs/search?gh_jid=7826765"
   },
   "98eafc07667430bbd79bdf2fe5943fa7": {
     "company": "GitLab",
@@ -943,6 +1240,87 @@
     "uid": "a9230004830ddd4dd7a2c2d7a50da7ae",
     "updated_at": "2026-05-01T09:16:21+00:00",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8517564002"
+  },
+  "abca13b5c75be18246010c75a26af5d3": {
+    "company": "Reddit",
+    "created_at": "2026-05-05T09:26:35+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-05T09:26:36+00:00",
+        "from": "queued",
+        "note": "len=9370",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-05T09:26:36+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-04-reddit-senior-machine-learning-engineer-genai-security-abca13",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Senior Machine Learning Engineer, GenAI Security",
+    "uid": "abca13b5c75be18246010c75a26af5d3",
+    "updated_at": "2026-05-05T09:26:36+00:00",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7891887"
+  },
+  "ac72e3dcdcaab0979ac390e3b854e0cc": {
+    "company": "Stripe",
+    "created_at": "2026-05-05T09:26:34+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-05T09:26:35+00:00",
+        "from": "queued",
+        "note": "len=7449",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-05T09:26:35+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-04-stripe-machine-learning-engineer-stripe-assistant-ac72e3",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Machine Learning Engineer, Stripe Assistant",
+    "uid": "ac72e3dcdcaab0979ac390e3b854e0cc",
+    "updated_at": "2026-05-05T09:26:35+00:00",
+    "url": "https://stripe.com/jobs/search?gh_jid=7629052"
+  },
+  "ac977b267e6c82407aa5cc2474079481": {
+    "company": "Reddit",
+    "created_at": "2026-05-05T09:26:35+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-05T09:26:35+00:00",
+        "from": "queued",
+        "note": "len=7961",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-05T09:26:35+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-04-reddit-machine-learning-manager-feed-relevance-ac977b",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Machine Learning Manager, Feed Relevance",
+    "uid": "ac977b267e6c82407aa5cc2474079481",
+    "updated_at": "2026-05-05T09:26:35+00:00",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7802495"
   },
   "af918678d0b0a7e2344bbe5c0b5dc306": {
     "company": "GitLab",
@@ -1132,6 +1510,33 @@
     "uid": "c34cba2366c7d79b8b09384e0ec930d6",
     "updated_at": "2026-05-02T08:48:13+00:00",
     "url": "https://www.arbeitnow.com/jobs/companies/equimatch-gmbh/ma-research-analyst-berlin-498635"
+  },
+  "c51b73e4a35d5fe762c0e5242a2e03db": {
+    "company": "",
+    "created_at": "2026-05-05T09:26:30+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-05T09:26:31+00:00",
+        "from": "queued",
+        "note": "len=9754",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-05T09:26:31+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-04-company-machine-learning-ml-engineer-applied-c51b73",
+    "source": "WorkingNomads",
+    "state": "error",
+    "title": "Machine Learning (ML) Engineer - Applied",
+    "uid": "c51b73e4a35d5fe762c0e5242a2e03db",
+    "updated_at": "2026-05-05T09:26:31+00:00",
+    "url": "https://www.workingnomads.com/job/go/1578553/"
   },
   "c6b1c17ae4b664353aa1955c040cd738": {
     "company": "Lemon.io",
