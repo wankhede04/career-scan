@@ -134,6 +134,33 @@
     "updated_at": "2026-05-04T09:35:12+00:00",
     "url": "https://www.arbeitnow.com/jobs/companies/dexter-health/python-software-engineer-backend-apis-remote-cologne-284750"
   },
+  "0b5029d5f70fd4b6d3644c2d0db025e0": {
+    "company": "Rockstardevelopers GmbH",
+    "created_at": "2026-05-07T10:00:21+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-07T10:00:22+00:00",
+        "from": "queued",
+        "note": "len=9050",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-07T10:00:22+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-07-rockstardevelopers-gmbh-rockstardevelopers-senior-fullstack-entwickler-m-w-d-mit-pro-0b5029",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "Rockstardevelopers: Senior Fullstack Entwickler (m/w/d) mit Projekterfahrung Deutsche Bahn oder DB Systel",
+    "uid": "0b5029d5f70fd4b6d3644c2d0db025e0",
+    "updated_at": "2026-05-07T10:00:22+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/rockstardevelopers-senior-fullstack-entwickler-mit-projekterfahrung-deutsche-bahn-oder-db-systel-stuttgart-354361"
+  },
   "0f080d5528c5beb72f4c74f8d9679793": {
     "company": "Immovara GmbH",
     "created_at": "2026-05-05T09:26:30+00:00",
@@ -566,6 +593,33 @@
     "updated_at": "2026-05-04T09:35:16+00:00",
     "url": "https://remotive.com/remote-jobs/artificial-intelligence/ai-engineer-2089958"
   },
+  "3b3b4e618344263fb4d686fb319eb43c": {
+    "company": "Akuity",
+    "created_at": "2026-05-07T10:00:23+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-07T10:00:23+00:00",
+        "from": "queued",
+        "note": "len=2097",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-07T10:00:23+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-06-akuity-senior-backend-engineer-3b3b4e",
+    "source": "RemoteOK",
+    "state": "error",
+    "title": "Senior Backend Engineer",
+    "uid": "3b3b4e618344263fb4d686fb319eb43c",
+    "updated_at": "2026-05-07T10:00:23+00:00",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-akuity-1131479"
+  },
   "3cb30e5f5e20af07c0bf388971a5398e": {
     "company": "Reddit",
     "created_at": "2026-05-06T09:40:32+00:00",
@@ -592,6 +646,33 @@
     "uid": "3cb30e5f5e20af07c0bf388971a5398e",
     "updated_at": "2026-05-06T09:40:32+00:00",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/7607121"
+  },
+  "4313c75dd9e4b39fb11cc0720f1eea58": {
+    "company": "Dropbox",
+    "created_at": "2026-05-07T10:00:26+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-07T10:00:27+00:00",
+        "from": "queued",
+        "note": "len=12389",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-07T10:00:27+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-06-dropbox-full-stack-software-engineer-dash-experiences-4313c7",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Full Stack Software Engineer, Dash Experiences",
+    "uid": "4313c75dd9e4b39fb11cc0720f1eea58",
+    "updated_at": "2026-05-07T10:00:27+00:00",
+    "url": "https://jobs.dropbox.com/listing/7569140?gh_jid=7569140"
   },
   "45c39b93e0299bf1cdfa868601987825": {
     "company": "GitLab",
@@ -836,6 +917,33 @@
     "updated_at": "2026-05-05T09:26:32+00:00",
     "url": "https://stripe.com/jobs/search?gh_jid=6567253"
   },
+  "597debffa8818fae6c52b3584112b533": {
+    "company": "Dropbox",
+    "created_at": "2026-05-07T10:00:27+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-07T10:00:27+00:00",
+        "from": "queued",
+        "note": "len=10652",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-07T10:00:27+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-06-dropbox-full-stack-software-engineer-dash-experiences-597deb",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Full Stack Software Engineer, Dash Experiences",
+    "uid": "597debffa8818fae6c52b3584112b533",
+    "updated_at": "2026-05-07T10:00:27+00:00",
+    "url": "https://jobs.dropbox.com/listing/7569145?gh_jid=7569145"
+  },
   "5dea3c5de8a8ddaf1fa41fdd08eb7e6b": {
     "company": "A.Team",
     "created_at": "2026-05-04T09:35:16+00:00",
@@ -889,6 +997,33 @@
     "uid": "5e9bb813ecf6ac86edb21ff34953e096",
     "updated_at": "2026-05-05T09:26:33+00:00",
     "url": "https://stripe.com/jobs/search?gh_jid=6042172"
+  },
+  "606edebc9a07bdc6bcdde7bec0c77e68": {
+    "company": "Dropbox",
+    "created_at": "2026-05-07T10:00:27+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-07T10:00:28+00:00",
+        "from": "queued",
+        "note": "len=9887",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-07T10:00:28+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-06-dropbox-senior-backend-product-software-engineer-payments-606ede",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Senior Backend Product Software Engineer, Payments",
+    "uid": "606edebc9a07bdc6bcdde7bec0c77e68",
+    "updated_at": "2026-05-07T10:00:28+00:00",
+    "url": "https://jobs.dropbox.com/listing/7812915?gh_jid=7812915"
   },
   "60dbd676b5ca7f9d7bf45570417743eb": {
     "company": "GitLab",
@@ -970,6 +1105,87 @@
     "uid": "6467baecf92a1e7bf1ef17163dfdfffd",
     "updated_at": "2026-05-05T09:26:33+00:00",
     "url": "https://stripe.com/jobs/search?gh_jid=7392188"
+  },
+  "64f5cd77e76ecccf62f24ae6eba12b8f": {
+    "company": "Dropbox",
+    "created_at": "2026-05-07T10:00:24+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-07T10:00:25+00:00",
+        "from": "queued",
+        "note": "len=10668",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-07T10:00:25+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-06-dropbox-data-scientist-64f5cd",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Data Scientist",
+    "uid": "64f5cd77e76ecccf62f24ae6eba12b8f",
+    "updated_at": "2026-05-07T10:00:25+00:00",
+    "url": "https://jobs.dropbox.com/listing/7762004?gh_jid=7762004"
+  },
+  "68f930fee19726d21a21f25034bcf688": {
+    "company": "DataSmart Point GmbH",
+    "created_at": "2026-05-07T10:00:20+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-07T10:00:21+00:00",
+        "from": "queued",
+        "note": "len=7688",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-07T10:00:21+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-07-datasmart-point-gmbh-karrierestart-in-data-ai-ihk-data-analyst-m-w-d-100-online-68f930",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "Karrierestart in Data & AI - IHK Data Analyst (m/w/d) - 100 % Online",
+    "uid": "68f930fee19726d21a21f25034bcf688",
+    "updated_at": "2026-05-07T10:00:21+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/datasmart-point-gmbh/karrierestart-in-data-ai-ihk-data-analyst-100-online-berlin-138911"
+  },
+  "6b2eac4dafe21e125bf659f013bfb083": {
+    "company": "DataSmart Point GmbH",
+    "created_at": "2026-05-07T10:00:19+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-07T10:00:20+00:00",
+        "from": "queued",
+        "note": "len=8642",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-07T10:00:20+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-07-datasmart-point-gmbh-weiterbildung-data-science-business-analytics-ihk-m-w-d-remo-6b2eac",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "Weiterbildung: Data Science & Business Analytics (IHK) (m/w/d) - Remote",
+    "uid": "6b2eac4dafe21e125bf659f013bfb083",
+    "updated_at": "2026-05-07T10:00:20+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/datasmart-point-gmbh/weiterbildung-data-science-business-analytics-ihk-remote-berlin-23738"
   },
   "6c3b1b82f57137491f63fcf0825f505f": {
     "company": "",
@@ -1295,6 +1511,33 @@
     "updated_at": "2026-05-04T09:35:15+00:00",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8450446002"
   },
+  "90f0159ac8e59e779cd81f447ae838d4": {
+    "company": "Sorcero",
+    "created_at": "2026-05-07T10:00:23+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-07T10:00:23+00:00",
+        "from": "queued",
+        "note": "len=2395",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-07T10:00:23+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-06-sorcero-medical-affairs-solutions-manager-uk-90f015",
+    "source": "RemoteOK",
+    "state": "error",
+    "title": "Medical Affairs Solutions Manager UK",
+    "uid": "90f0159ac8e59e779cd81f447ae838d4",
+    "updated_at": "2026-05-07T10:00:23+00:00",
+    "url": "https://remoteOK.com/remote-jobs/remote-medical-affairs-solutions-manager-uk-sorcero-1131475"
+  },
   "97eb093e21c90786302cde0d9db7ba96": {
     "company": "Datavent",
     "created_at": "2026-05-04T09:35:11+00:00",
@@ -1402,6 +1645,33 @@
     "uid": "99be02c7a03ba085d0f3dda4fc636051",
     "updated_at": "2026-05-01T09:16:17+00:00",
     "url": "https://www.arbeitnow.com/jobs/companies/hackstack-gmbh/senior-rust-consultant-engineer-munich-451602"
+  },
+  "9d10d2221f65257cac3bbe311bdf25ca": {
+    "company": "Dropbox",
+    "created_at": "2026-05-07T10:00:25+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-07T10:00:25+00:00",
+        "from": "queued",
+        "note": "len=8916",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-07T10:00:25+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-06-dropbox-data-scientist-9d10d2",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Data Scientist",
+    "uid": "9d10d2221f65257cac3bbe311bdf25ca",
+    "updated_at": "2026-05-07T10:00:25+00:00",
+    "url": "https://jobs.dropbox.com/listing/7762009?gh_jid=7762009"
   },
   "9f11abe3416703b23de22c90735f84dc": {
     "company": "Dropbox",
@@ -1727,6 +1997,33 @@
     "updated_at": "2026-05-03T09:00:53+00:00",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8157520002"
   },
+  "b60bb846820a7cc82f38faeaeceeb1f3": {
+    "company": "Dropbox",
+    "created_at": "2026-05-07T10:00:23+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-07T10:00:24+00:00",
+        "from": "queued",
+        "note": "len=9474",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-07T10:00:24+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-06-dropbox-data-scientist-b60bb8",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Data Scientist",
+    "uid": "b60bb846820a7cc82f38faeaeceeb1f3",
+    "updated_at": "2026-05-07T10:00:24+00:00",
+    "url": "https://jobs.dropbox.com/listing/7762007?gh_jid=7762007"
+  },
   "b853962ea3f2b499988067067efa807e": {
     "company": "dexter health",
     "created_at": "2026-05-01T09:16:18+00:00",
@@ -1997,6 +2294,33 @@
     "updated_at": "2026-05-02T08:48:16+00:00",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8443325002"
   },
+  "d003d9784c46c2fbfb3a92ea7ad24f1b": {
+    "company": "Prove",
+    "created_at": "2026-05-07T10:00:23+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-07T10:00:23+00:00",
+        "from": "queued",
+        "note": "len=1739",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-07T10:00:23+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-06-prove-senior-software-engineer-d003d9",
+    "source": "RemoteOK",
+    "state": "error",
+    "title": "Senior Software Engineer",
+    "uid": "d003d9784c46c2fbfb3a92ea7ad24f1b",
+    "updated_at": "2026-05-07T10:00:23+00:00",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-prove-1131482"
+  },
   "d2c951c0fe59903966bfa760784e3852": {
     "company": "GitLab",
     "created_at": "2026-05-04T09:35:14+00:00",
@@ -2050,6 +2374,33 @@
     "uid": "da360dd010a803048f944b788ec4568f",
     "updated_at": "2026-05-02T08:48:17+00:00",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8451512002"
+  },
+  "db39e2fc13c2a2eb43393482cee14fd6": {
+    "company": "Dropbox",
+    "created_at": "2026-05-07T10:00:25+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-07T10:00:26+00:00",
+        "from": "queued",
+        "note": "len=10762",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-07T10:00:26+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-06-dropbox-frontend-product-software-engineer-web-dx-db39e2",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Frontend Product Software Engineer, Web DX",
+    "uid": "db39e2fc13c2a2eb43393482cee14fd6",
+    "updated_at": "2026-05-07T10:00:26+00:00",
+    "url": "https://jobs.dropbox.com/listing/7580431?gh_jid=7580431"
   },
   "e3479f98820ca90b432d2c1e719ff80a": {
     "company": "GitLab",
@@ -2240,6 +2591,33 @@
     "updated_at": "2026-05-02T08:48:14+00:00",
     "url": "https://weworkremotely.com/remote-jobs/dropbox-staff-fullstack-product-software-engineer-dash"
   },
+  "f3a05c76b32bb54b0fc8ba6446edc79e": {
+    "company": "StellDirVor GmbH",
+    "created_at": "2026-05-07T10:00:22+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-07T10:00:23+00:00",
+        "from": "queued",
+        "note": "len=10635",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-07T10:00:23+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-07-stelldirvor-gmbh-full-stack-ai-engineer-computer-vision-back-end-focus-f3a05c",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "Full-Stack AI Engineer (Computer Vision & Back-end Focus)",
+    "uid": "f3a05c76b32bb54b0fc8ba6446edc79e",
+    "updated_at": "2026-05-07T10:00:23+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/stelldirvor-gmbh/full-stack-ai-engineer-computer-vision-back-end-focus-munich-122395"
+  },
   "f3a433c63febd2f4c933839b4d894963": {
     "company": "GitLab",
     "created_at": "2026-05-02T08:48:17+00:00",
@@ -2293,6 +2671,33 @@
     "uid": "f58448219777c17c1ef1af4547c47f85",
     "updated_at": "2026-05-06T09:40:29+00:00",
     "url": "https://careers.datadoghq.com/detail/7627445/?gh_jid=7627445"
+  },
+  "f7472dc69e6f7e688966d9130fe2e855": {
+    "company": "Dropbox",
+    "created_at": "2026-05-07T10:00:28+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-07T10:00:29+00:00",
+        "from": "queued",
+        "note": "len=9352",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-07T10:00:29+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-06-dropbox-senior-data-scientist-ai-products-f7472d",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Senior Data Scientist, AI Products",
+    "uid": "f7472dc69e6f7e688966d9130fe2e855",
+    "updated_at": "2026-05-07T10:00:29+00:00",
+    "url": "https://jobs.dropbox.com/listing/7789389?gh_jid=7789389"
   },
   "fb3cb7cdfcf39405b4bf8a2f05e0b0e5": {
     "company": "Reddit",
