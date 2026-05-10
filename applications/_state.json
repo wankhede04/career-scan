@@ -134,6 +134,33 @@
     "updated_at": "2026-05-08T09:06:53+00:00",
     "url": "https://www.arbeitnow.com/jobs/companies/neurawork-gmbh-co-kg/senior-ai-engineer-agent-architekt-ampfing-390691"
   },
+  "05b79c10851dcc0b3e1ee765fbec9c87": {
+    "company": "Reddit",
+    "created_at": "2026-05-10T09:11:46+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-10T09:11:46+00:00",
+        "from": "queued",
+        "note": "len=8689",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-10T09:11:46+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-05-reddit-staff-data-scientist-ads-05b79c",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Staff Data Scientist, Ads",
+    "uid": "05b79c10851dcc0b3e1ee765fbec9c87",
+    "updated_at": "2026-05-10T09:11:46+00:00",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7721851"
+  },
   "05fdd3c399f93616b1f10140b8eb16e0": {
     "company": "",
     "created_at": "2026-05-06T09:40:29+00:00",
@@ -349,6 +376,33 @@
     "uid": "108b41f7d3b002eb382c58771b08e725",
     "updated_at": "2026-05-06T09:40:31+00:00",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/6580815"
+  },
+  "10a3415e2f9e959752b7cb077a6fbdba": {
+    "company": "Reddit",
+    "created_at": "2026-05-10T09:11:44+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-10T09:11:44+00:00",
+        "from": "queued",
+        "note": "len=8692",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-10T09:11:44+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-05-reddit-senior-data-scientist-ads-10a341",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Senior Data Scientist, Ads",
+    "uid": "10a3415e2f9e959752b7cb077a6fbdba",
+    "updated_at": "2026-05-10T09:11:44+00:00",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/6042236"
   },
   "12837f93d970e090a611fedcb40bd787": {
     "company": "GitLab",
@@ -593,6 +647,33 @@
     "updated_at": "2026-05-02T08:48:13+00:00",
     "url": "https://weworkremotely.com/remote-jobs/xsolla-full-stack-developer"
   },
+  "2a41e3857e1b342016f576ee76b035a5": {
+    "company": "Reddit",
+    "created_at": "2026-05-10T09:11:46+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-10T09:11:47+00:00",
+        "from": "queued",
+        "note": "len=7929",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-10T09:11:47+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-05-reddit-staff-data-scientist-consumer-2a41e3",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Staff Data Scientist, Consumer",
+    "uid": "2a41e3857e1b342016f576ee76b035a5",
+    "updated_at": "2026-05-10T09:11:47+00:00",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/6745284"
+  },
   "2b7ade3b3fe44760ab72b05e0b26cc57": {
     "company": "Dropbox",
     "created_at": "2026-05-08T09:06:55+00:00",
@@ -700,6 +781,33 @@
     "uid": "34ac762081c53f0eb0cdefc6c88b60c4",
     "updated_at": "2026-05-06T09:40:30+00:00",
     "url": "https://careers.datadoghq.com/detail/7627429/?gh_jid=7627429"
+  },
+  "3532caa1ca6e30514fc79708e081c9d1": {
+    "company": "Reddit",
+    "created_at": "2026-05-10T09:11:44+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-10T09:11:45+00:00",
+        "from": "queued",
+        "note": "len=7898",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-10T09:11:45+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-05-reddit-senior-data-scientist-consumer-3532ca",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Senior Data Scientist, Consumer",
+    "uid": "3532caa1ca6e30514fc79708e081c9d1",
+    "updated_at": "2026-05-10T09:11:45+00:00",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7275414"
   },
   "369e5e9512879e02e07420b2c672d8a5": {
     "company": "Civitech",
@@ -917,6 +1025,33 @@
     "updated_at": "2026-05-07T10:00:27+00:00",
     "url": "https://jobs.dropbox.com/listing/7569140?gh_jid=7569140"
   },
+  "45636d720617ac8d49ac4386069f76cf": {
+    "company": "Reddit",
+    "created_at": "2026-05-10T09:11:47+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-10T09:11:47+00:00",
+        "from": "queued",
+        "note": "len=11754",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-10T09:11:47+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-05-reddit-staff-machine-learning-engineer-ads-auction-ads-marketplace-45636d",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Staff Machine Learning Engineer, Ads Auction (Ads Marketplace Quality)",
+    "uid": "45636d720617ac8d49ac4386069f76cf",
+    "updated_at": "2026-05-10T09:11:47+00:00",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7181821"
+  },
   "45c39b93e0299bf1cdfa868601987825": {
     "company": "GitLab",
     "created_at": "2026-05-03T09:00:56+00:00",
@@ -1051,6 +1186,33 @@
     "uid": "4f0ddc894885265e8282d5979e86a2fd",
     "updated_at": "2026-05-09T08:57:16+00:00",
     "url": "https://remoteOK.com/remote-jobs/remote-tech-lead-zensurance-1131509"
+  },
+  "505ad6d0e32dd9fb9de0af5e1bffa51f": {
+    "company": "Reddit",
+    "created_at": "2026-05-10T09:11:46+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-10T09:11:46+00:00",
+        "from": "queued",
+        "note": "len=9305",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-10T09:11:46+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-05-reddit-staff-data-scientist-ads-505ad6",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Staff Data Scientist, Ads",
+    "uid": "505ad6d0e32dd9fb9de0af5e1bffa51f",
+    "updated_at": "2026-05-10T09:11:46+00:00",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7721787"
   },
   "50bc66efc120b716b8daa439d8853057": {
     "company": "Reddit",
@@ -1213,6 +1375,33 @@
     "uid": "597debffa8818fae6c52b3584112b533",
     "updated_at": "2026-05-07T10:00:27+00:00",
     "url": "https://jobs.dropbox.com/listing/7569145?gh_jid=7569145"
+  },
+  "5b8d3a9ff3feb27ec64765d9282b8b6f": {
+    "company": "DatAds",
+    "created_at": "2026-05-10T09:11:43+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-10T09:11:44+00:00",
+        "from": "queued",
+        "note": "len=9391",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-10T09:11:44+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-10-datads-full-stack-software-engineer-backend-frontend-bootstrapped-s-5b8d3a",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "Full-Stack Software Engineer / Backend & Frontend - Bootstrapped SaaS Startup (m/w/d) remote in EU",
+    "uid": "5b8d3a9ff3feb27ec64765d9282b8b6f",
+    "updated_at": "2026-05-10T09:11:44+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/datads/full-stack-software-engineer-backend-frontend-bootstrapped-saas-startup-remote-in-eu-cologne-266336"
   },
   "5dea3c5de8a8ddaf1fa41fdd08eb7e6b": {
     "company": "A.Team",
@@ -1430,6 +1619,33 @@
     "updated_at": "2026-05-07T10:00:25+00:00",
     "url": "https://jobs.dropbox.com/listing/7762004?gh_jid=7762004"
   },
+  "67fb945969beb7d380325da323110513": {
+    "company": "Reddit",
+    "created_at": "2026-05-10T09:11:45+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-10T09:11:45+00:00",
+        "from": "queued",
+        "note": "len=7321",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-10T09:11:45+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-05-reddit-senior-software-engineer-genai-platform-67fb94",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Senior Software Engineer, GenAI Platform",
+    "uid": "67fb945969beb7d380325da323110513",
+    "updated_at": "2026-05-10T09:11:45+00:00",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7753480"
+  },
   "68f930fee19726d21a21f25034bcf688": {
     "company": "DataSmart Point GmbH",
     "created_at": "2026-05-07T10:00:20+00:00",
@@ -1538,6 +1754,33 @@
     "updated_at": "2026-05-09T08:57:13+00:00",
     "url": "https://www.arbeitnow.com/jobs/companies/voffice-software/senior-cloud-software-engineer-typescript-aws-hamburg-431856"
   },
+  "70f8fca4d8f10f8a0495019f3a2668d2": {
+    "company": "Reddit",
+    "created_at": "2026-05-10T09:11:45+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-10T09:11:45+00:00",
+        "from": "queued",
+        "note": "len=8175",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-10T09:11:45+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-05-reddit-senior-machine-learning-engineer-ml-training-platform-70f8fc",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Senior  Machine Learning Engineer, ML Training Platform",
+    "uid": "70f8fca4d8f10f8a0495019f3a2668d2",
+    "updated_at": "2026-05-10T09:11:45+00:00",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7074776"
+  },
   "724625d51774f3c8e7c108bb35c5ad56": {
     "company": "GitLab",
     "created_at": "2026-05-03T09:00:52+00:00",
@@ -1591,6 +1834,33 @@
     "uid": "72a77b943a0bab09ce674c1e07e8a6ac",
     "updated_at": "2026-05-08T09:06:56+00:00",
     "url": "https://jobs.dropbox.com/listing/7729761?gh_jid=7729761"
+  },
+  "748df7226f0aa1b07deaff419a96e897": {
+    "company": "Reddit",
+    "created_at": "2026-05-10T09:11:47+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-10T09:11:47+00:00",
+        "from": "queued",
+        "note": "len=9058",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-10T09:11:47+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-05-reddit-staff-data-scientist-marketing-748df7",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Staff Data Scientist, Marketing",
+    "uid": "748df7226f0aa1b07deaff419a96e897",
+    "updated_at": "2026-05-10T09:11:47+00:00",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7445240"
   },
   "776d470ebd3ce4443441836119590d16": {
     "company": "Dropbox",
@@ -1780,6 +2050,33 @@
     "uid": "84b3e30a3fdffa71b43b2d0e9f06ac70",
     "updated_at": "2026-05-09T08:57:17+00:00",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/7908786"
+  },
+  "8709762a39c8d8893c2c123b677c8035": {
+    "company": "Reddit",
+    "created_at": "2026-05-10T09:11:47+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-10T09:11:47+00:00",
+        "from": "queued",
+        "note": "len=9640",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-10T09:11:47+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-05-reddit-staff-machine-learning-engineer-ads-content-understanding-870976",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Staff Machine Learning Engineer, Ads Content Understanding",
+    "uid": "8709762a39c8d8893c2c123b677c8035",
+    "updated_at": "2026-05-10T09:11:47+00:00",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7851761"
   },
   "885472fadae671cc3f4df806f7e97296": {
     "company": "Pont Connects e.K.",
@@ -2050,6 +2347,33 @@
     "uid": "920d3d4a0c8d6d6eebc615f80c87647f",
     "updated_at": "2026-05-08T09:06:59+00:00",
     "url": "https://jobs.dropbox.com/listing/7759731?gh_jid=7759731"
+  },
+  "958c6b7232cb52cabdbbfb828157a2d9": {
+    "company": "Reddit",
+    "created_at": "2026-05-10T09:11:45+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-10T09:11:45+00:00",
+        "from": "queued",
+        "note": "len=6819",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-10T09:11:45+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-05-reddit-senior-machine-learning-systems-engineer-958c6b",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Senior Machine Learning Systems Engineer",
+    "uid": "958c6b7232cb52cabdbbfb828157a2d9",
+    "updated_at": "2026-05-10T09:11:45+00:00",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7731772"
   },
   "97eb093e21c90786302cde0d9db7ba96": {
     "company": "Datavent",
@@ -2861,6 +3185,33 @@
     "updated_at": "2026-05-04T09:35:17+00:00",
     "url": "https://remotive.com/remote-jobs/software-development/senior-full-stack-react-developer-2088711"
   },
+  "c973884bf8b45690e0b74a74d9b31b87": {
+    "company": "Reddit",
+    "created_at": "2026-05-10T09:11:45+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-10T09:11:46+00:00",
+        "from": "queued",
+        "note": "len=8389",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-10T09:11:46+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-05-reddit-senior-staff-machine-learning-engineer-genai-platform-c97388",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Senior Staff Machine Learning Engineer, GenAI Platform",
+    "uid": "c973884bf8b45690e0b74a74d9b31b87",
+    "updated_at": "2026-05-10T09:11:46+00:00",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7772274"
+  },
   "cbb76f752dd2345d9c5fee979874ce88": {
     "company": "A.Team",
     "created_at": "2026-05-04T09:35:16+00:00",
@@ -3023,6 +3374,33 @@
     "updated_at": "2026-05-08T09:06:57+00:00",
     "url": "https://jobs.dropbox.com/listing/7789386?gh_jid=7789386"
   },
+  "d05a0b8eb84b085e59e61b3088743480": {
+    "company": "Reddit",
+    "created_at": "2026-05-10T09:11:47+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-10T09:11:48+00:00",
+        "from": "queued",
+        "note": "len=6818",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-10T09:11:48+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-05-reddit-staff-machine-learning-systems-engineer-d05a0b",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Staff Machine Learning Systems Engineer",
+    "uid": "d05a0b8eb84b085e59e61b3088743480",
+    "updated_at": "2026-05-10T09:11:48+00:00",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7731788"
+  },
   "d2c951c0fe59903966bfa760784e3852": {
     "company": "GitLab",
     "created_at": "2026-05-04T09:35:14+00:00",
@@ -3130,6 +3508,33 @@
     "uid": "dc43f6b2240463c67d4d1854054103fe",
     "updated_at": "2026-05-09T08:57:13+00:00",
     "url": "https://www.arbeitnow.com/jobs/companies/caspar-health/senior-backend-engineer-ror-all-identities-berlin-7147"
+  },
+  "ddba19bee6b7f02a00f17c0c00d8da69": {
+    "company": "Forge Global",
+    "created_at": "2026-05-10T09:11:44+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-10T09:11:44+00:00",
+        "from": "queued",
+        "note": "len=1911",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-10T09:11:44+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-09-forge-global-asset-administration-operations-specialist-ddba19",
+    "source": "RemoteOK",
+    "state": "error",
+    "title": "Asset Administration Operations Specialist",
+    "uid": "ddba19bee6b7f02a00f17c0c00d8da69",
+    "updated_at": "2026-05-10T09:11:44+00:00",
+    "url": "https://remoteOK.com/remote-jobs/remote-asset-administration-operations-specialist-forge-global-1131523"
   },
   "e3479f98820ca90b432d2c1e719ff80a": {
     "company": "GitLab",
