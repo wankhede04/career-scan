@@ -350,6 +350,27 @@
     "updated_at": "2026-05-05T09:26:37+00:00",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/7890096"
   },
+  "1078644c0fc4c2f98ef599963b6f90d2": {
+    "company": "Sanctuary Computer",
+    "created_at": "2026-05-11T10:46:47+00:00",
+    "error": "404 Client Error: Not Found for url: https://remotive.com/remote-jobs/software-development/senior-frontend-developer-2088707",
+    "history": [
+      {
+        "at": "2026-05-11T10:46:47+00:00",
+        "from": "queued",
+        "note": "404 Client Error: Not Found for url: https://remotive.com/remote-jobs/software-development/senior-frontend-developer-2088707",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-04-30-sanctuary-computer-senior-frontend-developer-107864",
+    "source": "Remotive",
+    "state": "error",
+    "title": "Senior Frontend Developer",
+    "uid": "1078644c0fc4c2f98ef599963b6f90d2",
+    "updated_at": "2026-05-11T10:46:47+00:00",
+    "url": "https://remotive.com/remote-jobs/software-development/senior-frontend-developer-2088707"
+  },
   "108b41f7d3b002eb382c58771b08e725": {
     "company": "Reddit",
     "created_at": "2026-05-06T09:40:31+00:00",
@@ -484,6 +505,60 @@
     "uid": "19ecd795f5a346f4be42d919c03babca",
     "updated_at": "2026-05-09T08:57:19+00:00",
     "url": "https://jobs.dropbox.com/listing/7551545?gh_jid=7551545"
+  },
+  "1ae9b7bd37ea72088719efa24a5ffbe2": {
+    "company": "Twilio",
+    "created_at": "2026-05-11T10:46:50+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-11T10:46:50+00:00",
+        "from": "queued",
+        "note": "len=9350",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-11T10:46:50+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-04-30-twilio-principal-product-manager-ai-llm-1ae9b7",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Principal, Product Manager - AI / LLM",
+    "uid": "1ae9b7bd37ea72088719efa24a5ffbe2",
+    "updated_at": "2026-05-11T10:46:50+00:00",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7619420"
+  },
+  "1b2a148ddacb2c196edc284fb271aff3": {
+    "company": "Twilio",
+    "created_at": "2026-05-11T10:46:47+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-11T10:46:47+00:00",
+        "from": "queued",
+        "note": "len=2654",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-11T10:46:47+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-04-twilio-senior-software-engineer-l3-full-stack-1b2a14",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Senior Software Engineer (L3) - Full Stack",
+    "uid": "1b2a148ddacb2c196edc284fb271aff3",
+    "updated_at": "2026-05-11T10:46:47+00:00",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7738955"
   },
   "1c0760906f2c620ade65ef3bbc62b9d2": {
     "company": "Reddit",
@@ -809,6 +884,33 @@
     "updated_at": "2026-05-10T09:11:45+00:00",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/7275414"
   },
+  "353c5dc8c22c3706460d5803f9835d9d": {
+    "company": "Twilio",
+    "created_at": "2026-05-11T10:46:51+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-11T10:46:51+00:00",
+        "from": "queued",
+        "note": "len=10135",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-11T10:46:51+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-04-30-twilio-staff-data-scientist-353c5d",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Staff Data Scientist",
+    "uid": "353c5dc8c22c3706460d5803f9835d9d",
+    "updated_at": "2026-05-11T10:46:51+00:00",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7821458"
+  },
   "369e5e9512879e02e07420b2c672d8a5": {
     "company": "Civitech",
     "created_at": "2026-05-09T08:57:15+00:00",
@@ -1079,6 +1181,33 @@
     "updated_at": "2026-05-03T09:00:57+00:00",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8478364002"
   },
+  "4648383549fb285746cbfe1ef71720b3": {
+    "company": "Twilio",
+    "created_at": "2026-05-11T10:46:50+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-11T10:46:51+00:00",
+        "from": "queued",
+        "note": "len=10014",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-11T10:46:51+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-04-30-twilio-senior-manager-machine-learning-464838",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Senior Manager, Machine Learning",
+    "uid": "4648383549fb285746cbfe1ef71720b3",
+    "updated_at": "2026-05-11T10:46:51+00:00",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7066029"
+  },
   "46a3f8b8e9eeb71a5b8ea5dbaf9999da": {
     "company": "GitLab",
     "created_at": "2026-05-02T08:48:16+00:00",
@@ -1159,6 +1288,33 @@
     "uid": "4a31c3ea600fd2daa24c90b088fda000",
     "updated_at": "2026-05-01T09:16:21+00:00",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8481922002"
+  },
+  "4e4b38492e03689480d0ee6595b25dda": {
+    "company": "Twilio",
+    "created_at": "2026-05-11T10:46:48+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-11T10:46:49+00:00",
+        "from": "queued",
+        "note": "len=8584",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-11T10:46:49+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-04-30-twilio-machine-learning-engineer-4e4b38",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Machine Learning Engineer",
+    "uid": "4e4b38492e03689480d0ee6595b25dda",
+    "updated_at": "2026-05-11T10:46:49+00:00",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7059734"
   },
   "4f0ddc894885265e8282d5979e86a2fd": {
     "company": "Zensurance",
@@ -1375,6 +1531,33 @@
     "uid": "597debffa8818fae6c52b3584112b533",
     "updated_at": "2026-05-07T10:00:27+00:00",
     "url": "https://jobs.dropbox.com/listing/7569145?gh_jid=7569145"
+  },
+  "5a319633d3d42a8e4e59d3589026d34f": {
+    "company": "Reddit",
+    "created_at": "2026-05-11T10:46:48+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-11T10:46:48+00:00",
+        "from": "queued",
+        "note": "len=7515",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-11T10:46:48+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-04-30-reddit-senior-staff-ml-engineer-search-recommendation-5a3196",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Senior Staff ML Engineer, Search & Recommendation",
+    "uid": "5a319633d3d42a8e4e59d3589026d34f",
+    "updated_at": "2026-05-11T10:46:48+00:00",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7833622"
   },
   "5b8d3a9ff3feb27ec64765d9282b8b6f": {
     "company": "DatAds",
@@ -1672,6 +1855,33 @@
     "uid": "68f930fee19726d21a21f25034bcf688",
     "updated_at": "2026-05-07T10:00:21+00:00",
     "url": "https://www.arbeitnow.com/jobs/companies/datasmart-point-gmbh/karrierestart-in-data-ai-ihk-data-analyst-100-online-berlin-138911"
+  },
+  "6afe9ca92763a18fc74beba72d6a64d9": {
+    "company": "Twilio",
+    "created_at": "2026-05-11T10:46:49+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-11T10:46:49+00:00",
+        "from": "queued",
+        "note": "len=10310",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-11T10:46:49+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-04-30-twilio-machine-learning-engineer-6afe9c",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Machine Learning Engineer",
+    "uid": "6afe9ca92763a18fc74beba72d6a64d9",
+    "updated_at": "2026-05-11T10:46:49+00:00",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7702644"
   },
   "6b2eac4dafe21e125bf659f013bfb083": {
     "company": "DataSmart Point GmbH",
@@ -2618,6 +2828,33 @@
     "updated_at": "2026-05-01T09:16:21+00:00",
     "url": "https://weworkremotely.com/remote-jobs/visualis-senior-full-stack-developer"
   },
+  "a8e8c51d2d3111dfcbe5906c3ebb8a18": {
+    "company": "Twilio",
+    "created_at": "2026-05-11T10:46:50+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-11T10:46:50+00:00",
+        "from": "queued",
+        "note": "len=8457",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-11T10:46:50+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-04-30-twilio-product-engineer-backend-a8e8c5",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Product Engineer (Backend)",
+    "uid": "a8e8c51d2d3111dfcbe5906c3ebb8a18",
+    "updated_at": "2026-05-11T10:46:50+00:00",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7671815"
+  },
   "a9230004830ddd4dd7a2c2d7a50da7ae": {
     "company": "GitLab",
     "created_at": "2026-05-01T09:16:21+00:00",
@@ -2996,6 +3233,33 @@
     "updated_at": "2026-05-09T08:57:21+00:00",
     "url": "https://jobs.dropbox.com/listing/7421153?gh_jid=7421153"
   },
+  "bb4a06320fac36aa27b59deffa4fd09e": {
+    "company": "Yoffix",
+    "created_at": "2026-05-11T10:46:45+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-11T10:46:46+00:00",
+        "from": "queued",
+        "note": "len=8610",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-11T10:46:46+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-11-yoffix-senior-full-stack-engineer-product-ownership-operations-bb4a06",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "Senior Full Stack Engineer (Product Ownership & Operations)",
+    "uid": "bb4a06320fac36aa27b59deffa4fd09e",
+    "updated_at": "2026-05-11T10:46:46+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/yoffix/senior-full-stack-engineer-product-ownership-operations-berlin-437578"
+  },
   "bbe72c3ca3cfb8cb97fc2b4f3634250a": {
     "company": "GitLab",
     "created_at": "2026-05-03T09:00:56+00:00",
@@ -3049,6 +3313,33 @@
     "uid": "bc48c81b5015a68cc8ec895afdb00f62",
     "updated_at": "2026-05-01T09:16:18+00:00",
     "url": "https://www.arbeitnow.com/jobs/companies/dexter-health/python-backend-engineer-remote-cologne-34228"
+  },
+  "bf34d112e54483ec222c9bdae6021b03": {
+    "company": "Reddit",
+    "created_at": "2026-05-11T10:46:46+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-11T10:46:47+00:00",
+        "from": "queued",
+        "note": "len=7267",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-11T10:46:47+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-04-reddit-staff-machine-learning-engineer-ai-serving-bf34d1",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Staff Machine Learning Engineer, AI Serving",
+    "uid": "bf34d112e54483ec222c9bdae6021b03",
+    "updated_at": "2026-05-11T10:46:47+00:00",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7886459"
   },
   "c1a70059d78d876490eed5265584746e": {
     "company": "",
@@ -3536,6 +3827,33 @@
     "updated_at": "2026-05-10T09:11:44+00:00",
     "url": "https://remoteOK.com/remote-jobs/remote-asset-administration-operations-specialist-forge-global-1131523"
   },
+  "e07ea6f0377d32fe01b53702492d452d": {
+    "company": "Reddit",
+    "created_at": "2026-05-11T10:46:47+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-11T10:46:48+00:00",
+        "from": "queued",
+        "note": "len=7704",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-11T10:46:48+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-04-30-reddit-machine-learning-manager-notifications-relevance-e07ea6",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Machine Learning Manager, Notifications Relevance",
+    "uid": "e07ea6f0377d32fe01b53702492d452d",
+    "updated_at": "2026-05-11T10:46:48+00:00",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7846885"
+  },
   "e3479f98820ca90b432d2c1e719ff80a": {
     "company": "GitLab",
     "created_at": "2026-05-04T09:35:13+00:00",
@@ -3616,6 +3934,33 @@
     "uid": "e48d931a9bb3cdcb4207b62ee1c20939",
     "updated_at": "2026-05-04T09:35:14+00:00",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8480559002"
+  },
+  "e62c914cd0c93a529bf4627c3dc2f9e4": {
+    "company": "Parto Group GmbH",
+    "created_at": "2026-05-11T10:46:44+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-11T10:46:45+00:00",
+        "from": "queued",
+        "note": "len=8715",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-11T10:46:45+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-11-parto-group-gmbh-senior-sofrware-engineer-full-stack-e62c91",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "Senior Sofrware Engineer - Full Stack",
+    "uid": "e62c914cd0c93a529bf4627c3dc2f9e4",
+    "updated_at": "2026-05-11T10:46:45+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/parto-group-gmbh/senior-sofrware-engineer-full-stack-hamburg-207489"
   },
   "e71d3d074df964159c4ce529ff5cb3a5": {
     "company": "GitLab",
@@ -3887,6 +4232,33 @@
     "updated_at": "2026-05-07T10:00:29+00:00",
     "url": "https://jobs.dropbox.com/listing/7789389?gh_jid=7789389"
   },
+  "f8b171008a1deda5e2b1df78f0e9ebca": {
+    "company": "Twilio",
+    "created_at": "2026-05-11T10:46:49+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-11T10:46:50+00:00",
+        "from": "queued",
+        "note": "len=9311",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-11T10:46:50+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-04-30-twilio-principal-machine-learning-data-engineer-f8b171",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Principal Machine Learning & Data Engineer",
+    "uid": "f8b171008a1deda5e2b1df78f0e9ebca",
+    "updated_at": "2026-05-11T10:46:50+00:00",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7155492"
+  },
   "fb3cb7cdfcf39405b4bf8a2f05e0b0e5": {
     "company": "Reddit",
     "created_at": "2026-05-02T08:48:14+00:00",
@@ -3913,6 +4285,27 @@
     "uid": "fb3cb7cdfcf39405b4bf8a2f05e0b0e5",
     "updated_at": "2026-05-02T08:48:14+00:00",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/7848689"
+  },
+  "fd04658addcc159e553fb96b30ea1b18": {
+    "company": "Chooose",
+    "created_at": "2026-05-11T10:46:47+00:00",
+    "error": "404 Client Error: Not Found for url: https://remotive.com/remote-jobs/software-development/fullstack-developer-us-et-2088706",
+    "history": [
+      {
+        "at": "2026-05-11T10:46:47+00:00",
+        "from": "queued",
+        "note": "404 Client Error: Not Found for url: https://remotive.com/remote-jobs/software-development/fullstack-developer-us-et-2088706",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-04-30-chooose-fullstack-developer-us-et-fd0465",
+    "source": "Remotive",
+    "state": "error",
+    "title": "Fullstack Developer (US - ET)",
+    "uid": "fd04658addcc159e553fb96b30ea1b18",
+    "updated_at": "2026-05-11T10:46:47+00:00",
+    "url": "https://remotive.com/remote-jobs/software-development/fullstack-developer-us-et-2088706"
   },
   "fd59efb6017c131dba269096bc6151fe": {
     "company": "Valon Mortgage",
