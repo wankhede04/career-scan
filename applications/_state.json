@@ -1,4 +1,31 @@
 {
+  "000495be95a17717938692a1b9ad1cf7": {
+    "company": "yourMAIL GmbH",
+    "created_at": "2026-05-12T10:03:49+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-12T10:03:49+00:00",
+        "from": "queued",
+        "note": "len=12061",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-12T10:03:49+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-04-30-yourmail-gmbh-senior-frontend-entwickler-in-react-typescript-100-remote-ki-000495",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "Senior Frontend-Entwickler:in React / TypeScript, 100 % Remote, KI-First",
+    "uid": "000495be95a17717938692a1b9ad1cf7",
+    "updated_at": "2026-05-12T10:03:49+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/yourmail-gmbh/senior-frontend-entwicklerin-react-typescript-100-remote-ki-first-berlin-288218"
+  },
   "0399b743af719613eccb40b27dcd3d25": {
     "company": "Sidestream",
     "created_at": "2026-05-08T09:06:52+00:00",
@@ -25,6 +52,33 @@
     "uid": "0399b743af719613eccb40b27dcd3d25",
     "updated_at": "2026-05-08T09:06:52+00:00",
     "url": "https://www.arbeitnow.com/jobs/companies/sidestream/senior-typescript-developer-cologne-220463"
+  },
+  "041c3aebf0ee3e9c06b60ccdb4b44211": {
+    "company": "sync.blue\u00ae GmbH",
+    "created_at": "2026-05-12T10:03:47+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-12T10:03:47+00:00",
+        "from": "queued",
+        "note": "len=8043",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-12T10:03:47+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-04-30-sync-blue-gmbh-senior-python-developer-django-m-w-d-041c3a",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "Senior Python Developer - Django (m/w/d)",
+    "uid": "041c3aebf0ee3e9c06b60ccdb4b44211",
+    "updated_at": "2026-05-12T10:03:47+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/syncblue-gmbh/senior-python-developer-django-haltern-am-see-16238"
   },
   "04ade1d971e00d1c1da18b47d203f743": {
     "company": "GitLab",
@@ -451,6 +505,27 @@
     "uid": "12837f93d970e090a611fedcb40bd787",
     "updated_at": "2026-05-02T08:48:15+00:00",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8463951002"
+  },
+  "1468ea18464755dc969394ffc2533226": {
+    "company": "Immovara GmbH",
+    "created_at": "2026-05-12T10:03:53+00:00",
+    "error": "410 Client Error: Gone for url: https://www.arbeitnow.com/jobs/companies/immovara-gmbh/laravel-developer-ai-first-proptech-korntal-munchingen-471269",
+    "history": [
+      {
+        "at": "2026-05-12T10:03:53+00:00",
+        "from": "queued",
+        "note": "410 Client Error: Gone for url: https://www.arbeitnow.com/jobs/companies/immovara-gmbh/laravel-developer-ai-first-proptech-korntal-munchingen-471269",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-04-30-immovara-gmbh-laravel-developer-m-w-d-ai-first-proptech-1468ea",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "Laravel Developer (m/w/d) - AI-First PropTech",
+    "uid": "1468ea18464755dc969394ffc2533226",
+    "updated_at": "2026-05-12T10:03:53+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/immovara-gmbh/laravel-developer-ai-first-proptech-korntal-munchingen-471269"
   },
   "185efa1096a393de400ad8e08da001d2": {
     "company": "Stripe",
@@ -1019,6 +1094,33 @@
     "updated_at": "2026-05-04T09:35:16+00:00",
     "url": "https://remotive.com/remote-jobs/artificial-intelligence/ai-engineer-2089958"
   },
+  "39984ab70e85ebb5494e91a40bcaace6": {
+    "company": "nexamind GmbH",
+    "created_at": "2026-05-12T10:03:47+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-12T10:03:48+00:00",
+        "from": "queued",
+        "note": "len=7198",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-12T10:03:48+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-04-30-nexamind-gmbh-freelance-senior-ai-product-manager-39984a",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "Freelance Senior AI Product Manager",
+    "uid": "39984ab70e85ebb5494e91a40bcaace6",
+    "updated_at": "2026-05-12T10:03:48+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/nexamind-gmbh/freelance-senior-ai-product-manager-berlin-73613"
+  },
   "3b3b4e618344263fb4d686fb319eb43c": {
     "company": "Akuity",
     "created_at": "2026-05-07T10:00:23+00:00",
@@ -1126,6 +1228,60 @@
     "uid": "4313c75dd9e4b39fb11cc0720f1eea58",
     "updated_at": "2026-05-07T10:00:27+00:00",
     "url": "https://jobs.dropbox.com/listing/7569140?gh_jid=7569140"
+  },
+  "4326244119c47e0271933467eb4194d4": {
+    "company": "Twilio",
+    "created_at": "2026-05-12T10:03:46+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-12T10:03:47+00:00",
+        "from": "queued",
+        "note": "len=8594",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-12T10:03:47+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-04-30-twilio-staff-machine-learning-engineer-432624",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Staff Machine Learning Engineer",
+    "uid": "4326244119c47e0271933467eb4194d4",
+    "updated_at": "2026-05-12T10:03:47+00:00",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7061880"
+  },
+  "43f7ef046fee2d7a1c1e2a0217aa134b": {
+    "company": "yourMAIL GmbH",
+    "created_at": "2026-05-12T10:03:48+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-12T10:03:49+00:00",
+        "from": "queued",
+        "note": "len=12932",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-12T10:03:49+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-04-30-yourmail-gmbh-senior-full-stack-entwickler-in-react-typescript-net-100-rem-43f7ef",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "Senior Full-Stack-Entwickler:in React / TypeScript / .NET  100 % Remote, KI-First",
+    "uid": "43f7ef046fee2d7a1c1e2a0217aa134b",
+    "updated_at": "2026-05-12T10:03:49+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/yourmail-gmbh/senior-full-stack-entwicklerin-react-typescript-net-100-remote-ki-first-berlin-21152"
   },
   "45636d720617ac8d49ac4386069f76cf": {
     "company": "Reddit",
@@ -1478,6 +1634,33 @@
     "updated_at": "2026-05-05T09:26:33+00:00",
     "url": "https://stripe.com/jobs/search?gh_jid=7292520"
   },
+  "551aff47c9f5bdf87913584d2971cab3": {
+    "company": "FNTIO",
+    "created_at": "2026-05-12T10:03:49+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-12T10:03:50+00:00",
+        "from": "queued",
+        "note": "len=8126",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-12T10:03:50+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-04-30-fntio-full-stack-entwickler-m-w-d-net-100-remote-551aff",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "Full-Stack Entwickler (m/w/d) - .NET 100% Remote",
+    "uid": "551aff47c9f5bdf87913584d2971cab3",
+    "updated_at": "2026-05-12T10:03:50+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/fntio/full-stack-entwickler-net-100-remote-frankfurt-am-main-122380"
+  },
   "58b8ab13cd9c9f0cea84991d0f8db54a": {
     "company": "Stripe",
     "created_at": "2026-05-05T09:26:32+00:00",
@@ -1693,6 +1876,33 @@
     "uid": "60dbd676b5ca7f9d7bf45570417743eb",
     "updated_at": "2026-05-03T09:00:57+00:00",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8490477002"
+  },
+  "60e8afa35a998b1b780e8c0bcdfe745c": {
+    "company": "Twilio",
+    "created_at": "2026-05-12T10:03:46+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-12T10:03:46+00:00",
+        "from": "queued",
+        "note": "len=8979",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-12T10:03:46+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-04-30-twilio-staff-data-scientist-l4-gtm-data-science-analytics-60e8af",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Staff, Data Scientist (L4) GTM Data Science & Analytics",
+    "uid": "60e8afa35a998b1b780e8c0bcdfe745c",
+    "updated_at": "2026-05-12T10:03:46+00:00",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7851920"
   },
   "6226f86866fffaa2053f4d413b290782": {
     "company": "GitLab",
@@ -1964,6 +2174,33 @@
     "updated_at": "2026-05-09T08:57:13+00:00",
     "url": "https://www.arbeitnow.com/jobs/companies/voffice-software/senior-cloud-software-engineer-typescript-aws-hamburg-431856"
   },
+  "6d03849dd1f06e5ff7fb8f96d30ff527": {
+    "company": "Unikraft",
+    "created_at": "2026-05-12T10:03:46+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-12T10:03:46+00:00",
+        "from": "queued",
+        "note": "len=317",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-12T10:03:46+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-11-unikraft-tooling-engineer-6d0384",
+    "source": "RemoteOK",
+    "state": "error",
+    "title": "Tooling Engineer",
+    "uid": "6d03849dd1f06e5ff7fb8f96d30ff527",
+    "updated_at": "2026-05-12T10:03:46+00:00",
+    "url": "https://remoteOK.com/remote-jobs/remote-tooling-engineer-unikraft-1131540"
+  },
   "70f8fca4d8f10f8a0495019f3a2668d2": {
     "company": "Reddit",
     "created_at": "2026-05-10T09:11:45+00:00",
@@ -2152,6 +2389,60 @@
     "uid": "7d2d736777638c8d1a50f4beecd7a7e6",
     "updated_at": "2026-05-01T09:16:22+00:00",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8481929002"
+  },
+  "7e2724095370be63349bfd93f070d7c4": {
+    "company": "BMF Media Information Technology GmbH",
+    "created_at": "2026-05-12T10:03:51+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-12T10:03:51+00:00",
+        "from": "queued",
+        "note": "len=8738",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-12T10:03:51+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-04-30-bmf-media-information-te-technical-data-manager-m-w-d-7e2724",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "Technical Data Manager (m/w/d)",
+    "uid": "7e2724095370be63349bfd93f070d7c4",
+    "updated_at": "2026-05-12T10:03:51+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/bmf-media-information-technology-gmbh/technical-data-manager-augsburg-42188"
+  },
+  "7e2b7e8d9a735dfa3d1f269a2769ea8c": {
+    "company": "loyos bi GmbH",
+    "created_at": "2026-05-12T10:03:51+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-12T10:03:52+00:00",
+        "from": "queued",
+        "note": "len=9256",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-12T10:03:52+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-04-30-loyos-bi-gmbh-data-integration-api-engineer-m-w-d-bi-data-automation-7e2b7e",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "Data Integration & API Engineer m/w/d - Bi & Data Automation",
+    "uid": "7e2b7e8d9a735dfa3d1f269a2769ea8c",
+    "updated_at": "2026-05-12T10:03:52+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/loyos-bi-gmbh/data-integration-api-engineer-bi-data-automation-hamburg-66228"
   },
   "828d819422f69ec7f7988619496b7e73": {
     "company": "GitLab",
@@ -3476,6 +3767,33 @@
     "updated_at": "2026-05-04T09:35:17+00:00",
     "url": "https://remotive.com/remote-jobs/software-development/senior-full-stack-react-developer-2088711"
   },
+  "c88b3fbfdccdb9805d07610ba130cfaf": {
+    "company": "Coding Partners",
+    "created_at": "2026-05-12T10:03:52+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-12T10:03:53+00:00",
+        "from": "queued",
+        "note": "len=8566",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-12T10:03:53+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-04-30-coding-partners-senior-full-stack-engineer-c88b3f",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "Senior Full Stack Engineer",
+    "uid": "c88b3fbfdccdb9805d07610ba130cfaf",
+    "updated_at": "2026-05-12T10:03:53+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/coding-partners/senior-full-stack-engineer-berlin-391720"
+  },
   "c973884bf8b45690e0b74a74d9b31b87": {
     "company": "Reddit",
     "created_at": "2026-05-10T09:11:45+00:00",
@@ -3881,6 +4199,33 @@
     "updated_at": "2026-05-04T09:35:13+00:00",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8432235002"
   },
+  "e37e915430966565a8df9beeb8975d37": {
+    "company": "Twilio",
+    "created_at": "2026-05-12T10:03:47+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-12T10:03:47+00:00",
+        "from": "queued",
+        "note": "len=7071",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-12T10:03:47+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-04-30-twilio-staff-machine-learning-engineer-l4-e37e91",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Staff Machine Learning Engineer (L4)",
+    "uid": "e37e915430966565a8df9beeb8975d37",
+    "updated_at": "2026-05-12T10:03:47+00:00",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7520997"
+  },
   "e46e0a305b2912109b54f44b3bf060e1": {
     "company": "citema systems GmbH",
     "created_at": "2026-05-09T08:57:14+00:00",
@@ -4124,6 +4469,33 @@
     "updated_at": "2026-05-02T08:48:14+00:00",
     "url": "https://weworkremotely.com/remote-jobs/dropbox-staff-fullstack-product-software-engineer-dash"
   },
+  "f22d6db91e747448061665b5afb83ed7": {
+    "company": "Phantasma Labs",
+    "created_at": "2026-05-12T10:03:50+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-12T10:03:51+00:00",
+        "from": "queued",
+        "note": "len=7848",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-12T10:03:51+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-04-30-phantasma-labs-machine-learning-engineer-f22d6d",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "Machine Learning Engineer",
+    "uid": "f22d6db91e747448061665b5afb83ed7",
+    "updated_at": "2026-05-12T10:03:51+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/phantasma-labs/machine-learning-engineer-berlin-303955"
+  },
   "f3a05c76b32bb54b0fc8ba6446edc79e": {
     "company": "StellDirVor GmbH",
     "created_at": "2026-05-07T10:00:22+00:00",
@@ -4177,6 +4549,33 @@
     "uid": "f3a433c63febd2f4c933839b4d894963",
     "updated_at": "2026-05-02T08:48:17+00:00",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8514945002"
+  },
+  "f4f2530f5677ebfb7a4d89c5cf72961b": {
+    "company": "Wintama IT Solutions GmbH",
+    "created_at": "2026-05-12T10:03:45+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-12T10:03:46+00:00",
+        "from": "queued",
+        "note": "len=6592",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-12T10:03:46+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-12-wintama-it-solutions-gmb-senior-frontend-developer-in-angular-f4f253",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "Senior Frontend Developer:in (Angular)",
+    "uid": "f4f2530f5677ebfb7a4d89c5cf72961b",
+    "updated_at": "2026-05-12T10:03:46+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/wintama-it-solutions-gmbh/senior-frontend-developerin-angular-grunwald-41193"
   },
   "f58448219777c17c1ef1af4547c47f85": {
     "company": "Datadog",
