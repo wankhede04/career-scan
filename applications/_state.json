@@ -26,6 +26,33 @@
     "updated_at": "2026-05-12T10:03:49+00:00",
     "url": "https://www.arbeitnow.com/jobs/companies/yourmail-gmbh/senior-frontend-entwicklerin-react-typescript-100-remote-ki-first-berlin-288218"
   },
+  "007e13504d2992e4ab799036b720edbf": {
+    "company": "TecFox GmbH",
+    "created_at": "2026-05-15T10:01:32+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-15T10:01:33+00:00",
+        "from": "queued",
+        "note": "len=8878",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-15T10:01:33+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-15-tecfox-gmbh-frontend-softwareentwickler-m-w-d-007e13",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "Frontend Softwareentwickler (m/w/d)",
+    "uid": "007e13504d2992e4ab799036b720edbf",
+    "updated_at": "2026-05-15T10:01:33+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/frontend-softwareentwickler-braunschweig-490712"
+  },
   "0399b743af719613eccb40b27dcd3d25": {
     "company": "Sidestream",
     "created_at": "2026-05-08T09:06:52+00:00",
@@ -106,6 +133,33 @@
     "uid": "04ade1d971e00d1c1da18b47d203f743",
     "updated_at": "2026-05-03T09:00:55+00:00",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8480544002"
+  },
+  "0529f8531e4857fdc0b068d97a15d5e3": {
+    "company": "",
+    "created_at": "2026-05-15T10:01:33+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-15T10:01:35+00:00",
+        "from": "queued",
+        "note": "len=18000",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-15T10:01:35+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-14-company-senior-full-stack-react-developer-0529f8",
+    "source": "WorkingNomads",
+    "state": "error",
+    "title": "Senior Full-stack React Developer",
+    "uid": "0529f8531e4857fdc0b068d97a15d5e3",
+    "updated_at": "2026-05-15T10:01:35+00:00",
+    "url": "https://www.workingnomads.com/job/go/1603178/"
   },
   "0541072ea59bb8ea1b59ebe1263c670f": {
     "company": "GitLab",
@@ -1282,6 +1336,33 @@
     "uid": "3cb30e5f5e20af07c0bf388971a5398e",
     "updated_at": "2026-05-06T09:40:32+00:00",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/7607121"
+  },
+  "412c4e6ad5172978a3905c8d89c3cbf3": {
+    "company": "TecFox GmbH",
+    "created_at": "2026-05-15T10:01:33+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-15T10:01:33+00:00",
+        "from": "queued",
+        "note": "len=9745",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-15T10:01:33+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-15-tecfox-gmbh-fullstack-softwareentwickler-m-w-d-412c4e",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "Fullstack Softwareentwickler (m/w/d)",
+    "uid": "412c4e6ad5172978a3905c8d89c3cbf3",
+    "updated_at": "2026-05-15T10:01:33+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/fullstack-softwareentwickler-braunschweig-198406"
   },
   "4198b3037958023c1486e0640a5fed90": {
     "company": "Sidestream",
@@ -2552,6 +2633,27 @@
     "updated_at": "2026-05-08T09:06:56+00:00",
     "url": "https://jobs.dropbox.com/listing/7729761?gh_jid=7729761"
   },
+  "739be5eb438828525502081aa59da561": {
+    "company": "",
+    "created_at": "2026-05-15T10:01:35+00:00",
+    "error": "empty JD extracted from https://www.workingnomads.com/job/go/1603041/",
+    "history": [
+      {
+        "at": "2026-05-15T10:01:36+00:00",
+        "from": "queued",
+        "note": "empty JD extracted from https://www.workingnomads.com/job/go/1603041/",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-14-company-software-engineer-739be5",
+    "source": "WorkingNomads",
+    "state": "error",
+    "title": "Software engineer",
+    "uid": "739be5eb438828525502081aa59da561",
+    "updated_at": "2026-05-15T10:01:36+00:00",
+    "url": "https://www.workingnomads.com/job/go/1603041/"
+  },
   "748df7226f0aa1b07deaff419a96e897": {
     "company": "Reddit",
     "created_at": "2026-05-10T09:11:47+00:00",
@@ -3248,6 +3350,33 @@
     "updated_at": "2026-05-13T10:02:27+00:00",
     "url": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/fullstack-softwareentwickler-braunschweig-405178"
   },
+  "94c29ecd6eaf445eeb5f9c04ad79fe0b": {
+    "company": "Kalepa",
+    "created_at": "2026-05-15T10:01:33+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-15T10:01:33+00:00",
+        "from": "queued",
+        "note": "len=2427",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-15T10:01:33+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-14-kalepa-staff-backend-engineer-core-product-94c29e",
+    "source": "RemoteOK",
+    "state": "error",
+    "title": "Staff Backend Engineer Core Product",
+    "uid": "94c29ecd6eaf445eeb5f9c04ad79fe0b",
+    "updated_at": "2026-05-15T10:01:33+00:00",
+    "url": "https://remoteOK.com/remote-jobs/remote-staff-backend-engineer-core-product-kalepa-1131586"
+  },
   "958c6b7232cb52cabdbbfb828157a2d9": {
     "company": "Reddit",
     "created_at": "2026-05-10T09:11:45+00:00",
@@ -3463,6 +3592,33 @@
     "uid": "9ea9feb74e999a7f118d8e5c3985bcba",
     "updated_at": "2026-05-09T08:57:20+00:00",
     "url": "https://jobs.dropbox.com/listing/7421150?gh_jid=7421150"
+  },
+  "9efd307eaaac73657e67f9d908d4cf3d": {
+    "company": "Expion Health",
+    "created_at": "2026-05-15T10:01:30+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-15T10:01:31+00:00",
+        "from": "queued",
+        "note": "len=12134",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-15T10:01:31+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-15-expion-health-business-transformation-lead-9efd30",
+    "source": "Remotive",
+    "state": "error",
+    "title": "Business Transformation Lead",
+    "uid": "9efd307eaaac73657e67f9d908d4cf3d",
+    "updated_at": "2026-05-15T10:01:31+00:00",
+    "url": "https://remotive.com/remote-jobs/artificial-intelligence/business-transformation-lead-2090881"
   },
   "9f11abe3416703b23de22c90735f84dc": {
     "company": "Dropbox",
@@ -5083,6 +5239,33 @@
     "uid": "ef467d019deca6c20b178ee6f6b2812e",
     "updated_at": "2026-05-02T08:48:14+00:00",
     "url": "https://weworkremotely.com/remote-jobs/dropbox-staff-fullstack-product-software-engineer-dash"
+  },
+  "f06e02e18f651e7cebd0a0d366816f75": {
+    "company": "",
+    "created_at": "2026-05-15T10:01:31+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-15T10:01:32+00:00",
+        "from": "queued",
+        "note": "len=466",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-15T10:01:32+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-15-company-lemon-io-senior-full-stack-angular-php-developer-f06e02",
+    "source": "WeWorkRemotely",
+    "state": "error",
+    "title": "Lemon.io: Senior Full-stack Angular & PHP Developer",
+    "uid": "f06e02e18f651e7cebd0a0d366816f75",
+    "updated_at": "2026-05-15T10:01:32+00:00",
+    "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-full-stack-angular-php-developer"
   },
   "f09507c071e61e9b0ba20feeb3ae3b7c": {
     "company": "Stone",
