@@ -587,6 +587,33 @@
     "updated_at": "2026-05-02T08:48:15+00:00",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8463951002"
   },
+  "1386237974951af9c5a7d0c27f70dbfd": {
+    "company": "Reddit",
+    "created_at": "2026-05-16T09:10:22+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-16T09:10:23+00:00",
+        "from": "queued",
+        "note": "len=4115",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-16T09:10:23+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-15-reddit-senior-data-scientist-consumer-138623",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Senior Data Scientist, Consumer",
+    "uid": "1386237974951af9c5a7d0c27f70dbfd",
+    "updated_at": "2026-05-16T09:10:23+00:00",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7931049"
+  },
   "1468ea18464755dc969394ffc2533226": {
     "company": "Immovara GmbH",
     "created_at": "2026-05-12T10:03:53+00:00",
@@ -2039,6 +2066,33 @@
     "updated_at": "2026-05-10T09:11:44+00:00",
     "url": "https://www.arbeitnow.com/jobs/companies/datads/full-stack-software-engineer-backend-frontend-bootstrapped-saas-startup-remote-in-eu-cologne-266336"
   },
+  "5d49ee153b91c0ff2714c3fb1603882a": {
+    "company": "Dropbox",
+    "created_at": "2026-05-16T09:10:23+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-16T09:10:25+00:00",
+        "from": "queued",
+        "note": "len=15117",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-16T09:10:25+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-15-dropbox-staff-fullstack-software-engineer-core-performance-5d49ee",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Staff Fullstack Software Engineer, Core Performance",
+    "uid": "5d49ee153b91c0ff2714c3fb1603882a",
+    "updated_at": "2026-05-16T09:10:25+00:00",
+    "url": "https://jobs.dropbox.com/listing/7421149?gh_jid=7421149"
+  },
   "5dea3c5de8a8ddaf1fa41fdd08eb7e6b": {
     "company": "A.Team",
     "created_at": "2026-05-04T09:35:16+00:00",
@@ -3296,6 +3350,33 @@
     "updated_at": "2026-05-07T10:00:23+00:00",
     "url": "https://remoteOK.com/remote-jobs/remote-medical-affairs-solutions-manager-uk-sorcero-1131475"
   },
+  "920272118a85ebd0784362492b65f1c2": {
+    "company": "Reddit",
+    "created_at": "2026-05-16T09:10:23+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-16T09:10:23+00:00",
+        "from": "queued",
+        "note": "len=7286",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-16T09:10:23+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-15-reddit-staff-data-scientist-consumer-920272",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Staff Data Scientist, Consumer",
+    "uid": "920272118a85ebd0784362492b65f1c2",
+    "updated_at": "2026-05-16T09:10:23+00:00",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7931007"
+  },
   "920d3d4a0c8d6d6eebc615f80c87647f": {
     "company": "Dropbox",
     "created_at": "2026-05-08T09:06:59+00:00",
@@ -3727,6 +3808,33 @@
     "uid": "a5c38f82c7ceccdef39e11f9afba249c",
     "updated_at": "2026-05-01T09:16:21+00:00",
     "url": "https://weworkremotely.com/remote-jobs/visualis-senior-full-stack-developer"
+  },
+  "a82488afe5e08a600dba5dc49d05ada2": {
+    "company": "Reddit",
+    "created_at": "2026-05-16T09:10:23+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-16T09:10:23+00:00",
+        "from": "queued",
+        "note": "len=8528",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-16T09:10:23+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-15-reddit-staff-data-scientist-marketing-a82488",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Staff Data Scientist, Marketing",
+    "uid": "a82488afe5e08a600dba5dc49d05ada2",
+    "updated_at": "2026-05-16T09:10:23+00:00",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7931000"
   },
   "a8e8c51d2d3111dfcbe5906c3ebb8a18": {
     "company": "Twilio",
