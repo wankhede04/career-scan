@@ -2606,6 +2606,33 @@
     "updated_at": "2026-05-12T10:03:46+00:00",
     "url": "https://remoteOK.com/remote-jobs/remote-tooling-engineer-unikraft-1131540"
   },
+  "6d5c91d1a36d9dab748d2f89574acaf2": {
+    "company": "Cohere",
+    "created_at": "2026-05-17T09:17:51+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-17T09:17:51+00:00",
+        "from": "queued",
+        "note": "len=4196",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-17T09:17:51+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-16-cohere-forward-deployed-engineer-agentic-platform-6d5c91",
+    "source": "RemoteOK",
+    "state": "error",
+    "title": "Forward Deployed Engineer Agentic Platform",
+    "uid": "6d5c91d1a36d9dab748d2f89574acaf2",
+    "updated_at": "2026-05-17T09:17:51+00:00",
+    "url": "https://remoteOK.com/remote-jobs/remote-forward-deployed-engineer-agentic-platform-cohere-1131611"
+  },
   "70f8fca4d8f10f8a0495019f3a2668d2": {
     "company": "Reddit",
     "created_at": "2026-05-10T09:11:45+00:00",
@@ -3754,6 +3781,33 @@
     "uid": "9f9e34ca0d99a72cdf39e92a8f4b0921",
     "updated_at": "2026-05-13T10:02:31+00:00",
     "url": "https://weworkremotely.com/remote-jobs/wing-assistant-full-stack-developer"
+  },
+  "a1a60844ad9afd412846c0a8ff3ce275": {
+    "company": "",
+    "created_at": "2026-05-17T09:17:51+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-17T09:17:51+00:00",
+        "from": "queued",
+        "note": "len=1403",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-17T09:17:51+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-16-company-binance-devops-engineer-trading-technology-a1a608",
+    "source": "WeWorkRemotely",
+    "state": "error",
+    "title": "Binance: DevOps Engineer, Trading Technology",
+    "uid": "a1a60844ad9afd412846c0a8ff3ce275",
+    "updated_at": "2026-05-17T09:17:51+00:00",
+    "url": "https://weworkremotely.com/remote-jobs/binance-devops-engineer-trading-technology"
   },
   "a58a89ceb636103b5530c7ccc55cb18c": {
     "company": "GitLab",
@@ -5563,6 +5617,33 @@
     "uid": "f58448219777c17c1ef1af4547c47f85",
     "updated_at": "2026-05-06T09:40:29+00:00",
     "url": "https://careers.datadoghq.com/detail/7627445/?gh_jid=7627445"
+  },
+  "f6c5a1d5693f6c7183573bee6b3faddf": {
+    "company": "Pearl",
+    "created_at": "2026-05-17T09:17:51+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-17T09:17:51+00:00",
+        "from": "queued",
+        "note": "len=8832",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-17T09:17:51+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-16-pearl-operations-manager-a379-f6c5a1",
+    "source": "RemoteOK",
+    "state": "error",
+    "title": "Operations Manager A379",
+    "uid": "f6c5a1d5693f6c7183573bee6b3faddf",
+    "updated_at": "2026-05-17T09:17:51+00:00",
+    "url": "https://remoteOK.com/remote-jobs/remote-operations-manager-a379-pearl-1131609"
   },
   "f7472dc69e6f7e688966d9130fe2e855": {
     "company": "Dropbox",
