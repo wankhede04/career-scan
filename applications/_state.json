@@ -1958,6 +1958,33 @@
     "updated_at": "2026-05-13T10:02:30+00:00",
     "url": "https://www.arbeitnow.com/jobs/companies/maia/senior-devops-platform-engineer-leipzig-388068"
   },
+  "57f6cf2b3bf19478b8035fe0b0f51e35": {
+    "company": "",
+    "created_at": "2026-05-19T10:47:36+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-19T10:47:36+00:00",
+        "from": "queued",
+        "note": "len=1403",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-19T10:47:36+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-18-company-mitek-systems-product-owner-machine-learning-57f6cf",
+    "source": "WeWorkRemotely",
+    "state": "error",
+    "title": "Mitek Systems: Product Owner - Machine Learning",
+    "uid": "57f6cf2b3bf19478b8035fe0b0f51e35",
+    "updated_at": "2026-05-19T10:47:36+00:00",
+    "url": "https://weworkremotely.com/remote-jobs/mitek-systems-product-owner-machine-learning"
+  },
   "58b8ab13cd9c9f0cea84991d0f8db54a": {
     "company": "Stripe",
     "created_at": "2026-05-05T09:26:32+00:00",
@@ -2336,6 +2363,33 @@
     "updated_at": "2026-05-09T08:57:18+00:00",
     "url": "https://jobs.dropbox.com/listing/7421124?gh_jid=7421124"
   },
+  "63c74314a8245e8621a173d7630a03a3": {
+    "company": "alago",
+    "created_at": "2026-05-19T10:47:34+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-19T10:47:35+00:00",
+        "from": "queued",
+        "note": "len=10022",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-19T10:47:35+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-19-alago-remote-founding-full-stack-engineer-63c743",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "(Remote) Founding Full-Stack Engineer",
+    "uid": "63c74314a8245e8621a173d7630a03a3",
+    "updated_at": "2026-05-19T10:47:35+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/alago/remote-founding-full-stack-engineer-munich-268363"
+  },
   "6467baecf92a1e7bf1ef17163dfdfffd": {
     "company": "Stripe",
     "created_at": "2026-05-05T09:26:33+00:00",
@@ -2389,6 +2443,33 @@
     "uid": "64f5cd77e76ecccf62f24ae6eba12b8f",
     "updated_at": "2026-05-07T10:00:25+00:00",
     "url": "https://jobs.dropbox.com/listing/7762004?gh_jid=7762004"
+  },
+  "65e16fe6f14064dda35bf9e761423adb": {
+    "company": "Pinnipedia Technologies GmbH",
+    "created_at": "2026-05-19T10:47:35+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-19T10:47:36+00:00",
+        "from": "queued",
+        "note": "len=9015",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-19T10:47:36+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-19-pinnipedia-technologies-remote-senior-ai-knowledge-graph-engineer-m-f-d-65e16f",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "(Remote) Senior AI / Knowledge Graph Engineer (m/f/d)",
+    "uid": "65e16fe6f14064dda35bf9e761423adb",
+    "updated_at": "2026-05-19T10:47:36+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/pinnipedia-technologies-gmbh/remote-senior-ai-knowledge-graph-engineer-berlin-278356"
   },
   "65e355781802929c337733da777c2c37": {
     "company": "Reddit",
@@ -5185,6 +5266,33 @@
     "uid": "e48d931a9bb3cdcb4207b62ee1c20939",
     "updated_at": "2026-05-04T09:35:14+00:00",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8480559002"
+  },
+  "e5b93e7ac83302ef2a7a6eb59cdcb888": {
+    "company": "",
+    "created_at": "2026-05-19T10:47:36+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-19T10:47:36+00:00",
+        "from": "queued",
+        "note": "len=430",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-19T10:47:36+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-18-company-fairgambling-blockchain-engineer-researcher-e5b93e",
+    "source": "WeWorkRemotely",
+    "state": "error",
+    "title": "FairGambling: Blockchain Engineer & Researcher",
+    "uid": "e5b93e7ac83302ef2a7a6eb59cdcb888",
+    "updated_at": "2026-05-19T10:47:36+00:00",
+    "url": "https://weworkremotely.com/remote-jobs/fairgambling-blockchain-engineer-researcher"
   },
   "e62c914cd0c93a529bf4627c3dc2f9e4": {
     "company": "Parto Group GmbH",
