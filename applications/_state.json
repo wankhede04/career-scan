@@ -1364,6 +1364,33 @@
     "updated_at": "2026-05-06T09:40:32+00:00",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/7607121"
   },
+  "3f44100c6a4ed702f19420bf40c1dd7f": {
+    "company": "Datamics GmbH",
+    "created_at": "2026-05-20T10:31:53+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-20T10:31:54+00:00",
+        "from": "queued",
+        "note": "len=8009",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-20T10:31:54+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-20-datamics-gmbh-werkstudent-praktikant-m-w-d-ai-innovation-marketing-remote-3f4410",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "Werkstudent / Praktikant (m/w/d) AI Innovation & Marketing (Remote)",
+    "uid": "3f44100c6a4ed702f19420bf40c1dd7f",
+    "updated_at": "2026-05-20T10:31:54+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/datamics-gmbh/werkstudent-praktikant-ai-innovation-marketing-remote-grunwald-204633"
+  },
   "412c4e6ad5172978a3905c8d89c3cbf3": {
     "company": "TecFox GmbH",
     "created_at": "2026-05-15T10:01:33+00:00",
@@ -1769,6 +1796,33 @@
     "updated_at": "2026-05-10T09:11:46+00:00",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/7721787"
   },
+  "50aea444b8f82eefee6cc314e4b74236": {
+    "company": "Benchling",
+    "created_at": "2026-05-20T10:31:54+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-20T10:31:54+00:00",
+        "from": "queued",
+        "note": "len=5047",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-20T10:31:54+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-19-benchling-software-engineer-platform-50aea4",
+    "source": "RemoteOK",
+    "state": "error",
+    "title": "Software Engineer Platform",
+    "uid": "50aea444b8f82eefee6cc314e4b74236",
+    "updated_at": "2026-05-20T10:31:54+00:00",
+    "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-platform-benchling-1131626"
+  },
   "50bc66efc120b716b8daa439d8853057": {
     "company": "Reddit",
     "created_at": "2026-05-05T09:26:36+00:00",
@@ -1795,6 +1849,33 @@
     "uid": "50bc66efc120b716b8daa439d8853057",
     "updated_at": "2026-05-05T09:26:36+00:00",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/7791994"
+  },
+  "50f4c4e8342d98f40dbb414cbe281d7e": {
+    "company": "Yendou",
+    "created_at": "2026-05-20T10:31:52+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-20T10:31:53+00:00",
+        "from": "queued",
+        "note": "len=8423",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-20T10:31:53+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-20-yendou-full-stack-software-engineer-50f4c4",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "Full Stack Software Engineer",
+    "uid": "50f4c4e8342d98f40dbb414cbe281d7e",
+    "updated_at": "2026-05-20T10:31:53+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/yendou/full-stack-software-engineer-berlin-233337"
   },
   "513f7bfb2703133d623dc0b3ed185881": {
     "company": "GitLab",
@@ -3592,6 +3673,33 @@
     "uid": "958c6b7232cb52cabdbbfb828157a2d9",
     "updated_at": "2026-05-10T09:11:45+00:00",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/7731772"
+  },
+  "96a1d5ee9afee94884d2178d9a453e09": {
+    "company": "Reddit",
+    "created_at": "2026-05-20T10:31:54+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-20T10:31:55+00:00",
+        "from": "queued",
+        "note": "len=9773",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-20T10:31:55+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-19-reddit-staff-data-scientist-safety-insights-96a1d5",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Staff Data Scientist, Safety Insights",
+    "uid": "96a1d5ee9afee94884d2178d9a453e09",
+    "updated_at": "2026-05-20T10:31:55+00:00",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7863304"
   },
   "97eb093e21c90786302cde0d9db7ba96": {
     "company": "Datavent",
