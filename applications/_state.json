@@ -350,6 +350,33 @@
     "updated_at": "2026-05-04T09:35:12+00:00",
     "url": "https://www.arbeitnow.com/jobs/companies/dexter-health/python-software-engineer-backend-apis-remote-cologne-284750"
   },
+  "0a856be1b0bd8a231a9181196848f7d9": {
+    "company": "H\u00e4ndlerbund Management AG",
+    "created_at": "2026-05-21T10:52:04+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-21T10:52:05+00:00",
+        "from": "queued",
+        "note": "len=12593",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-21T10:52:05+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-21-handlerbund-management-a-senior-frontend-entwickler-laravel-livewire-m-w-d-4-tage-woc-0a856b",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "Senior Frontend Entwickler Laravel / Livewire (m/w/d) 4-Tage-Woche",
+    "uid": "0a856be1b0bd8a231a9181196848f7d9",
+    "updated_at": "2026-05-21T10:52:05+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/handlerbund-management-ag/senior-frontend-entwickler-laravel-livewire-leipzig-95708"
+  },
   "0b5029d5f70fd4b6d3644c2d0db025e0": {
     "company": "Rockstardevelopers GmbH",
     "created_at": "2026-05-07T10:00:21+00:00",
@@ -1066,6 +1093,33 @@
     "uid": "31226be1670a22e9df18fd2d8dbf1cf8",
     "updated_at": "2026-05-03T09:00:55+00:00",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8437148002"
+  },
+  "3132b0c50678aa3e57121391817d1866": {
+    "company": "Reddit",
+    "created_at": "2026-05-21T10:52:03+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-21T10:52:03+00:00",
+        "from": "queued",
+        "note": "len=8218",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-21T10:52:03+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-21-reddit-staff-machine-learning-engineer-embeddings-3132b0",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Staff Machine Learning Engineer, Embeddings",
+    "uid": "3132b0c50678aa3e57121391817d1866",
+    "updated_at": "2026-05-21T10:52:03+00:00",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7867308"
   },
   "34ac762081c53f0eb0cdefc6c88b60c4": {
     "company": "Datadog",
@@ -2282,6 +2336,33 @@
     "updated_at": "2026-05-13T10:02:31+00:00",
     "url": "https://remoteOK.com/remote-jobs/remote-senior-financial-analyst-digital-assets-exodus-movement-inc-1131374"
   },
+  "5efcb65992ee00957c95c8f93b7f5f5e": {
+    "company": "EverAI",
+    "created_at": "2026-05-21T10:52:02+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-21T10:52:03+00:00",
+        "from": "queued",
+        "note": "len=13761",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-21T10:52:03+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-21-everai-mid-senior-ai-cinematic-video-editor-full-remote-worldwide-5efcb6",
+    "source": "Remotive",
+    "state": "error",
+    "title": "Mid/Senior AI Cinematic Video Editor (Full Remote - Worldwide)",
+    "uid": "5efcb65992ee00957c95c8f93b7f5f5e",
+    "updated_at": "2026-05-21T10:52:03+00:00",
+    "url": "https://remotive.com/remote-jobs/artificial-intelligence/mid-senior-ai-cinematic-video-editor-full-remote-worldwide-2090887"
+  },
   "5f253d525dc2e228281f4efb870fb7fb": {
     "company": "Stripe",
     "created_at": "2026-05-14T09:54:24+00:00",
@@ -2924,6 +3005,33 @@
     "updated_at": "2026-05-10T09:11:47+00:00",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/7445240"
   },
+  "75e5ec0d303ffdbf21c5de27cdad836c": {
+    "company": "Stripe",
+    "created_at": "2026-05-21T10:52:06+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-21T10:52:07+00:00",
+        "from": "queued",
+        "note": "len=9767",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-21T10:52:07+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-20-stripe-staff-full-stack-engineer-identity-75e5ec",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Staff Full Stack Engineer, Identity",
+    "uid": "75e5ec0d303ffdbf21c5de27cdad836c",
+    "updated_at": "2026-05-21T10:52:07+00:00",
+    "url": "https://stripe.com/jobs/search?gh_jid=7895467"
+  },
   "776d470ebd3ce4443441836119590d16": {
     "company": "Dropbox",
     "created_at": "2026-05-08T09:06:57+00:00",
@@ -2977,6 +3085,33 @@
     "uid": "7814c3908f723271c02ce01fe4434361",
     "updated_at": "2026-05-03T09:00:56+00:00",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8480580002"
+  },
+  "7c934aefbf0549d91c4a0cfc69bfb759": {
+    "company": "",
+    "created_at": "2026-05-21T10:52:05+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-21T10:52:06+00:00",
+        "from": "queued",
+        "note": "len=18000",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-21T10:52:06+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-20-company-senior-devops-engineer-7c934a",
+    "source": "WorkingNomads",
+    "state": "error",
+    "title": "Senior DevOps Engineer",
+    "uid": "7c934aefbf0549d91c4a0cfc69bfb759",
+    "updated_at": "2026-05-21T10:52:06+00:00",
+    "url": "https://www.workingnomads.com/job/go/1614075/"
   },
   "7d2d736777638c8d1a50f4beecd7a7e6": {
     "company": "GitLab",
@@ -3322,6 +3457,33 @@
     "uid": "88c7575908980e26db0be766546f206a",
     "updated_at": "2026-05-04T09:35:13+00:00",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8463922002"
+  },
+  "899fdeec640e847e3fd7e34a031de354": {
+    "company": "Immovara GmbH",
+    "created_at": "2026-05-21T10:52:03+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-21T10:52:04+00:00",
+        "from": "queued",
+        "note": "len=7483",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-21T10:52:04+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-21-immovara-gmbh-laravel-vue-developer-m-w-d-ai-first-proptech-899fde",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "Laravel/Vue Developer (m/w/d) - AI-First PropTech",
+    "uid": "899fdeec640e847e3fd7e34a031de354",
+    "updated_at": "2026-05-21T10:52:04+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/immovara-gmbh/laravel-vue-developer-ai-first-proptech-korntal-munchingen-282131"
   },
   "89ae6d582ad9e1a2024e50fa6b29c62d": {
     "company": "Reddit",
@@ -3997,6 +4159,33 @@
     "uid": "a1a60844ad9afd412846c0a8ff3ce275",
     "updated_at": "2026-05-17T09:17:51+00:00",
     "url": "https://weworkremotely.com/remote-jobs/binance-devops-engineer-trading-technology"
+  },
+  "a51ec13caad4d7b3fb367f371cac37fe": {
+    "company": "",
+    "created_at": "2026-05-21T10:52:06+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-21T10:52:06+00:00",
+        "from": "queued",
+        "note": "len=542",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-21T10:52:06+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-20-company-shiftforce-llc-full-stack-developer-net-react-azure-remote-u-a51ec1",
+    "source": "WeWorkRemotely",
+    "state": "error",
+    "title": "ShiftForce LLC: Full-Stack Developer \u2014 .NET + React + Azure \u2014 Remote (US)",
+    "uid": "a51ec13caad4d7b3fb367f371cac37fe",
+    "updated_at": "2026-05-21T10:52:06+00:00",
+    "url": "https://weworkremotely.com/remote-jobs/shiftforce-llc-full-stack-developer-net-react-azure-remote-us"
   },
   "a58a89ceb636103b5530c7ccc55cb18c": {
     "company": "GitLab",
