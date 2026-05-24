@@ -3248,6 +3248,33 @@
     "updated_at": "2026-05-01T09:16:22+00:00",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8481929002"
   },
+  "7da0fd191bc2fec2b2554d040a986f51": {
+    "company": "Apprentus",
+    "created_at": "2026-05-24T09:28:25+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-24T09:28:25+00:00",
+        "from": "queued",
+        "note": "len=1471",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-24T09:28:25+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-23-apprentus-profesor-y-tutor-para-apoyo-escolar-y-clases-particulares-7da0fd",
+    "source": "RemoteOK",
+    "state": "error",
+    "title": "Profesor y Tutor para Apoyo Escolar y Clases Particulares",
+    "uid": "7da0fd191bc2fec2b2554d040a986f51",
+    "updated_at": "2026-05-24T09:28:25+00:00",
+    "url": "https://remoteOK.com/remote-jobs/remote-profesor-y-tutor-para-apoyo-escolar-y-clases-particulares-apprentus-1131917"
+  },
   "7e2724095370be63349bfd93f070d7c4": {
     "company": "BMF Media Information Technology GmbH",
     "created_at": "2026-05-12T10:03:51+00:00",
@@ -4645,6 +4672,33 @@
     "uid": "b1a69432a1d37c0434344573adaf69df",
     "updated_at": "2026-05-01T09:16:21+00:00",
     "url": "https://weworkremotely.com/remote-jobs/qventus-devops-engineer"
+  },
+  "b1da7595228d45aa03d372cb7ba770af": {
+    "company": "",
+    "created_at": "2026-05-24T09:28:25+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-24T09:28:25+00:00",
+        "from": "queued",
+        "note": "len=477",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-24T09:28:25+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-23-company-speechify-inc-senior-software-engineer-web-b1da75",
+    "source": "WeWorkRemotely",
+    "state": "error",
+    "title": "Speechify Inc: Senior Software Engineer, Web",
+    "uid": "b1da7595228d45aa03d372cb7ba770af",
+    "updated_at": "2026-05-24T09:28:25+00:00",
+    "url": "https://weworkremotely.com/remote-jobs/speechify-inc-senior-software-engineer-web-1"
   },
   "b2976448399e8c9fc28f117d5bc405f7": {
     "company": "Dropbox",
