@@ -4295,6 +4295,33 @@
     "updated_at": "2026-05-13T10:02:31+00:00",
     "url": "https://weworkremotely.com/remote-jobs/wing-assistant-full-stack-developer"
   },
+  "a0cfe61e5c7a53a4ae6a0777fbaa30c9": {
+    "company": "CuraSenseAI",
+    "created_at": "2026-05-25T11:33:51+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-25T11:33:51+00:00",
+        "from": "queued",
+        "note": "len=366",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-25T11:33:51+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-24-curasenseai-data-annotator-a0cfe6",
+    "source": "RemoteOK",
+    "state": "error",
+    "title": "Data Annotator",
+    "uid": "a0cfe61e5c7a53a4ae6a0777fbaa30c9",
+    "updated_at": "2026-05-25T11:33:51+00:00",
+    "url": "https://remoteOK.com/remote-jobs/remote-data-annotator-curasenseai-1132152"
+  },
   "a1a60844ad9afd412846c0a8ff3ce275": {
     "company": "",
     "created_at": "2026-05-17T09:17:51+00:00",
