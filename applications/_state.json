@@ -1472,6 +1472,33 @@
     "updated_at": "2026-05-07T10:00:23+00:00",
     "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-akuity-1131479"
   },
+  "3c0f1fb5aa465e8780b3d6eec2a67cba": {
+    "company": "LawnStarter",
+    "created_at": "2026-05-28T11:05:28+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-28T11:05:29+00:00",
+        "from": "queued",
+        "note": "len=14737",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-28T11:05:29+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-28-lawnstarter-staff-product-engineer-campinas-3c0f1f",
+    "source": "Remotive",
+    "state": "error",
+    "title": "Staff Product Engineer (Campinas)",
+    "uid": "3c0f1fb5aa465e8780b3d6eec2a67cba",
+    "updated_at": "2026-05-28T11:05:29+00:00",
+    "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-campinas-2090902"
+  },
   "3cb30e5f5e20af07c0bf388971a5398e": {
     "company": "Reddit",
     "created_at": "2026-05-06T09:40:32+00:00",
@@ -2227,6 +2254,33 @@
     "uid": "57f6cf2b3bf19478b8035fe0b0f51e35",
     "updated_at": "2026-05-19T10:47:36+00:00",
     "url": "https://weworkremotely.com/remote-jobs/mitek-systems-product-owner-machine-learning"
+  },
+  "587824441e204cec8bb7c96232e97b46": {
+    "company": "Gusto",
+    "created_at": "2026-05-28T11:05:29+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-28T11:05:30+00:00",
+        "from": "queued",
+        "note": "len=11050",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-28T11:05:30+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-27-gusto-head-of-ai-and-machine-learning-engineering-587824",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Head of AI and Machine Learning Engineering",
+    "uid": "587824441e204cec8bb7c96232e97b46",
+    "updated_at": "2026-05-28T11:05:30+00:00",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7948318"
   },
   "58b8ab13cd9c9f0cea84991d0f8db54a": {
     "company": "Stripe",
@@ -3431,6 +3485,33 @@
     "updated_at": "2026-05-13T10:02:28+00:00",
     "url": "https://www.arbeitnow.com/jobs/companies/datads/full-stack-software-engineer-backend-frontend-bootstrapped-saas-startup-remote-in-eu-cologne-82307"
   },
+  "80631325fa9e48a86ed55c0610b66d0b": {
+    "company": "Lemon.io",
+    "created_at": "2026-05-28T11:05:29+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-28T11:05:29+00:00",
+        "from": "queued",
+        "note": "len=5110",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-28T11:05:29+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-27-lemon-io-senior-vue-developer-806313",
+    "source": "RemoteOK",
+    "state": "error",
+    "title": "Senior Vue Developer",
+    "uid": "80631325fa9e48a86ed55c0610b66d0b",
+    "updated_at": "2026-05-28T11:05:29+00:00",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1132383"
+  },
   "828d819422f69ec7f7988619496b7e73": {
     "company": "GitLab",
     "created_at": "2026-05-03T09:00:50+00:00",
@@ -4592,6 +4673,33 @@
     "updated_at": "2026-05-01T09:16:21+00:00",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8517564002"
   },
+  "a95504eac12d22c922944d1771c446d6": {
+    "company": "NFON",
+    "created_at": "2026-05-28T11:05:29+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-28T11:05:29+00:00",
+        "from": "queued",
+        "note": "len=7791",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-28T11:05:29+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-28-nfon-senior-ai-engineer-all-genders-a95504",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "(Senior) AI Engineer (all genders)",
+    "uid": "a95504eac12d22c922944d1771c446d6",
+    "updated_at": "2026-05-28T11:05:29+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/nfon/senior-ai-engineer-all-genders-munich-341857"
+  },
   "abca13b5c75be18246010c75a26af5d3": {
     "company": "Reddit",
     "created_at": "2026-05-05T09:26:35+00:00",
@@ -4969,6 +5077,33 @@
     "uid": "b853962ea3f2b499988067067efa807e",
     "updated_at": "2026-05-01T09:16:19+00:00",
     "url": "https://www.arbeitnow.com/jobs/companies/dexter-health/ai-engineer-llm-products-remote-cologne-236027"
+  },
+  "b86302c04e8effb3952e56644404b56b": {
+    "company": "LawnStarter",
+    "created_at": "2026-05-28T11:05:29+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-28T11:05:29+00:00",
+        "from": "queued",
+        "note": "len=14743",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-28T11:05:29+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-28-lawnstarter-staff-product-engineer-sao-paulo-b86302",
+    "source": "Remotive",
+    "state": "error",
+    "title": "Staff Product Engineer (S\u00e3o Paulo)",
+    "uid": "b86302c04e8effb3952e56644404b56b",
+    "updated_at": "2026-05-28T11:05:29+00:00",
+    "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-sao-paulo-2090890"
   },
   "baf492a238abf68b39f834aa854e43c8": {
     "company": "Reddit",
