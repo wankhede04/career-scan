@@ -323,6 +323,33 @@
     "updated_at": "2026-05-08T09:06:59+00:00",
     "url": "https://jobs.dropbox.com/listing/7759728?gh_jid=7759728"
   },
+  "0a2473f408dc334a9fa7fe117e01f6de": {
+    "company": "Reddit",
+    "created_at": "2026-05-29T10:55:58+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-29T10:55:59+00:00",
+        "from": "queued",
+        "note": "len=7479",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-29T10:55:59+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-28-reddit-senior-frontend-engineer-community-builders-0a2473",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Senior Frontend Engineer, Community Builders",
+    "uid": "0a2473f408dc334a9fa7fe117e01f6de",
+    "updated_at": "2026-05-29T10:55:59+00:00",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7955200"
+  },
   "0a48245982162c7d7c01f9d50b1bc49c": {
     "company": "dexter health",
     "created_at": "2026-05-04T09:35:12+00:00",
@@ -662,6 +689,33 @@
     "updated_at": "2026-05-12T10:03:53+00:00",
     "url": "https://www.arbeitnow.com/jobs/companies/immovara-gmbh/laravel-developer-ai-first-proptech-korntal-munchingen-471269"
   },
+  "15fe3fc868036bad50387cb03ed1c7af": {
+    "company": "",
+    "created_at": "2026-05-29T10:55:58+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-29T10:55:58+00:00",
+        "from": "queued",
+        "note": "len=533",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-29T10:55:58+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-28-company-cubos-tecnologia-banco-de-talentos-pessoa-desenvolvedora-fro-15fe3f",
+    "source": "WeWorkRemotely",
+    "state": "error",
+    "title": "Cubos Tecnologia: [Banco de Talentos] Pessoa Desenvolvedora Frontend Pleno",
+    "uid": "15fe3fc868036bad50387cb03ed1c7af",
+    "updated_at": "2026-05-29T10:55:58+00:00",
+    "url": "https://weworkremotely.com/remote-jobs/cubos-tecnologia-banco-de-talentos-pessoa-desenvolvedora-frontend-pleno"
+  },
   "175649b0cbad98a04880ac42cf40a37a": {
     "company": "",
     "created_at": "2026-05-14T09:54:24+00:00",
@@ -905,6 +959,33 @@
     "updated_at": "2026-05-02T08:48:16+00:00",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8480551002"
   },
+  "273b0c3438ca32dfc9b48ea632f5107f": {
+    "company": "LawnStarter",
+    "created_at": "2026-05-29T10:55:56+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-29T10:55:56+00:00",
+        "from": "queued",
+        "note": "len=14755",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-29T10:55:56+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-29-lawnstarter-staff-product-engineer-porto-alegre-273b0c",
+    "source": "Remotive",
+    "state": "error",
+    "title": "Staff Product Engineer (Porto Alegre)",
+    "uid": "273b0c3438ca32dfc9b48ea632f5107f",
+    "updated_at": "2026-05-29T10:55:56+00:00",
+    "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-porto-alegre-2090901"
+  },
   "292d9bb9da892795a8d49dc8a1a2bdaa": {
     "company": "Dropbox",
     "created_at": "2026-05-08T09:06:57+00:00",
@@ -1039,6 +1120,33 @@
     "uid": "2b7ade3b3fe44760ab72b05e0b26cc57",
     "updated_at": "2026-05-08T09:06:56+00:00",
     "url": "https://jobs.dropbox.com/listing/7729764?gh_jid=7729764"
+  },
+  "2cfbd32a49b80c34c5cfb0e0feffb78c": {
+    "company": "Sidestream",
+    "created_at": "2026-05-29T10:55:56+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-29T10:55:57+00:00",
+        "from": "queued",
+        "note": "len=8317",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-29T10:55:57+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-29-sidestream-senior-typescript-developer-f-m-d-2cfbd3",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "Senior Typescript Developer (f/m/d)",
+    "uid": "2cfbd32a49b80c34c5cfb0e0feffb78c",
+    "updated_at": "2026-05-29T10:55:57+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/sidestream/senior-typescript-developer-cologne-197587"
   },
   "30b17668e2cb925dcbdadacd97d79ae9": {
     "company": "",
@@ -3464,6 +3572,33 @@
     "updated_at": "2026-05-12T10:03:52+00:00",
     "url": "https://www.arbeitnow.com/jobs/companies/loyos-bi-gmbh/data-integration-api-engineer-bi-data-automation-hamburg-66228"
   },
+  "7e373aaa772d01842b0057a9606a48ab": {
+    "company": "LawnStarter",
+    "created_at": "2026-05-29T10:55:56+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-29T10:55:56+00:00",
+        "from": "queued",
+        "note": "len=14761",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-29T10:55:56+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-29-lawnstarter-staff-product-engineer-florianopolis-7e373a",
+    "source": "Remotive",
+    "state": "error",
+    "title": "Staff Product Engineer (Florian\u00f3polis)",
+    "uid": "7e373aaa772d01842b0057a9606a48ab",
+    "updated_at": "2026-05-29T10:55:56+00:00",
+    "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-florianopolis-2090899"
+  },
   "7e4c201a262a38c6385d78d2f11df48d": {
     "company": "DatAds",
     "created_at": "2026-05-13T10:02:28+00:00",
@@ -3538,6 +3673,33 @@
     "uid": "828d819422f69ec7f7988619496b7e73",
     "updated_at": "2026-05-03T09:00:51+00:00",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8324132002"
+  },
+  "831ce9d1571c9b3cd93bad93e26ebecc": {
+    "company": "LawnStarter",
+    "created_at": "2026-05-29T10:55:56+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-29T10:55:56+00:00",
+        "from": "queued",
+        "note": "len=14764",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-29T10:55:56+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-29-lawnstarter-staff-product-engineer-belo-horizonte-831ce9",
+    "source": "Remotive",
+    "state": "error",
+    "title": "Staff Product Engineer (Belo Horizonte)",
+    "uid": "831ce9d1571c9b3cd93bad93e26ebecc",
+    "updated_at": "2026-05-29T10:55:56+00:00",
+    "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-belo-horizonte-2090900"
   },
   "834c00d9ecf1cbf754af71252faac1a6": {
     "company": "GitLab",
@@ -4861,6 +5023,33 @@
     "uid": "af918678d0b0a7e2344bbe5c0b5dc306",
     "updated_at": "2026-05-03T09:00:56+00:00",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8452278002"
+  },
+  "b17f5963dcf5b4da584c0a39ce66fa12": {
+    "company": "Sidestream",
+    "created_at": "2026-05-29T10:55:57+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-29T10:55:57+00:00",
+        "from": "queued",
+        "note": "len=8412",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-29T10:55:57+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-29-sidestream-sidebase-open-source-contributor-senior-ts-dev-f-m-d-b17f59",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "Sidebase Open-Source Contributor & Senior TS Dev (f/m/d)",
+    "uid": "b17f5963dcf5b4da584c0a39ce66fa12",
+    "updated_at": "2026-05-29T10:55:57+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/sidestream/sidebase-open-source-contributor-senior-ts-dev-cologne-265594"
   },
   "b1a69432a1d37c0434344573adaf69df": {
     "company": "",
@@ -6718,6 +6907,33 @@
     "uid": "fd59efb6017c131dba269096bc6151fe",
     "updated_at": "2026-05-08T09:06:55+00:00",
     "url": "https://remoteOK.com/remote-jobs/remote-senior-data-engineer-valon-mortgage-1131504"
+  },
+  "fd6db43fa9f81a81d4ba4bbeaf7acdcd": {
+    "company": "Louco Event Media GmbH",
+    "created_at": "2026-05-29T10:55:57+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-29T10:55:58+00:00",
+        "from": "queued",
+        "note": "len=9404",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-29T10:55:58+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-29-louco-event-media-gmbh-ai-native-full-stack-engineer-m-f-d-louco-fd6db4",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "AI-Native Full Stack Engineer (m/f/d) Louco",
+    "uid": "fd6db43fa9f81a81d4ba4bbeaf7acdcd",
+    "updated_at": "2026-05-29T10:55:58+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/louco-event-media-gmbh/ai-native-full-stack-engineer-louco-offenbach-25905"
   },
   "fdb612cdaacbbf90fd2e132355be5bff": {
     "company": "Lemon.io",
