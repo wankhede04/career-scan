@@ -431,6 +431,33 @@
     "updated_at": "2026-05-07T10:00:22+00:00",
     "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/rockstardevelopers-senior-fullstack-entwickler-mit-projekterfahrung-deutsche-bahn-oder-db-systel-stuttgart-354361"
   },
+  "0bf12d687fb24f35fd6b0295de22f8b0": {
+    "company": "Gameplay Galaxy",
+    "created_at": "2026-05-30T09:28:36+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-30T09:28:36+00:00",
+        "from": "queued",
+        "note": "len=2486",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-30T09:28:36+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-29-gameplay-galaxy-senior-backend-engineer-0bf12d",
+    "source": "RemoteOK",
+    "state": "error",
+    "title": "Senior Backend Engineer",
+    "uid": "0bf12d687fb24f35fd6b0295de22f8b0",
+    "updated_at": "2026-05-30T09:28:36+00:00",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-gameplay-galaxy-1132512"
+  },
   "0d6633089351b1db97458e4d336e2691": {
     "company": "Andromeda Cluster",
     "created_at": "2026-05-13T10:02:30+00:00",
@@ -715,6 +742,33 @@
     "uid": "15fe3fc868036bad50387cb03ed1c7af",
     "updated_at": "2026-05-29T10:55:58+00:00",
     "url": "https://weworkremotely.com/remote-jobs/cubos-tecnologia-banco-de-talentos-pessoa-desenvolvedora-frontend-pleno"
+  },
+  "16bb8f29582482b4870b7326efa07a5a": {
+    "company": "FNTIO",
+    "created_at": "2026-05-30T09:28:34+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-30T09:28:35+00:00",
+        "from": "queued",
+        "note": "len=8572",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-30T09:28:35+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-30-fntio-full-stack-entwickler-m-w-d-net-100-remote-16bb8f",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "Full-Stack Entwickler (m/w/d) - .NET 100% Remote",
+    "uid": "16bb8f29582482b4870b7326efa07a5a",
+    "updated_at": "2026-05-30T09:28:35+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/fntio/full-stack-entwickler-net-100-remote-frankfurt-am-main-497052"
   },
   "175649b0cbad98a04880ac42cf40a37a": {
     "company": "",
@@ -1607,6 +1661,33 @@
     "updated_at": "2026-05-28T11:05:29+00:00",
     "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-campinas-2090902"
   },
+  "3ca7df6080b8a6a9c36d36e80b68d7ee": {
+    "company": "Crossing Hurdles",
+    "created_at": "2026-05-30T09:28:37+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-30T09:28:37+00:00",
+        "from": "queued",
+        "note": "len=379",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-30T09:28:37+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-29-crossing-hurdles-data-analyst-3ca7df",
+    "source": "RemoteOK",
+    "state": "error",
+    "title": "Data Analyst",
+    "uid": "3ca7df6080b8a6a9c36d36e80b68d7ee",
+    "updated_at": "2026-05-30T09:28:37+00:00",
+    "url": "https://remoteOK.com/remote-jobs/remote-data-analyst-crossing-hurdles-1132484"
+  },
   "3cb30e5f5e20af07c0bf388971a5398e": {
     "company": "Reddit",
     "created_at": "2026-05-06T09:40:32+00:00",
@@ -1849,6 +1930,33 @@
     "uid": "45636d720617ac8d49ac4386069f76cf",
     "updated_at": "2026-05-10T09:11:47+00:00",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/7181821"
+  },
+  "458de28d1f88e2eea2cd7c3f1e16f772": {
+    "company": "RemoteVA",
+    "created_at": "2026-05-30T09:28:36+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-30T09:28:37+00:00",
+        "from": "queued",
+        "note": "len=371",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-30T09:28:37+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-29-remoteva-real-estate-virtual-assistant-458de2",
+    "source": "RemoteOK",
+    "state": "error",
+    "title": "Real Estate Virtual Assistant",
+    "uid": "458de28d1f88e2eea2cd7c3f1e16f772",
+    "updated_at": "2026-05-30T09:28:37+00:00",
+    "url": "https://remoteOK.com/remote-jobs/remote-real-estate-virtual-assistant-remoteva-1132486"
   },
   "45c39b93e0299bf1cdfa868601987825": {
     "company": "GitLab",
@@ -3383,6 +3491,33 @@
     "updated_at": "2026-05-27T11:03:26+00:00",
     "url": "https://job-boards.greenhouse.io/twilio/jobs/7946608"
   },
+  "775d76a21ae41ad53a4c8be65567ed7e": {
+    "company": "FNTIO",
+    "created_at": "2026-05-30T09:28:34+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-30T09:28:34+00:00",
+        "from": "queued",
+        "note": "len=8572",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-30T09:28:34+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-30-fntio-full-stack-entwickler-m-w-d-net-100-remote-775d76",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "Full-Stack Entwickler (m/w/d) - .NET 100% Remote",
+    "uid": "775d76a21ae41ad53a4c8be65567ed7e",
+    "updated_at": "2026-05-30T09:28:34+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/fntio/full-stack-entwickler-net-100-remote-frankfurt-am-main-202432"
+  },
   "776d470ebd3ce4443441836119590d16": {
     "company": "Dropbox",
     "created_at": "2026-05-08T09:06:57+00:00",
@@ -4106,6 +4241,33 @@
     "updated_at": "2026-05-08T09:06:57+00:00",
     "url": "https://jobs.dropbox.com/listing/7644886?gh_jid=7644886"
   },
+  "8fab8cc4dd24c013ad9f1b829431d81b": {
+    "company": "TecFox GmbH",
+    "created_at": "2026-05-30T09:28:35+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-30T09:28:36+00:00",
+        "from": "queued",
+        "note": "len=9587",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-30T09:28:36+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-30-tecfox-gmbh-fullstack-softwareentwickler-m-w-d-8fab8c",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "Fullstack Softwareentwickler (m/w/d)",
+    "uid": "8fab8cc4dd24c013ad9f1b829431d81b",
+    "updated_at": "2026-05-30T09:28:36+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/fullstack-softwareentwickler-braunschweig-155723"
+  },
   "90587e9b767b6cf4709db280b27ef670": {
     "company": "MEvents Cross Media GmbH",
     "created_at": "2026-05-08T09:06:54+00:00",
@@ -4483,6 +4645,33 @@
     "uid": "9ae0a984fd66aac7b8f745be750fcc99",
     "updated_at": "2026-05-14T09:54:24+00:00",
     "url": "https://weworkremotely.com/remote-jobs/interop-labs-product-marketing-manager"
+  },
+  "9b5b9816f266ce5f4b696cd45298020d": {
+    "company": "Crossing Hurdles",
+    "created_at": "2026-05-30T09:28:37+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-30T09:28:37+00:00",
+        "from": "queued",
+        "note": "len=403",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-30T09:28:37+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-29-crossing-hurdles-executive-assistant-9b5b98",
+    "source": "RemoteOK",
+    "state": "error",
+    "title": "Executive Assistant",
+    "uid": "9b5b9816f266ce5f4b696cd45298020d",
+    "updated_at": "2026-05-30T09:28:37+00:00",
+    "url": "https://remoteOK.com/remote-jobs/remote-executive-assistant-crossing-hurdles-1132485"
   },
   "9d10d2221f65257cac3bbe311bdf25ca": {
     "company": "Dropbox",
@@ -5185,6 +5374,33 @@
     "uid": "b3fdd20d7fe343c29859c44b9f3c3eab",
     "updated_at": "2026-05-03T09:00:53+00:00",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8157520002"
+  },
+  "b5445f5372cd39502e391a1c132d622c": {
+    "company": "TecFox GmbH",
+    "created_at": "2026-05-30T09:28:36+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-30T09:28:36+00:00",
+        "from": "queued",
+        "note": "len=8858",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-30T09:28:36+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-30-tecfox-gmbh-frontend-softwareentwickler-m-w-d-b5445f",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "Frontend Softwareentwickler (m/w/d)",
+    "uid": "b5445f5372cd39502e391a1c132d622c",
+    "updated_at": "2026-05-30T09:28:36+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/frontend-softwareentwickler-braunschweig-347574"
   },
   "b60bb846820a7cc82f38faeaeceeb1f3": {
     "company": "Dropbox",
@@ -6319,6 +6535,33 @@
     "uid": "e71d3d074df964159c4ce529ff5cb3a5",
     "updated_at": "2026-05-01T09:16:22+00:00",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8437754002"
+  },
+  "e732e9a9cb2c2ca3c03a6717309e3079": {
+    "company": "GitLab",
+    "created_at": "2026-05-30T09:28:37+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-30T09:28:37+00:00",
+        "from": "queued",
+        "note": "len=15239",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-30T09:28:37+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-29-gitlab-ai-engineer-e732e9",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "AI Engineer",
+    "uid": "e732e9a9cb2c2ca3c03a6717309e3079",
+    "updated_at": "2026-05-30T09:28:37+00:00",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8565469002"
   },
   "e8326d4019e31378355922b27412a92c": {
     "company": "",
