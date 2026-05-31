@@ -5699,6 +5699,33 @@
     "updated_at": "2026-05-13T10:02:26+00:00",
     "url": "https://www.arbeitnow.com/jobs/companies/we-site-gmbh-shopify-agentur/shopify-developer-fullstack-in-vollzeit-remote-hamburg-428318"
   },
+  "c0c1290065de0754641e719897515d2a": {
+    "company": "Talents2Germany GmbH",
+    "created_at": "2026-05-31T09:59:54+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-31T09:59:54+00:00",
+        "from": "queued",
+        "note": "len=10305",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-31T09:59:54+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-31-talents2germany-gmbh-senior-genai-engineer-llms-rag-python-w-m-d-remote-in-de-c0c129",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "Senior GenAI Engineer LLMs/ RAG/ Python (w/m/d) remote in DE",
+    "uid": "c0c1290065de0754641e719897515d2a",
+    "updated_at": "2026-05-31T09:59:54+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/talents2germany-gmbh/senior-genai-engineer-llms-rag-python-remote-in-de-frankfurt-am-main-137280"
+  },
   "c1a70059d78d876490eed5265584746e": {
     "company": "",
     "created_at": "2026-05-09T08:57:16+00:00",
@@ -6184,6 +6211,33 @@
     "uid": "d2c951c0fe59903966bfa760784e3852",
     "updated_at": "2026-05-04T09:35:14+00:00",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8480531002"
+  },
+  "d4b01db01832a1420b2e265424030e9f": {
+    "company": "finwyz",
+    "created_at": "2026-05-31T09:59:54+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-05-31T09:59:55+00:00",
+        "from": "queued",
+        "note": "len=7449",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-05-31T09:59:55+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-05-31-finwyz-business-analyst-neo-wealth-crypto-m-w-d-d4b01d",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "Business Analyst Neo-Wealth & Crypto m/w/d",
+    "uid": "d4b01db01832a1420b2e265424030e9f",
+    "updated_at": "2026-05-31T09:59:55+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/finwyz/business-analyst-neo-wealth-crypto-frankfurt-am-main-381319"
   },
   "da360dd010a803048f944b788ec4568f": {
     "company": "GitLab",
