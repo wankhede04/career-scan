@@ -107,6 +107,27 @@
     "updated_at": "2026-05-12T10:03:47+00:00",
     "url": "https://www.arbeitnow.com/jobs/companies/syncblue-gmbh/senior-python-developer-django-haltern-am-see-16238"
   },
+  "045199dad90d45b862fe2c8d2e70a349": {
+    "company": "",
+    "created_at": "2026-06-02T11:47:50+00:00",
+    "error": "empty JD extracted from https://www.workingnomads.com/job/go/1641404/",
+    "history": [
+      {
+        "at": "2026-06-02T11:47:50+00:00",
+        "from": "queued",
+        "note": "empty JD extracted from https://www.workingnomads.com/job/go/1641404/",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-02-company-senior-ai-engineer-llm-045199",
+    "source": "WorkingNomads",
+    "state": "error",
+    "title": "Senior AI Engineer (LLM)",
+    "uid": "045199dad90d45b862fe2c8d2e70a349",
+    "updated_at": "2026-06-02T11:47:50+00:00",
+    "url": "https://www.workingnomads.com/job/go/1641404/"
+  },
   "04ade1d971e00d1c1da18b47d203f743": {
     "company": "GitLab",
     "created_at": "2026-05-03T09:00:55+00:00",
@@ -241,6 +262,27 @@
     "uid": "05716fb5de872508ac44da3493f50556",
     "updated_at": "2026-05-08T09:06:53+00:00",
     "url": "https://www.arbeitnow.com/jobs/companies/neurawork-gmbh-co-kg/senior-ai-engineer-agent-architekt-ampfing-390691"
+  },
+  "0573d711d5f2a69660153c05cb6b9ac8": {
+    "company": "",
+    "created_at": "2026-06-02T11:47:53+00:00",
+    "error": "empty JD extracted from https://www.workingnomads.com/job/go/1641391/",
+    "history": [
+      {
+        "at": "2026-06-02T11:47:53+00:00",
+        "from": "queued",
+        "note": "empty JD extracted from https://www.workingnomads.com/job/go/1641391/",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-02-company-senior-fullstack-developer-react-js-node-js-0573d7",
+    "source": "WorkingNomads",
+    "state": "error",
+    "title": "Senior Fullstack Developer (React.js / Node.js)",
+    "uid": "0573d711d5f2a69660153c05cb6b9ac8",
+    "updated_at": "2026-06-02T11:47:53+00:00",
+    "url": "https://www.workingnomads.com/job/go/1641391/"
   },
   "05b79c10851dcc0b3e1ee765fbec9c87": {
     "company": "Reddit",
@@ -1499,6 +1541,33 @@
     "updated_at": "2026-05-06T09:40:31+00:00",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/7607124"
   },
+  "38130d0b9e57441dc6d27ec73722020c": {
+    "company": "Atom Computing",
+    "created_at": "2026-06-02T11:47:53+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-02T11:47:53+00:00",
+        "from": "queued",
+        "note": "len=3338",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-02T11:47:53+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-01-atom-computing-senior-software-engineer-38130d",
+    "source": "RemoteOK",
+    "state": "error",
+    "title": "Senior Software Engineer",
+    "uid": "38130d0b9e57441dc6d27ec73722020c",
+    "updated_at": "2026-06-02T11:47:53+00:00",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-atom-computing-1132662"
+  },
   "393ee9ad7022fc1a7e4eb717ae324cce": {
     "company": "Dry Ground AI",
     "created_at": "2026-05-04T09:35:16+00:00",
@@ -1607,6 +1676,27 @@
     "updated_at": "2026-05-13T10:02:30+00:00",
     "url": "https://www.arbeitnow.com/jobs/companies/datads/full-stack-software-engineer-backend-frontend-adtech-saas-startup-remote-cologne-263746"
   },
+  "3b1881c19b75f94f12d075f8bcc444af": {
+    "company": "",
+    "created_at": "2026-06-02T11:47:51+00:00",
+    "error": "empty JD extracted from https://www.workingnomads.com/job/go/1641400/",
+    "history": [
+      {
+        "at": "2026-06-02T11:47:51+00:00",
+        "from": "queued",
+        "note": "empty JD extracted from https://www.workingnomads.com/job/go/1641400/",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-02-company-senior-fullstack-ruby-on-rails-developer-3b1881",
+    "source": "WorkingNomads",
+    "state": "error",
+    "title": "Senior Fullstack Ruby on Rails Developer",
+    "uid": "3b1881c19b75f94f12d075f8bcc444af",
+    "updated_at": "2026-06-02T11:47:51+00:00",
+    "url": "https://www.workingnomads.com/job/go/1641400/"
+  },
   "3b3b4e618344263fb4d686fb319eb43c": {
     "company": "Akuity",
     "created_at": "2026-05-07T10:00:23+00:00",
@@ -1660,6 +1750,27 @@
     "uid": "3c0f1fb5aa465e8780b3d6eec2a67cba",
     "updated_at": "2026-05-28T11:05:29+00:00",
     "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-campinas-2090902"
+  },
+  "3c10d6250e7b15905b642a34b040dcb9": {
+    "company": "",
+    "created_at": "2026-06-02T11:47:52+00:00",
+    "error": "empty JD extracted from https://www.workingnomads.com/job/go/1641395/",
+    "history": [
+      {
+        "at": "2026-06-02T11:47:52+00:00",
+        "from": "queued",
+        "note": "empty JD extracted from https://www.workingnomads.com/job/go/1641395/",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-02-company-senior-backend-developer-node-js-nest-js-3c10d6",
+    "source": "WorkingNomads",
+    "state": "error",
+    "title": "Senior Backend Developer (Node.js / Nest.js)",
+    "uid": "3c10d6250e7b15905b642a34b040dcb9",
+    "updated_at": "2026-06-02T11:47:52+00:00",
+    "url": "https://www.workingnomads.com/job/go/1641395/"
   },
   "3ca7df6080b8a6a9c36d36e80b68d7ee": {
     "company": "Crossing Hurdles",
@@ -2147,6 +2258,27 @@
     "updated_at": "2026-05-14T09:54:23+00:00",
     "url": "https://job-boards.greenhouse.io/twilio/jobs/7919148"
   },
+  "4e1301f3c62000b17f02e3e45fac5223": {
+    "company": "",
+    "created_at": "2026-06-02T11:47:49+00:00",
+    "error": "empty JD extracted from https://www.workingnomads.com/job/go/1641407/",
+    "history": [
+      {
+        "at": "2026-06-02T11:47:49+00:00",
+        "from": "queued",
+        "note": "empty JD extracted from https://www.workingnomads.com/job/go/1641407/",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-02-company-senior-golang-developer-fullstack-be-heavy-4e1301",
+    "source": "WorkingNomads",
+    "state": "error",
+    "title": "Senior Golang Developer (Fullstack, BE-Heavy)",
+    "uid": "4e1301f3c62000b17f02e3e45fac5223",
+    "updated_at": "2026-06-02T11:47:49+00:00",
+    "url": "https://www.workingnomads.com/job/go/1641407/"
+  },
   "4e4b38492e03689480d0ee6595b25dda": {
     "company": "Twilio",
     "created_at": "2026-05-11T10:46:48+00:00",
@@ -2632,6 +2764,27 @@
     "uid": "5b8d3a9ff3feb27ec64765d9282b8b6f",
     "updated_at": "2026-05-10T09:11:44+00:00",
     "url": "https://www.arbeitnow.com/jobs/companies/datads/full-stack-software-engineer-backend-frontend-bootstrapped-saas-startup-remote-in-eu-cologne-266336"
+  },
+  "5cb1076d436983566f6238f41ecef783": {
+    "company": "",
+    "created_at": "2026-06-02T11:47:50+00:00",
+    "error": "empty JD extracted from https://www.workingnomads.com/job/go/1641402/",
+    "history": [
+      {
+        "at": "2026-06-02T11:47:51+00:00",
+        "from": "queued",
+        "note": "empty JD extracted from https://www.workingnomads.com/job/go/1641402/",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-02-company-senior-python-developer-fullstack-be-heavy-5cb107",
+    "source": "WorkingNomads",
+    "state": "error",
+    "title": "Senior Python Developer (Fullstack, BE-Heavy)",
+    "uid": "5cb1076d436983566f6238f41ecef783",
+    "updated_at": "2026-06-02T11:47:51+00:00",
+    "url": "https://www.workingnomads.com/job/go/1641402/"
   },
   "5d49ee153b91c0ff2714c3fb1603882a": {
     "company": "Dropbox",
@@ -3362,6 +3515,27 @@
     "updated_at": "2026-05-03T09:00:52+00:00",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8488966002"
   },
+  "729e5f6061e09583f9539ec6556ae565": {
+    "company": "",
+    "created_at": "2026-06-02T11:47:47+00:00",
+    "error": "empty JD extracted from https://www.workingnomads.com/job/go/1641411/",
+    "history": [
+      {
+        "at": "2026-06-02T11:47:48+00:00",
+        "from": "queued",
+        "note": "empty JD extracted from https://www.workingnomads.com/job/go/1641411/",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-02-company-senior-wordpress-developer-fullstack-729e5f",
+    "source": "WorkingNomads",
+    "state": "error",
+    "title": "Senior WordPress Developer (Fullstack)",
+    "uid": "729e5f6061e09583f9539ec6556ae565",
+    "updated_at": "2026-06-02T11:47:48+00:00",
+    "url": "https://www.workingnomads.com/job/go/1641411/"
+  },
   "72a77b943a0bab09ce674c1e07e8a6ac": {
     "company": "Dropbox",
     "created_at": "2026-05-08T09:06:56+00:00",
@@ -3598,6 +3772,27 @@
     "uid": "7814c3908f723271c02ce01fe4434361",
     "updated_at": "2026-05-03T09:00:56+00:00",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8480580002"
+  },
+  "7a7903de70e04725205ebd7d2bca419b": {
+    "company": "",
+    "created_at": "2026-06-02T11:47:49+00:00",
+    "error": "empty JD extracted from https://www.workingnomads.com/job/go/1641405/",
+    "history": [
+      {
+        "at": "2026-06-02T11:47:50+00:00",
+        "from": "queued",
+        "note": "empty JD extracted from https://www.workingnomads.com/job/go/1641405/",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-02-company-senior-frontend-developer-vue-js-7a7903",
+    "source": "WorkingNomads",
+    "state": "error",
+    "title": "Senior Frontend Developer (Vue.js)",
+    "uid": "7a7903de70e04725205ebd7d2bca419b",
+    "updated_at": "2026-06-02T11:47:50+00:00",
+    "url": "https://www.workingnomads.com/job/go/1641405/"
   },
   "7c934aefbf0549d91c4a0cfc69bfb759": {
     "company": "",
@@ -4727,6 +4922,27 @@
     "updated_at": "2026-05-07T10:00:25+00:00",
     "url": "https://jobs.dropbox.com/listing/7762009?gh_jid=7762009"
   },
+  "9e3ee27e0effbcb43202ec10873109e6": {
+    "company": "",
+    "created_at": "2026-06-02T11:47:52+00:00",
+    "error": "empty JD extracted from https://www.workingnomads.com/job/go/1641393/",
+    "history": [
+      {
+        "at": "2026-06-02T11:47:53+00:00",
+        "from": "queued",
+        "note": "empty JD extracted from https://www.workingnomads.com/job/go/1641393/",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-02-company-senior-backend-developer-python-9e3ee2",
+    "source": "WorkingNomads",
+    "state": "error",
+    "title": "Senior Backend Developer (Python)",
+    "uid": "9e3ee27e0effbcb43202ec10873109e6",
+    "updated_at": "2026-06-02T11:47:53+00:00",
+    "url": "https://www.workingnomads.com/job/go/1641393/"
+  },
   "9ea9feb74e999a7f118d8e5c3985bcba": {
     "company": "Dropbox",
     "created_at": "2026-05-09T08:57:19+00:00",
@@ -5213,6 +5429,27 @@
     "updated_at": "2026-05-06T09:40:27+00:00",
     "url": "https://weworkremotely.com/remote-jobs/walter-senior-fullstack-engineer-ruby-react"
   },
+  "ad235279788418a2de25c930c6625406": {
+    "company": "",
+    "created_at": "2026-06-02T11:47:48+00:00",
+    "error": "empty JD extracted from https://www.workingnomads.com/job/go/1641409/",
+    "history": [
+      {
+        "at": "2026-06-02T11:47:49+00:00",
+        "from": "queued",
+        "note": "empty JD extracted from https://www.workingnomads.com/job/go/1641409/",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-02-company-senior-devops-engineer-aws-ad2352",
+    "source": "WorkingNomads",
+    "state": "error",
+    "title": "Senior DevOps Engineer (AWS)",
+    "uid": "ad235279788418a2de25c930c6625406",
+    "updated_at": "2026-06-02T11:47:49+00:00",
+    "url": "https://www.workingnomads.com/job/go/1641409/"
+  },
   "af918678d0b0a7e2344bbe5c0b5dc306": {
     "company": "GitLab",
     "created_at": "2026-05-03T09:00:56+00:00",
@@ -5428,6 +5665,27 @@
     "uid": "b5445f5372cd39502e391a1c132d622c",
     "updated_at": "2026-05-30T09:28:36+00:00",
     "url": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/frontend-softwareentwickler-braunschweig-347574"
+  },
+  "b5b072e5f42bf48a543cf902205ee643": {
+    "company": "",
+    "created_at": "2026-06-02T11:47:47+00:00",
+    "error": "empty JD extracted from https://www.workingnomads.com/job/go/1641413/",
+    "history": [
+      {
+        "at": "2026-06-02T11:47:47+00:00",
+        "from": "queued",
+        "note": "empty JD extracted from https://www.workingnomads.com/job/go/1641413/",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-02-company-senior-mobile-developer-android-flutter-b5b072",
+    "source": "WorkingNomads",
+    "state": "error",
+    "title": "Senior Mobile Developer (Android / Flutter)",
+    "uid": "b5b072e5f42bf48a543cf902205ee643",
+    "updated_at": "2026-06-02T11:47:47+00:00",
+    "url": "https://www.workingnomads.com/job/go/1641413/"
   },
   "b60bb846820a7cc82f38faeaeceeb1f3": {
     "company": "Dropbox",
@@ -5672,6 +5930,27 @@
     "updated_at": "2026-05-01T09:16:18+00:00",
     "url": "https://www.arbeitnow.com/jobs/companies/dexter-health/python-backend-engineer-remote-cologne-34228"
   },
+  "bd93da306a4b74f17c6dd941c1dee753": {
+    "company": "",
+    "created_at": "2026-06-02T11:47:51+00:00",
+    "error": "empty JD extracted from https://www.workingnomads.com/job/go/1641396/",
+    "history": [
+      {
+        "at": "2026-06-02T11:47:52+00:00",
+        "from": "queued",
+        "note": "empty JD extracted from https://www.workingnomads.com/job/go/1641396/",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-02-company-senior-qa-automation-engineer-bd93da",
+    "source": "WorkingNomads",
+    "state": "error",
+    "title": "Senior QA Automation Engineer",
+    "uid": "bd93da306a4b74f17c6dd941c1dee753",
+    "updated_at": "2026-06-02T11:47:52+00:00",
+    "url": "https://www.workingnomads.com/job/go/1641396/"
+  },
   "bf34d112e54483ec222c9bdae6021b03": {
     "company": "Reddit",
     "created_at": "2026-05-11T10:46:46+00:00",
@@ -5698,6 +5977,27 @@
     "uid": "bf34d112e54483ec222c9bdae6021b03",
     "updated_at": "2026-05-11T10:46:47+00:00",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/7886459"
+  },
+  "bfe3e9f4da6577d918bf04766227d68c": {
+    "company": "",
+    "created_at": "2026-06-02T11:47:46+00:00",
+    "error": "empty JD extracted from https://www.workingnomads.com/job/go/1641422/",
+    "history": [
+      {
+        "at": "2026-06-02T11:47:47+00:00",
+        "from": "queued",
+        "note": "empty JD extracted from https://www.workingnomads.com/job/go/1641422/",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-02-company-senior-backend-rust-developer-bfe3e9",
+    "source": "WorkingNomads",
+    "state": "error",
+    "title": "Senior Backend Rust Developer",
+    "uid": "bfe3e9f4da6577d918bf04766227d68c",
+    "updated_at": "2026-06-02T11:47:47+00:00",
+    "url": "https://www.workingnomads.com/job/go/1641422/"
   },
   "c00baec3ecc6a2f72c5ea5f5446ae3f9": {
     "company": "we-site GmbH - Shopify Agentur",
@@ -6373,6 +6673,27 @@
     "uid": "ddba19bee6b7f02a00f17c0c00d8da69",
     "updated_at": "2026-05-10T09:11:44+00:00",
     "url": "https://remoteOK.com/remote-jobs/remote-asset-administration-operations-specialist-forge-global-1131523"
+  },
+  "def5c58654bdf3c98639e9499b423772": {
+    "company": "",
+    "created_at": "2026-06-02T11:47:53+00:00",
+    "error": "401 Client Error: Unauthorized for url: https://docs.google.com/forms/d/e/1FAIpQLSd75fldExO-j7T3e-G1ByJZvzc-DnTwDYMFNQ1H-zcgKeX9hA/viewform?usp=send_form",
+    "history": [
+      {
+        "at": "2026-06-02T11:47:54+00:00",
+        "from": "queued",
+        "note": "401 Client Error: Unauthorized for url: https://docs.google.com/forms/d/e/1FAIpQLSd75fldExO-j7T3e-G1ByJZvzc-DnTwDYMFNQ1H-zcgKeX9hA/viewform?usp=send_form",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-01-company-partnership-manager-new-existing-partners-def5c5",
+    "source": "WorkingNomads",
+    "state": "error",
+    "title": "Partnership Manager (New & Existing Partners)",
+    "uid": "def5c58654bdf3c98639e9499b423772",
+    "updated_at": "2026-06-02T11:47:54+00:00",
+    "url": "https://www.workingnomads.com/job/go/1640183/"
   },
   "e027b47c6cbefa090cc90d48f1f855b3": {
     "company": "Honor Foods",
