@@ -53,6 +53,33 @@
     "updated_at": "2026-05-15T10:01:33+00:00",
     "url": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/frontend-softwareentwickler-braunschweig-490712"
   },
+  "010ee61e9f341e790387d7f9a9eb8e29": {
+    "company": "Reddit",
+    "created_at": "2026-06-04T10:46:59+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-04T10:47:00+00:00",
+        "from": "queued",
+        "note": "len=7921",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-04T10:47:00+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-03-reddit-senior-staff-machine-learning-engineer-notifications-010ee6",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Senior Staff Machine Learning Engineer, Notifications",
+    "uid": "010ee61e9f341e790387d7f9a9eb8e29",
+    "updated_at": "2026-06-04T10:47:00+00:00",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7979933"
+  },
   "0399b743af719613eccb40b27dcd3d25": {
     "company": "Sidestream",
     "created_at": "2026-05-08T09:06:52+00:00",
@@ -1082,6 +1109,33 @@
     "updated_at": "2026-05-02T08:48:16+00:00",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8480551002"
   },
+  "2570930490f3cbc87de2a5992880b6bf": {
+    "company": "Reddit",
+    "created_at": "2026-06-04T10:46:59+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-04T10:46:59+00:00",
+        "from": "queued",
+        "note": "len=8693",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-04T10:46:59+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-03-reddit-frontend-engineer-ads-growth-257093",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Frontend Engineer, Ads Growth",
+    "uid": "2570930490f3cbc87de2a5992880b6bf",
+    "updated_at": "2026-06-04T10:46:59+00:00",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7980795"
+  },
   "273b0c3438ca32dfc9b48ea632f5107f": {
     "company": "LawnStarter",
     "created_at": "2026-05-29T10:55:56+00:00",
@@ -1270,6 +1324,33 @@
     "uid": "2cfbd32a49b80c34c5cfb0e0feffb78c",
     "updated_at": "2026-05-29T10:55:57+00:00",
     "url": "https://www.arbeitnow.com/jobs/companies/sidestream/senior-typescript-developer-cologne-197587"
+  },
+  "2fe34a13674b3866a2896f237a900ee4": {
+    "company": "Reddit",
+    "created_at": "2026-06-04T10:47:00+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-04T10:47:00+00:00",
+        "from": "queued",
+        "note": "len=10789",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-04T10:47:00+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-01-reddit-senior-staff-data-scientist-consumer-relevance-2fe34a",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Senior Staff Data Scientist - Consumer Relevance",
+    "uid": "2fe34a13674b3866a2896f237a900ee4",
+    "updated_at": "2026-06-04T10:47:00+00:00",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7974605"
   },
   "30b17668e2cb925dcbdadacd97d79ae9": {
     "company": "",
@@ -1906,6 +1987,33 @@
     "uid": "412c4e6ad5172978a3905c8d89c3cbf3",
     "updated_at": "2026-05-15T10:01:33+00:00",
     "url": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/fullstack-softwareentwickler-braunschweig-198406"
+  },
+  "4157cb0e4cf36c0f8f0d483afcaa9333": {
+    "company": "Reddit",
+    "created_at": "2026-06-04T10:47:00+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-04T10:47:03+00:00",
+        "from": "queued",
+        "note": "len=10240",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-04T10:47:03+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-01-reddit-senior-staff-data-scientist-consumer-relevance-4157cb",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Senior Staff Data Scientist - Consumer Relevance",
+    "uid": "4157cb0e4cf36c0f8f0d483afcaa9333",
+    "updated_at": "2026-06-04T10:47:03+00:00",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7974647"
   },
   "4198b3037958023c1486e0640a5fed90": {
     "company": "Sidestream",
@@ -4058,6 +4166,33 @@
     "updated_at": "2026-05-28T11:05:29+00:00",
     "url": "https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1132383"
   },
+  "8222c3f9322b668b71b36fceba4b88f9": {
+    "company": "",
+    "created_at": "2026-06-04T10:46:58+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-04T10:46:59+00:00",
+        "from": "queued",
+        "note": "len=543",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-04T10:46:59+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-03-company-pos-full-stack-javascript-engineer-remote-latam-or-europe-8222c3",
+    "source": "WeWorkRemotely",
+    "state": "error",
+    "title": "POS+: Full-Stack JavaScript Engineer (Remote - LATAM or Europe)",
+    "uid": "8222c3f9322b668b71b36fceba4b88f9",
+    "updated_at": "2026-06-04T10:46:59+00:00",
+    "url": "https://weworkremotely.com/remote-jobs/pos-full-stack-javascript-engineer-remote-latam-or-europe"
+  },
   "828d819422f69ec7f7988619496b7e73": {
     "company": "GitLab",
     "created_at": "2026-05-03T09:00:50+00:00",
@@ -6188,6 +6323,33 @@
     "updated_at": "2026-05-31T09:59:54+00:00",
     "url": "https://www.arbeitnow.com/jobs/companies/talents2germany-gmbh/senior-genai-engineer-llms-rag-python-remote-in-de-frankfurt-am-main-137280"
   },
+  "c1984e6d353dea2f8e7dbd3811833705": {
+    "company": "Reddit",
+    "created_at": "2026-06-04T10:47:00+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-04T10:47:00+00:00",
+        "from": "queued",
+        "note": "len=10170",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-04T10:47:00+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-01-reddit-senior-staff-data-scientist-consumer-experimentation-c1984e",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Senior Staff Data Scientist - Consumer Experimentation",
+    "uid": "c1984e6d353dea2f8e7dbd3811833705",
+    "updated_at": "2026-06-04T10:47:00+00:00",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7974507"
+  },
   "c1a70059d78d876490eed5265584746e": {
     "company": "",
     "created_at": "2026-05-09T08:57:16+00:00",
@@ -6863,6 +7025,33 @@
     "updated_at": "2026-06-03T12:18:04+00:00",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/7976852"
   },
+  "d8de69145c7d9cbb0ab044022fbae769": {
+    "company": "agex IT gmbh",
+    "created_at": "2026-06-04T10:46:57+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-04T10:46:58+00:00",
+        "from": "queued",
+        "note": "len=8452",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-04T10:46:58+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-04-agex-it-gmbh-senior-python-developer-f-m-d-wanted-ref-nr-4183-d8de69",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "Senior Python Developer (f/m/d) wanted! Ref.Nr. 4183!",
+    "uid": "d8de69145c7d9cbb0ab044022fbae769",
+    "updated_at": "2026-06-04T10:46:58+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/agex-it-gmbh/senior-python-developer-wanted-refnr-4183-kiel-429862"
+  },
   "d9fc7b3d95424293dcb2c27e7cbcb6ea": {
     "company": "",
     "created_at": "2026-06-03T12:17:58+00:00",
@@ -6889,6 +7078,33 @@
     "uid": "d9fc7b3d95424293dcb2c27e7cbcb6ea",
     "updated_at": "2026-06-03T12:17:58+00:00",
     "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-4"
+  },
+  "da013f90f1df23b0aaf7d09edcc08191": {
+    "company": "Vino Digital",
+    "created_at": "2026-06-04T10:46:58+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-04T10:46:58+00:00",
+        "from": "queued",
+        "note": "len=8905",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-04T10:46:58+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-04-vino-digital-freelance-shopify-shopbuilder-webdesigner-in-w-m-d-fur-weinb-da013f",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "Freelance Shopify Shopbuilder Webdesigner:in (w/m/d) f\u00fcr Weinbranche",
+    "uid": "da013f90f1df23b0aaf7d09edcc08191",
+    "updated_at": "2026-06-04T10:46:58+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/vino-digital/freelance-shopify-shopbuilder-webdesignerin-fur-weinbranche-berlin-455402"
   },
   "da360dd010a803048f944b788ec4568f": {
     "company": "GitLab",
