@@ -581,6 +581,33 @@
     "updated_at": "2026-05-09T08:57:17+00:00",
     "url": "https://jobs.dropbox.com/listing/7421121?gh_jid=7421121"
   },
+  "0e9644f9338e18bbb16cc4aea374007a": {
+    "company": "",
+    "created_at": "2026-06-07T10:12:09+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-07T10:12:09+00:00",
+        "from": "queued",
+        "note": "len=541",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-07T10:12:09+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-06-company-dentology-full-stack-product-engineer-0e9644",
+    "source": "WeWorkRemotely",
+    "state": "error",
+    "title": "Dentology: Full Stack Product Engineer",
+    "uid": "0e9644f9338e18bbb16cc4aea374007a",
+    "updated_at": "2026-06-07T10:12:09+00:00",
+    "url": "https://weworkremotely.com/remote-jobs/dentology-full-stack-product-engineer"
+  },
   "0f080d5528c5beb72f4c74f8d9679793": {
     "company": "Immovara GmbH",
     "created_at": "2026-05-05T09:26:30+00:00",
