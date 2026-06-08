@@ -392,6 +392,33 @@
     "updated_at": "2026-05-08T09:06:59+00:00",
     "url": "https://jobs.dropbox.com/listing/7759728?gh_jid=7759728"
   },
+  "0948283f56ccda2bc09b2f4d117bca51": {
+    "company": "elvent",
+    "created_at": "2026-06-08T12:13:13+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-08T12:13:13+00:00",
+        "from": "queued",
+        "note": "len=9853",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-08T12:13:13+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-08-elvent-software-engineer-fullstack-m-w-d-d2c-e-commerce-094828",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "Software Engineer / Fullstack  (m/w/d) - D2C E-Commerce",
+    "uid": "0948283f56ccda2bc09b2f4d117bca51",
+    "updated_at": "2026-06-08T12:13:13+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/elvent/software-engineer-fullstack-d2c-e-commerce-spaichingen-82071"
+  },
   "0a2473f408dc334a9fa7fe117e01f6de": {
     "company": "Reddit",
     "created_at": "2026-05-29T10:55:58+00:00",
@@ -5219,6 +5246,33 @@
     "updated_at": "2026-05-30T09:28:37+00:00",
     "url": "https://remoteOK.com/remote-jobs/remote-executive-assistant-crossing-hurdles-1132485"
   },
+  "9cb6edd2993839aa79549a6cc330af90": {
+    "company": "Clutch",
+    "created_at": "2026-06-08T12:13:13+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-08T12:13:14+00:00",
+        "from": "queued",
+        "note": "len=8072",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-08T12:13:14+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-07-clutch-senior-ml-engineer-9cb6ed",
+    "source": "RemoteOK",
+    "state": "error",
+    "title": "Senior ML Engineer",
+    "uid": "9cb6edd2993839aa79549a6cc330af90",
+    "updated_at": "2026-06-08T12:13:14+00:00",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-ml-engineer-clutch-1132963"
+  },
   "9d10d2221f65257cac3bbe311bdf25ca": {
     "company": "Dropbox",
     "created_at": "2026-05-07T10:00:25+00:00",
@@ -5800,6 +5854,33 @@
     "uid": "ad235279788418a2de25c930c6625406",
     "updated_at": "2026-06-02T11:47:49+00:00",
     "url": "https://www.workingnomads.com/job/go/1641409/"
+  },
+  "af22aaa7079caa9f71024c234a790193": {
+    "company": "Bjak",
+    "created_at": "2026-06-08T12:13:13+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-08T12:13:13+00:00",
+        "from": "queued",
+        "note": "len=3575",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-08T12:13:13+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-07-bjak-applied-ai-engineer-af22aa",
+    "source": "RemoteOK",
+    "state": "error",
+    "title": "Applied AI Engineer",
+    "uid": "af22aaa7079caa9f71024c234a790193",
+    "updated_at": "2026-06-08T12:13:13+00:00",
+    "url": "https://remoteOK.com/remote-jobs/remote-applied-ai-engineer-bjak-1132964"
   },
   "af918678d0b0a7e2344bbe5c0b5dc306": {
     "company": "GitLab",
