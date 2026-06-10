@@ -365,6 +365,33 @@
     "updated_at": "2026-05-06T09:40:29+00:00",
     "url": "https://www.workingnomads.com/job/go/1580747/"
   },
+  "06249a6c6d7c2b43c9b218bc0ff4adc1": {
+    "company": "Stio",
+    "created_at": "2026-06-10T11:07:27+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-10T11:07:27+00:00",
+        "from": "queued",
+        "note": "len=8030",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-10T11:07:27+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-09-stio-data-analyst-06249a",
+    "source": "RemoteOK",
+    "state": "error",
+    "title": "Data Analyst",
+    "uid": "06249a6c6d7c2b43c9b218bc0ff4adc1",
+    "updated_at": "2026-06-10T11:07:27+00:00",
+    "url": "https://remoteOK.com/remote-jobs/remote-data-analyst-stio-1133036"
+  },
   "0717f04bf51d6a6f718b67050db4bab9": {
     "company": "Dropbox",
     "created_at": "2026-05-08T09:06:58+00:00",
@@ -526,6 +553,33 @@
     "uid": "0b5029d5f70fd4b6d3644c2d0db025e0",
     "updated_at": "2026-05-07T10:00:22+00:00",
     "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/rockstardevelopers-senior-fullstack-entwickler-mit-projekterfahrung-deutsche-bahn-oder-db-systel-stuttgart-354361"
+  },
+  "0b644949c3e81ba6cd5322ac3c952165": {
+    "company": "",
+    "created_at": "2026-06-10T11:07:25+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-10T11:07:26+00:00",
+        "from": "queued",
+        "note": "len=18000",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-10T11:07:26+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-10-company-senior-blockchain-developer-0b6449",
+    "source": "WorkingNomads",
+    "state": "error",
+    "title": "Senior Blockchain Developer",
+    "uid": "0b644949c3e81ba6cd5322ac3c952165",
+    "updated_at": "2026-06-10T11:07:26+00:00",
+    "url": "https://www.workingnomads.com/job/go/1656108/"
   },
   "0bf12d687fb24f35fd6b0295de22f8b0": {
     "company": "Gameplay Galaxy",
@@ -3245,6 +3299,33 @@
     "updated_at": "2026-05-21T10:52:03+00:00",
     "url": "https://remotive.com/remote-jobs/artificial-intelligence/mid-senior-ai-cinematic-video-editor-full-remote-worldwide-2090887"
   },
+  "5f136de796518246ea48e07fb7b1e86c": {
+    "company": "",
+    "created_at": "2026-06-10T11:07:28+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-10T11:07:28+00:00",
+        "from": "queued",
+        "note": "len=541",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-10T11:07:28+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-09-company-dentology-senior-full-stack-product-engineer-5f136d",
+    "source": "WeWorkRemotely",
+    "state": "error",
+    "title": "Dentology: Senior Full Stack Product Engineer",
+    "uid": "5f136de796518246ea48e07fb7b1e86c",
+    "updated_at": "2026-06-10T11:07:28+00:00",
+    "url": "https://weworkremotely.com/remote-jobs/dentology-senior-full-stack-product-engineer"
+  },
   "5f253d525dc2e228281f4efb870fb7fb": {
     "company": "Stripe",
     "created_at": "2026-05-14T09:54:24+00:00",
@@ -4598,6 +4679,33 @@
     "updated_at": "2026-05-10T09:11:47+00:00",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/7851761"
   },
+  "885348776885e9dadb1f35e3c27f409b": {
+    "company": "YO HR Consultancy",
+    "created_at": "2026-06-10T11:07:27+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-10T11:07:27+00:00",
+        "from": "queued",
+        "note": "len=402",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-10T11:07:27+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-09-yo-hr-consultancy-data-scientist-885348",
+    "source": "RemoteOK",
+    "state": "error",
+    "title": "Data Scientist",
+    "uid": "885348776885e9dadb1f35e3c27f409b",
+    "updated_at": "2026-06-10T11:07:27+00:00",
+    "url": "https://remoteOK.com/remote-jobs/remote-data-scientist-yo-hr-consultancy-1133043"
+  },
   "885472fadae671cc3f4df806f7e97296": {
     "company": "Pont Connects e.K.",
     "created_at": "2026-05-03T09:00:50+00:00",
@@ -5428,6 +5536,33 @@
     "uid": "9e3ee27e0effbcb43202ec10873109e6",
     "updated_at": "2026-06-02T11:47:53+00:00",
     "url": "https://www.workingnomads.com/job/go/1641393/"
+  },
+  "9e781d9e2c395a1241f85687a6331bcf": {
+    "company": "",
+    "created_at": "2026-06-10T11:07:27+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-10T11:07:28+00:00",
+        "from": "queued",
+        "note": "len=700",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-10T11:07:28+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-09-company-assemble-lead-product-designer-9e781d",
+    "source": "WeWorkRemotely",
+    "state": "error",
+    "title": "Assemble: Lead Product Designer",
+    "uid": "9e781d9e2c395a1241f85687a6331bcf",
+    "updated_at": "2026-06-10T11:07:28+00:00",
+    "url": "https://weworkremotely.com/remote-jobs/assemble-lead-product-designer"
   },
   "9ea9feb74e999a7f118d8e5c3985bcba": {
     "company": "Dropbox",
@@ -6599,6 +6734,33 @@
     "updated_at": "2026-06-02T11:47:52+00:00",
     "url": "https://www.workingnomads.com/job/go/1641396/"
   },
+  "be83f971e2d3698290cb25913743ff4a": {
+    "company": "",
+    "created_at": "2026-06-10T11:07:27+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-10T11:07:27+00:00",
+        "from": "queued",
+        "note": "len=421",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-10T11:07:27+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-09-company-jms-technical-solutions-solutions-engineer-network-automatio-be83f9",
+    "source": "WeWorkRemotely",
+    "state": "error",
+    "title": "JMS Technical Solutions: Solutions Engineer / Network Automation Consultant (Python, Nautobot SaaS)",
+    "uid": "be83f971e2d3698290cb25913743ff4a",
+    "updated_at": "2026-06-10T11:07:27+00:00",
+    "url": "https://weworkremotely.com/remote-jobs/jms-technical-solutions-solutions-engineer-network-automation-consultant-python-nautobot-saas-1"
+  },
   "bf34d112e54483ec222c9bdae6021b03": {
     "company": "Reddit",
     "created_at": "2026-05-11T10:46:46+00:00",
@@ -7349,6 +7511,33 @@
     "updated_at": "2026-05-04T09:35:14+00:00",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8480531002"
   },
+  "d3d43872728fc7adbc9c36ef05006ab1": {
+    "company": "TELUS Digital",
+    "created_at": "2026-06-10T11:07:26+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-10T11:07:27+00:00",
+        "from": "queued",
+        "note": "len=8126",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-10T11:07:27+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-10-telus-digital-media-search-analyst-german-de-d3d438",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "Media Search Analyst - German (DE)",
+    "uid": "d3d43872728fc7adbc9c36ef05006ab1",
+    "updated_at": "2026-06-10T11:07:27+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/telus-digital/media-search-analyst-german-de-berlin-124677"
+  },
   "d4b01db01832a1420b2e265424030e9f": {
     "company": "finwyz",
     "created_at": "2026-05-31T09:59:54+00:00",
@@ -7720,6 +7909,33 @@
     "uid": "e37e915430966565a8df9beeb8975d37",
     "updated_at": "2026-05-12T10:03:47+00:00",
     "url": "https://job-boards.greenhouse.io/twilio/jobs/7520997"
+  },
+  "e434c879ffd619971636c58ea98108f4": {
+    "company": "",
+    "created_at": "2026-06-10T11:07:28+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-10T11:07:28+00:00",
+        "from": "queued",
+        "note": "len=485",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-10T11:07:28+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-09-company-jms-technical-solutions-solutions-engineer-network-automatio-e434c8",
+    "source": "WeWorkRemotely",
+    "state": "error",
+    "title": "JMS Technical Solutions: Solutions Engineer / Network Automation Consultant (Python, Nautobot SaaS)",
+    "uid": "e434c879ffd619971636c58ea98108f4",
+    "updated_at": "2026-06-10T11:07:28+00:00",
+    "url": "https://weworkremotely.com/remote-jobs/jms-technical-solutions-solutions-engineer-network-automation-consultant-python-nautobot-saas"
   },
   "e46e0a305b2912109b54f44b3bf060e1": {
     "company": "citema systems GmbH",
