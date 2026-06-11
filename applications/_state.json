@@ -1163,6 +1163,33 @@
     "updated_at": "2026-05-05T09:26:36+00:00",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/7847148"
   },
+  "1cb4b01832ae5e17aa144595759ed7f2": {
+    "company": "Grupo Coremsa",
+    "created_at": "2026-06-11T11:52:49+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-11T11:52:49+00:00",
+        "from": "queued",
+        "note": "len=2662",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-11T11:52:49+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-10-grupo-coremsa-tutor-a-e-learning-industria-agroalimentaria-1cb4b0",
+    "source": "RemoteOK",
+    "state": "error",
+    "title": "Tutor a E Learning Industria Agroalimentaria",
+    "uid": "1cb4b01832ae5e17aa144595759ed7f2",
+    "updated_at": "2026-06-11T11:52:49+00:00",
+    "url": "https://remoteOK.com/remote-jobs/remote-tutor-a-e-learning-industria-agroalimentaria-grupo-coremsa-1133213"
+  },
   "1e1b85ce01b0ccb23133a950527dd489": {
     "company": "Rockstardevelopers GmbH",
     "created_at": "2026-06-03T12:17:59+00:00",
@@ -7727,6 +7754,33 @@
     "updated_at": "2026-05-07T10:00:26+00:00",
     "url": "https://jobs.dropbox.com/listing/7580431?gh_jid=7580431"
   },
+  "db66885af1306b02d0c2f7b9ea0ad2b7": {
+    "company": "Merlin Digital Solutions GmbH",
+    "created_at": "2026-06-11T11:52:49+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-11T11:52:49+00:00",
+        "from": "queued",
+        "note": "len=9060",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-11T11:52:49+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-11-merlin-digital-solutions-full-stack-software-engineer-ai-accelerated-m-w-d-db6688",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "Full-Stack Software Engineer | AI Accelerated | (m/w/d)",
+    "uid": "db66885af1306b02d0c2f7b9ea0ad2b7",
+    "updated_at": "2026-06-11T11:52:49+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/merlin-digital-solutions-gmbh/full-stack-software-engineer-ai-accelerated-munich-396494"
+  },
   "dc43f6b2240463c67d4d1854054103fe": {
     "company": "Caspar Health",
     "created_at": "2026-05-09T08:57:13+00:00",
@@ -8044,6 +8098,33 @@
     "uid": "e62c914cd0c93a529bf4627c3dc2f9e4",
     "updated_at": "2026-05-11T10:46:45+00:00",
     "url": "https://www.arbeitnow.com/jobs/companies/parto-group-gmbh/senior-sofrware-engineer-full-stack-hamburg-207489"
+  },
+  "e6cfe3f8d2b0b63c320be90c01d420c3": {
+    "company": "Torbay and South Devon NHS Foundation Trust",
+    "created_at": "2026-06-11T11:52:49+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-11T11:52:49+00:00",
+        "from": "queued",
+        "note": "len=3542",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-11T11:52:49+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-10-torbay-and-south-devon-n-clinical-coding-trainer-e6cfe3",
+    "source": "RemoteOK",
+    "state": "error",
+    "title": "Clinical Coding Trainer",
+    "uid": "e6cfe3f8d2b0b63c320be90c01d420c3",
+    "updated_at": "2026-06-11T11:52:49+00:00",
+    "url": "https://remoteOK.com/remote-jobs/remote-clinical-coding-trainer-torbay-and-south-devon-nhs-foundation-trust-1133221"
   },
   "e71d3d074df964159c4ce529ff5cb3a5": {
     "company": "GitLab",
