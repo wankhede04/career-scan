@@ -1217,6 +1217,33 @@
     "updated_at": "2026-06-03T12:18:00+00:00",
     "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/senior-fullstack-entwickler-behorden-offentlicher-sektor-stuttgart-124367"
   },
+  "1e6121a0a8a75af6b6be37125f15ccbd": {
+    "company": "Sundayy",
+    "created_at": "2026-06-12T11:12:05+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-12T11:12:05+00:00",
+        "from": "queued",
+        "note": "len=381",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-12T11:12:05+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-11-sundayy-virtual-data-entry-1e6121",
+    "source": "RemoteOK",
+    "state": "error",
+    "title": "Virtual Data Entry",
+    "uid": "1e6121a0a8a75af6b6be37125f15ccbd",
+    "updated_at": "2026-06-12T11:12:05+00:00",
+    "url": "https://remoteOK.com/remote-jobs/remote-virtual-data-entry-sundayy-1133240"
+  },
   "1e94641877694900be4e3673a0d3ebcb": {
     "company": "Reddit",
     "created_at": "2026-05-06T09:40:31+00:00",
@@ -1297,6 +1324,33 @@
     "uid": "228ffb57c1628b2bc49ccdb8eb9e3ef8",
     "updated_at": "2026-05-02T08:48:16+00:00",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8480551002"
+  },
+  "23fbf8e56b31b9d64bf2694aff206282": {
+    "company": "Wolt",
+    "created_at": "2026-06-12T11:12:05+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-12T11:12:06+00:00",
+        "from": "queued",
+        "note": "len=384",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-12T11:12:06+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-11-wolt-english-speaking-support-associate-23fbf8",
+    "source": "RemoteOK",
+    "state": "error",
+    "title": "English speaking Support Associate",
+    "uid": "23fbf8e56b31b9d64bf2694aff206282",
+    "updated_at": "2026-06-12T11:12:06+00:00",
+    "url": "https://remoteOK.com/remote-jobs/remote-english-speaking-support-associate-wolt-1133210"
   },
   "2570930490f3cbc87de2a5992880b6bf": {
     "company": "Reddit",
@@ -1513,6 +1567,33 @@
     "uid": "2cfbd32a49b80c34c5cfb0e0feffb78c",
     "updated_at": "2026-05-29T10:55:57+00:00",
     "url": "https://www.arbeitnow.com/jobs/companies/sidestream/senior-typescript-developer-cologne-197587"
+  },
+  "2fbd54bd579f5b339e8653c5a749ad52": {
+    "company": "",
+    "created_at": "2026-06-12T11:12:06+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-12T11:12:06+00:00",
+        "from": "queued",
+        "note": "len=431",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-12T11:12:06+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-11-company-workstaff360-e-commerce-web-developer-next-js-node-js-experi-2fbd54",
+    "source": "WeWorkRemotely",
+    "state": "error",
+    "title": "WorkStaff360: E-commerce Web Developer (Next.js / Node.js experience is required)",
+    "uid": "2fbd54bd579f5b339e8653c5a749ad52",
+    "updated_at": "2026-06-12T11:12:06+00:00",
+    "url": "https://weworkremotely.com/remote-jobs/workstaff360-e-commerce-web-developer-next-js-node-js-experience-is-required"
   },
   "2fe34a13674b3866a2896f237a900ee4": {
     "company": "Reddit",
@@ -4388,6 +4469,33 @@
     "updated_at": "2026-05-29T10:55:56+00:00",
     "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-florianopolis-2090899"
   },
+  "7e435a46c81f0d925ed7b0c7d8952886": {
+    "company": "360Dialog",
+    "created_at": "2026-06-12T11:12:06+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-12T11:12:06+00:00",
+        "from": "queued",
+        "note": "len=362",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-12T11:12:06+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-11-360dialog-backend-developer-7e435a",
+    "source": "RemoteOK",
+    "state": "error",
+    "title": "Backend Developer",
+    "uid": "7e435a46c81f0d925ed7b0c7d8952886",
+    "updated_at": "2026-06-12T11:12:06+00:00",
+    "url": "https://remoteOK.com/remote-jobs/remote-backend-developer-360dialog-1133200"
+  },
   "7e4c201a262a38c6385d78d2f11df48d": {
     "company": "DatAds",
     "created_at": "2026-05-13T10:02:28+00:00",
@@ -4462,6 +4570,33 @@
     "uid": "80631325fa9e48a86ed55c0610b66d0b",
     "updated_at": "2026-05-28T11:05:29+00:00",
     "url": "https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1132383"
+  },
+  "806f17a87d4cf49372bc68cc9e18f93f": {
+    "company": "TecFox GmbH",
+    "created_at": "2026-06-12T11:12:04+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-12T11:12:04+00:00",
+        "from": "queued",
+        "note": "len=8780",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-12T11:12:04+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-12-tecfox-gmbh-frontend-softwareentwickler-m-w-d-806f17",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "Frontend Softwareentwickler (m/w/d)",
+    "uid": "806f17a87d4cf49372bc68cc9e18f93f",
+    "updated_at": "2026-06-12T11:12:04+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/frontend-softwareentwickler-braunschweig-324607"
   },
   "8222c3f9322b668b71b36fceba4b88f9": {
     "company": "",
@@ -4597,6 +4732,33 @@
     "uid": "8354113163549b173958d637cdf5e48e",
     "updated_at": "2026-05-13T10:02:29+00:00",
     "url": "https://www.arbeitnow.com/jobs/companies/datads/full-stack-software-engineer-backend-frontend-bootstrapped-saas-startup-remote-in-eu-cologne-38634"
+  },
+  "8452a4f4a6ad47e36eb90145220c9e8d": {
+    "company": "Zapdeck",
+    "created_at": "2026-06-12T11:12:04+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-12T11:12:05+00:00",
+        "from": "queued",
+        "note": "len=8246",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-12T11:12:05+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-12-zapdeck-freelance-senior-ai-engineer-multi-agent-systems-8452a4",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "Freelance Senior AI Engineer | Multi-agent systems",
+    "uid": "8452a4f4a6ad47e36eb90145220c9e8d",
+    "updated_at": "2026-06-12T11:12:05+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/zapdeck/freelance-senior-ai-engineer-multi-agent-systems-berlin-438081"
   },
   "849e535efd048ae3cf895939938dae6e": {
     "company": "Bridgency HR Management GbR",
@@ -4867,6 +5029,33 @@
     "uid": "8a271af43bf6cf5bf50d138fbc6f77ba",
     "updated_at": "2026-05-05T09:26:30+00:00",
     "url": "https://www.arbeitnow.com/jobs/companies/lariaai/werkstudentin-ki-marketing-berlin-9847"
+  },
+  "8a93532a81417c4956cb85c6dbfdb3e8": {
+    "company": "CuraSenseAI",
+    "created_at": "2026-06-12T11:12:05+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-12T11:12:05+00:00",
+        "from": "queued",
+        "note": "len=417",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-12T11:12:05+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-11-curasenseai-clinical-research-professional-8a9353",
+    "source": "RemoteOK",
+    "state": "error",
+    "title": "Clinical Research Professional",
+    "uid": "8a93532a81417c4956cb85c6dbfdb3e8",
+    "updated_at": "2026-06-12T11:12:05+00:00",
+    "url": "https://remoteOK.com/remote-jobs/remote-clinical-research-professional-curasenseai-1133219"
   },
   "8b2d139c1e183b1015bbabd0c8fb1856": {
     "company": "GitLab",
@@ -6524,6 +6713,33 @@
     "updated_at": "2026-06-03T12:18:01+00:00",
     "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/senior-fullstack-entwickler-mit-projekterfahrung-deutsche-bahn-db-systel-stuttgart-464440"
   },
+  "b6c2d711fc4a7b926f7dd87b85739388": {
+    "company": "Reddit",
+    "created_at": "2026-06-12T11:12:06+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-12T11:12:07+00:00",
+        "from": "queued",
+        "note": "len=8224",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-12T11:12:07+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-11-reddit-staff-machine-learning-systems-engineer-embeddings-platform-b6c2d7",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Staff Machine Learning Systems Engineer, Embeddings Platform",
+    "uid": "b6c2d711fc4a7b926f7dd87b85739388",
+    "updated_at": "2026-06-12T11:12:07+00:00",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8001642"
+  },
   "b749ae35563698b95d7747d24ca4de5c": {
     "company": "NeoBird Digital",
     "created_at": "2026-05-13T10:02:27+00:00",
@@ -7187,6 +7403,33 @@
     "updated_at": "2026-05-12T10:03:53+00:00",
     "url": "https://www.arbeitnow.com/jobs/companies/coding-partners/senior-full-stack-engineer-berlin-391720"
   },
+  "c89259c1e5f366eb850e304e2a74c687": {
+    "company": "General Legal (YC26)",
+    "created_at": "2026-06-12T11:12:05+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-12T11:12:05+00:00",
+        "from": "queued",
+        "note": "len=409",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-12T11:12:05+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-11-general-legal-yc26-triage-paralegal-c89259",
+    "source": "RemoteOK",
+    "state": "error",
+    "title": "Triage Paralegal",
+    "uid": "c89259c1e5f366eb850e304e2a74c687",
+    "updated_at": "2026-06-12T11:12:05+00:00",
+    "url": "https://remoteOK.com/remote-jobs/remote-triage-paralegal-general-legal-yc26-1133241"
+  },
   "c973884bf8b45690e0b74a74d9b31b87": {
     "company": "Reddit",
     "created_at": "2026-05-10T09:11:45+00:00",
@@ -7726,6 +7969,33 @@
     "uid": "da360dd010a803048f944b788ec4568f",
     "updated_at": "2026-05-02T08:48:17+00:00",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8451512002"
+  },
+  "db10d21963b61ca6c0e4615286e0fc1c": {
+    "company": "360Dialog",
+    "created_at": "2026-06-12T11:12:06+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-12T11:12:06+00:00",
+        "from": "queued",
+        "note": "len=330",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-12T11:12:06+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-11-360dialog-backend-developer-db10d2",
+    "source": "RemoteOK",
+    "state": "error",
+    "title": "Backend Developer",
+    "uid": "db10d21963b61ca6c0e4615286e0fc1c",
+    "updated_at": "2026-06-12T11:12:06+00:00",
+    "url": "https://remoteOK.com/remote-jobs/remote-backend-developer-360dialog-1133201"
   },
   "db39e2fc13c2a2eb43393482cee14fd6": {
     "company": "Dropbox",
