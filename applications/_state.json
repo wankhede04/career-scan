@@ -3569,6 +3569,33 @@
     "updated_at": "2026-05-02T08:48:15+00:00",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8497793002"
   },
+  "62c90b739deedd99fb9933a8bdcb1ba2": {
+    "company": "",
+    "created_at": "2026-06-13T10:11:37+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-13T10:11:37+00:00",
+        "from": "queued",
+        "note": "len=18000",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-13T10:11:37+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-12-company-senior-react-native-developer-62c90b",
+    "source": "WorkingNomads",
+    "state": "error",
+    "title": "Senior React Native Developer",
+    "uid": "62c90b739deedd99fb9933a8bdcb1ba2",
+    "updated_at": "2026-06-13T10:11:37+00:00",
+    "url": "https://www.workingnomads.com/job/go/1663269/"
+  },
   "6333cb66bc3b4e975106ae3561630927": {
     "company": "Dropbox",
     "created_at": "2026-05-09T08:57:17+00:00",
@@ -5731,6 +5758,33 @@
     "uid": "9d10d2221f65257cac3bbe311bdf25ca",
     "updated_at": "2026-05-07T10:00:25+00:00",
     "url": "https://jobs.dropbox.com/listing/7762009?gh_jid=7762009"
+  },
+  "9d9fb8d7dbb1a1806a8b4f268dcf9952": {
+    "company": "TecFox GmbH",
+    "created_at": "2026-06-13T10:11:36+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-13T10:11:37+00:00",
+        "from": "queued",
+        "note": "len=9583",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-13T10:11:37+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-13-tecfox-gmbh-fullstack-softwareentwickler-m-w-d-9d9fb8",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "Fullstack Softwareentwickler (m/w/d)",
+    "uid": "9d9fb8d7dbb1a1806a8b4f268dcf9952",
+    "updated_at": "2026-06-13T10:11:37+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/fullstack-softwareentwickler-braunschweig-225705"
   },
   "9e3ee27e0effbcb43202ec10873109e6": {
     "company": "",
@@ -8314,6 +8368,33 @@
     "uid": "e48d931a9bb3cdcb4207b62ee1c20939",
     "updated_at": "2026-05-04T09:35:14+00:00",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8480559002"
+  },
+  "e588876b12faa20c6cacd2c972864180": {
+    "company": "",
+    "created_at": "2026-06-13T10:11:37+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-13T10:11:38+00:00",
+        "from": "queued",
+        "note": "len=541",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-13T10:11:38+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-12-company-thrill-labs-devops-engineer-e58887",
+    "source": "WeWorkRemotely",
+    "state": "error",
+    "title": "Thrill Labs: DevOps Engineer",
+    "uid": "e588876b12faa20c6cacd2c972864180",
+    "updated_at": "2026-06-13T10:11:38+00:00",
+    "url": "https://weworkremotely.com/remote-jobs/thrill-labs-devops-engineer"
   },
   "e5b93e7ac83302ef2a7a6eb59cdcb888": {
     "company": "",
