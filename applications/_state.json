@@ -338,6 +338,33 @@
     "updated_at": "2026-05-10T09:11:46+00:00",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/7721851"
   },
+  "05d6a74f7af7a3d7a6b42c547ea53593": {
+    "company": "dexter health",
+    "created_at": "2026-06-15T13:29:33+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-15T13:29:34+00:00",
+        "from": "queued",
+        "note": "len=10592",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-15T13:29:34+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-15-dexter-health-ai-developer-llm-products-remote-05d6a7",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "AI Developer (LLM Products) - Remote",
+    "uid": "05d6a74f7af7a3d7a6b42c547ea53593",
+    "updated_at": "2026-06-15T13:29:34+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/dexter-health/ai-developer-llm-products-remote-cologne-37116"
+  },
   "05fdd3c399f93616b1f10140b8eb16e0": {
     "company": "",
     "created_at": "2026-05-06T09:40:29+00:00",
@@ -6023,6 +6050,33 @@
     "updated_at": "2026-05-17T09:17:51+00:00",
     "url": "https://weworkremotely.com/remote-jobs/binance-devops-engineer-trading-technology"
   },
+  "a217ebec90b330c67ca35a3c54570234": {
+    "company": "Reddit",
+    "created_at": "2026-06-15T13:29:36+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-15T13:29:36+00:00",
+        "from": "queued",
+        "note": "len=9234",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-15T13:29:36+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-14-reddit-machine-learning-engineering-manager-ads-engagement-modeling-a217eb",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Machine Learning Engineering Manager - Ads Engagement Modeling",
+    "uid": "a217ebec90b330c67ca35a3c54570234",
+    "updated_at": "2026-06-15T13:29:36+00:00",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7993514"
+  },
   "a51ec13caad4d7b3fb367f371cac37fe": {
     "company": "",
     "created_at": "2026-05-21T10:52:06+00:00",
@@ -7754,6 +7808,33 @@
     "updated_at": "2026-05-02T08:48:16+00:00",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8443325002"
   },
+  "cefcbcc9ebf8c3a882b7d9e0b2b382c7": {
+    "company": "dexter health",
+    "created_at": "2026-06-15T13:29:34+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-15T13:29:35+00:00",
+        "from": "queued",
+        "note": "len=10181",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-15T13:29:35+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-15-dexter-health-applied-ai-developer-remote-cefcbc",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "Applied AI Developer - Remote",
+    "uid": "cefcbcc9ebf8c3a882b7d9e0b2b382c7",
+    "updated_at": "2026-06-15T13:29:35+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/dexter-health/applied-ai-developer-remote-cologne-39645"
+  },
   "d003d9784c46c2fbfb3a92ea7ad24f1b": {
     "company": "Prove",
     "created_at": "2026-05-07T10:00:23+00:00",
@@ -9124,6 +9205,33 @@
     "uid": "f7472dc69e6f7e688966d9130fe2e855",
     "updated_at": "2026-05-07T10:00:29+00:00",
     "url": "https://jobs.dropbox.com/listing/7789389?gh_jid=7789389"
+  },
+  "f79c799b8a10123b6078bb9b1b51a4d1": {
+    "company": "dexter health",
+    "created_at": "2026-06-15T13:29:35+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-15T13:29:36+00:00",
+        "from": "queued",
+        "note": "len=10364",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-15T13:29:36+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-15-dexter-health-ai-engineer-llm-remote-f79c79",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "AI Engineer (LLM) - Remote",
+    "uid": "f79c799b8a10123b6078bb9b1b51a4d1",
+    "updated_at": "2026-06-15T13:29:36+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/dexter-health/ai-engineer-llm-remote-cologne-192977"
   },
   "f8b171008a1deda5e2b1df78f0e9ebca": {
     "company": "Twilio",
