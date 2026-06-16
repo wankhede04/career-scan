@@ -899,6 +899,33 @@
     "updated_at": "2026-05-02T08:48:15+00:00",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8463951002"
   },
+  "12dbf5583f684f7b77b384479d4891c8": {
+    "company": "1KOMMA5\u02da",
+    "created_at": "2026-06-16T12:25:19+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-16T12:25:20+00:00",
+        "from": "queued",
+        "note": "len=11447",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-16T12:25:20+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-16-1komma5-senior-full-stack-software-engineer-financial-infrastructure-12dbf5",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "(Senior) Full-Stack Software Engineer - Financial Infrastructure & Payments (m/f/d)",
+    "uid": "12dbf5583f684f7b77b384479d4891c8",
+    "updated_at": "2026-06-16T12:25:20+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/1komma50/senior-full-stack-software-engineer-financial-infrastructure-payments-berlin-26845"
+  },
   "1386237974951af9c5a7d0c27f70dbfd": {
     "company": "Reddit",
     "created_at": "2026-05-16T09:10:22+00:00",
@@ -1351,6 +1378,33 @@
     "uid": "2140d3355d8a03ad9a9d88efa90845c2",
     "updated_at": "2026-05-01T09:16:20+00:00",
     "url": "https://weworkremotely.com/remote-jobs/opensea-staff-product-designer"
+  },
+  "21a97bb7adfa6dc46a6da1b4a8bca045": {
+    "company": "Weflow",
+    "created_at": "2026-06-16T12:25:19+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-16T12:25:19+00:00",
+        "from": "queued",
+        "note": "len=7854",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-16T12:25:19+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-16-weflow-senior-product-manager-w-m-d-remote-21a97b",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "(Senior) Product Manager (w/m/d) (remote)",
+    "uid": "21a97bb7adfa6dc46a6da1b4a8bca045",
+    "updated_at": "2026-06-16T12:25:19+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/weflow/senior-product-manager-berlin-402867"
   },
   "228ffb57c1628b2bc49ccdb8eb9e3ef8": {
     "company": "GitLab",
@@ -5705,6 +5759,33 @@
     "updated_at": "2026-05-01T09:16:17+00:00",
     "url": "https://www.arbeitnow.com/jobs/companies/hackstack-gmbh/senior-rust-consultant-engineer-munich-451602"
   },
+  "9a569a5cbb894fdaf468f641844c3a10": {
+    "company": "Reddit",
+    "created_at": "2026-06-16T12:25:20+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-16T12:25:20+00:00",
+        "from": "queued",
+        "note": "len=7744",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-16T12:25:20+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-15-reddit-senior-machine-learning-systems-engineer-ranking-platform-9a569a",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Senior Machine Learning Systems Engineer, Ranking Platform",
+    "uid": "9a569a5cbb894fdaf468f641844c3a10",
+    "updated_at": "2026-06-16T12:25:20+00:00",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8009153"
+  },
   "9ae0a984fd66aac7b8f745be750fcc99": {
     "company": "",
     "created_at": "2026-05-14T09:54:24+00:00",
@@ -7483,6 +7564,33 @@
     "uid": "c5380409d86b57e053b8691b7939b8e3",
     "updated_at": "2026-06-03T12:17:59+00:00",
     "url": "https://www.arbeitnow.com/jobs/companies/boardwise-gmbh/werkstudent-technical-success-manager-tsm-berlin-161485"
+  },
+  "c560997aece30901e7311a3e72c98fa9": {
+    "company": "Stableton Financial AG",
+    "created_at": "2026-06-16T12:25:20+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-16T12:25:20+00:00",
+        "from": "queued",
+        "note": "len=5564",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-16T12:25:20+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-15-stableton-financial-ag-chief-of-staff-operating-partner-ceo-office-c56099",
+    "source": "RemoteOK",
+    "state": "error",
+    "title": "Chief of Staff Operating Partner CEO Office",
+    "uid": "c560997aece30901e7311a3e72c98fa9",
+    "updated_at": "2026-06-16T12:25:20+00:00",
+    "url": "https://remoteOK.com/remote-jobs/remote-chief-of-staff-operating-partner-ceo-office-stableton-financial-ag-1133436"
   },
   "c6b1c17ae4b664353aa1955c040cd738": {
     "company": "Lemon.io",
