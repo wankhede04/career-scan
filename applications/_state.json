@@ -1487,6 +1487,27 @@
     "updated_at": "2026-06-04T10:46:59+00:00",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/7980795"
   },
+  "25ba0a2d704251b634165a8614b03490": {
+    "company": "Jane Technologies",
+    "created_at": "2026-06-18T11:34:43+00:00",
+    "error": "HTTPSConnectionPool(host='remoteok.com', port=443): Read timed out. (read timeout=20)",
+    "history": [
+      {
+        "at": "2026-06-18T11:35:03+00:00",
+        "from": "queued",
+        "note": "HTTPSConnectionPool(host='remoteok.com', port=443): Read timed out. (read timeout=20)",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-17-jane-technologies-lead-software-engineer-ads-25ba0a",
+    "source": "RemoteOK",
+    "state": "error",
+    "title": "Lead Software Engineer Ads",
+    "uid": "25ba0a2d704251b634165a8614b03490",
+    "updated_at": "2026-06-18T11:35:03+00:00",
+    "url": "https://remoteOK.com/remote-jobs/remote-lead-software-engineer-ads-jane-technologies-1133519"
+  },
   "273b0c3438ca32dfc9b48ea632f5107f": {
     "company": "LawnStarter",
     "created_at": "2026-05-29T10:55:56+00:00",
@@ -3974,6 +3995,33 @@
     "updated_at": "2026-05-07T10:00:21+00:00",
     "url": "https://www.arbeitnow.com/jobs/companies/datasmart-point-gmbh/karrierestart-in-data-ai-ihk-data-analyst-100-online-berlin-138911"
   },
+  "6a63d3735d3328d64156c47dcc122f8f": {
+    "company": "Reddit",
+    "created_at": "2026-06-18T11:35:04+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-18T11:35:04+00:00",
+        "from": "queued",
+        "note": "len=7672",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-18T11:35:04+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-17-reddit-staff-machine-learning-engineer-notifications-relevance-6a63d3",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Staff Machine Learning Engineer, Notifications Relevance",
+    "uid": "6a63d3735d3328d64156c47dcc122f8f",
+    "updated_at": "2026-06-18T11:35:04+00:00",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7992035"
+  },
   "6afe9ca92763a18fc74beba72d6a64d9": {
     "company": "Twilio",
     "created_at": "2026-05-11T10:46:49+00:00",
@@ -6266,6 +6314,33 @@
     "updated_at": "2026-06-15T13:29:36+00:00",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/7993514"
   },
+  "a21ad91d5d16ed23ba411cb56a902eda": {
+    "company": "Team Passerelle",
+    "created_at": "2026-06-18T11:34:41+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-18T11:34:43+00:00",
+        "from": "queued",
+        "note": "len=13110",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-18T11:34:43+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-18-team-passerelle-data-ai-engineer-m-w-d-a21ad9",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "Data & AI Engineer (m/w/d)",
+    "uid": "a21ad91d5d16ed23ba411cb56a902eda",
+    "updated_at": "2026-06-18T11:34:43+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/team-passerelle/data-ai-engineer-berlin-118584"
+  },
   "a51ec13caad4d7b3fb367f371cac37fe": {
     "company": "",
     "created_at": "2026-05-21T10:52:06+00:00",
@@ -6691,6 +6766,33 @@
     "uid": "af22aaa7079caa9f71024c234a790193",
     "updated_at": "2026-06-08T12:13:13+00:00",
     "url": "https://remoteOK.com/remote-jobs/remote-applied-ai-engineer-bjak-1132964"
+  },
+  "af697a141f2831346559a9ea2b1a95f9": {
+    "company": "Reddit",
+    "created_at": "2026-06-18T11:35:03+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-18T11:35:04+00:00",
+        "from": "queued",
+        "note": "len=9706",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-18T11:35:04+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-17-reddit-senior-staff-machine-learning-systems-engineer-indexing-retr-af697a",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Senior Staff Machine Learning Systems Engineer, Indexing & Retrieval Search",
+    "uid": "af697a141f2831346559a9ea2b1a95f9",
+    "updated_at": "2026-06-18T11:35:04+00:00",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7844238"
   },
   "af918678d0b0a7e2344bbe5c0b5dc306": {
     "company": "GitLab",
@@ -8375,6 +8477,33 @@
     "updated_at": "2026-06-04T10:46:58+00:00",
     "url": "https://www.arbeitnow.com/jobs/companies/vino-digital/freelance-shopify-shopbuilder-webdesignerin-fur-weinbranche-berlin-455402"
   },
+  "da25d636528baf9738a1dbecc2d955ad": {
+    "company": "",
+    "created_at": "2026-06-18T11:34:41+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-18T11:34:41+00:00",
+        "from": "queued",
+        "note": "len=480",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-18T11:34:41+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-18-company-zensors-frontend-web-developer-react-typescript-remote-da25d6",
+    "source": "WeWorkRemotely",
+    "state": "error",
+    "title": "Zensors: Frontend Web Developer React/Typescript (Remote)",
+    "uid": "da25d636528baf9738a1dbecc2d955ad",
+    "updated_at": "2026-06-18T11:34:41+00:00",
+    "url": "https://weworkremotely.com/remote-jobs/zensors-frontend-web-developer-react-typescript-remote"
+  },
   "da360dd010a803048f944b788ec4568f": {
     "company": "GitLab",
     "created_at": "2026-05-02T08:48:17+00:00",
@@ -9794,6 +9923,33 @@
     "updated_at": "2026-05-01T09:16:17+00:00",
     "url": "https://www.arbeitnow.com/jobs/companies/dexter-health/applied-ai-engineer-remote-cologne-2870"
   },
+  "fea5c43523d995b7328261a94b542969": {
+    "company": "",
+    "created_at": "2026-06-18T11:35:03+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-18T11:35:03+00:00",
+        "from": "queued",
+        "note": "len=541",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-18T11:35:03+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-17-company-proxify-ab-senior-fullstack-developer-python-fea5c4",
+    "source": "WeWorkRemotely",
+    "state": "error",
+    "title": "Proxify AB: Senior Fullstack Developer (Python)",
+    "uid": "fea5c43523d995b7328261a94b542969",
+    "updated_at": "2026-06-18T11:35:03+00:00",
+    "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-python-3"
+  },
   "fed092d6674f3a92c3f98aa764381589": {
     "company": "",
     "created_at": "2026-05-23T09:17:58+00:00",
@@ -9928,5 +10084,32 @@
     "uid": "ffc0ab98cacf9f5750756836f33aff8a",
     "updated_at": "2026-06-03T12:18:03+00:00",
     "url": "https://weworkremotely.com/remote-jobs/binance-devops-engineer-futures"
+  },
+  "ffcec65a025bc0614ec99f9b6434412b": {
+    "company": "",
+    "created_at": "2026-06-18T11:34:40+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-18T11:34:41+00:00",
+        "from": "queued",
+        "note": "len=431",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-18T11:34:41+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-18-company-remote-va-web-developer-ai-specialist-ffcec6",
+    "source": "WeWorkRemotely",
+    "state": "error",
+    "title": "Remote VA: Web Developer & AI Specialist",
+    "uid": "ffcec65a025bc0614ec99f9b6434412b",
+    "updated_at": "2026-06-18T11:34:41+00:00",
+    "url": "https://weworkremotely.com/remote-jobs/remote-va-web-developer-ai-specialist"
   }
 }
