@@ -1352,6 +1352,33 @@
     "updated_at": "2026-05-06T09:40:31+00:00",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/7131934"
   },
+  "20245aa5095b861d493df64085879c34": {
+    "company": "COREEN GmbH",
+    "created_at": "2026-06-19T11:45:28+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-19T11:45:29+00:00",
+        "from": "queued",
+        "note": "len=8687",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-19T11:45:29+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-19-coreen-gmbh-ki-entwickler-ai-engineer-fur-projekte-im-mittelstand-m-w-d-20245a",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "KI-Entwickler / AI Engineer f\u00fcr Projekte im Mittelstand (m/w/d)",
+    "uid": "20245aa5095b861d493df64085879c34",
+    "updated_at": "2026-06-19T11:45:29+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/coreen-gmbh/ki-entwickler-ai-engineer-fur-projekte-im-mittelstand-berlin-60205"
+  },
   "2140d3355d8a03ad9a9d88efa90845c2": {
     "company": "",
     "created_at": "2026-05-01T09:16:20+00:00",
@@ -1859,6 +1886,33 @@
     "updated_at": "2026-05-22T10:31:22+00:00",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/7895468"
   },
+  "33835851aa93f95c81a1c9534705b660": {
+    "company": "Sidestream",
+    "created_at": "2026-06-19T11:45:26+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-19T11:45:27+00:00",
+        "from": "queued",
+        "note": "len=8402",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-19T11:45:27+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-19-sidestream-sidebase-open-source-contributor-senior-ts-dev-f-m-d-338358",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "Sidebase Open-Source Contributor & Senior TS Dev (f/m/d)",
+    "uid": "33835851aa93f95c81a1c9534705b660",
+    "updated_at": "2026-06-19T11:45:27+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/sidestream/sidebase-open-source-contributor-senior-ts-dev-cologne-298826"
+  },
   "33e6c272caed039f115edbd036aa7c9e": {
     "company": "EverAI",
     "created_at": "2026-05-27T11:03:25+00:00",
@@ -2129,6 +2183,33 @@
     "updated_at": "2026-05-04T09:35:16+00:00",
     "url": "https://remotive.com/remote-jobs/artificial-intelligence/ai-engineer-2089958"
   },
+  "395831f0a6141d9307e989fc74f025bd": {
+    "company": "Joy_",
+    "created_at": "2026-06-19T11:45:27+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-19T11:45:28+00:00",
+        "from": "queued",
+        "note": "len=11827",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-19T11:45:28+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-19-joy-full-stack-developer-m-f-d-395831",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "Full-Stack Developer (m/f/d)",
+    "uid": "395831f0a6141d9307e989fc74f025bd",
+    "updated_at": "2026-06-19T11:45:28+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/joy/full-stack-developer-berlin-338700"
+  },
   "39984ab70e85ebb5494e91a40bcaace6": {
     "company": "nexamind GmbH",
     "created_at": "2026-05-12T10:03:47+00:00",
@@ -2209,6 +2290,33 @@
     "uid": "39bba1011e2682b42802807ee5d33f85",
     "updated_at": "2026-05-13T10:02:30+00:00",
     "url": "https://www.arbeitnow.com/jobs/companies/datads/full-stack-software-engineer-backend-frontend-adtech-saas-startup-remote-cologne-263746"
+  },
+  "3ad5acc32d953bb5f1207611b845cb6a": {
+    "company": "Crypto.com",
+    "created_at": "2026-06-19T11:45:29+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-19T11:45:29+00:00",
+        "from": "queued",
+        "note": "len=2744",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-19T11:45:29+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-18-crypto-com-social-media-manager-3ad5ac",
+    "source": "RemoteOK",
+    "state": "error",
+    "title": "Social Media Manager",
+    "uid": "3ad5acc32d953bb5f1207611b845cb6a",
+    "updated_at": "2026-06-19T11:45:29+00:00",
+    "url": "https://remoteOK.com/remote-jobs/remote-social-media-manager-crypto-com-1133674"
   },
   "3b1881c19b75f94f12d075f8bcc444af": {
     "company": "",
@@ -4415,6 +4523,33 @@
     "updated_at": "2026-05-27T11:03:26+00:00",
     "url": "https://job-boards.greenhouse.io/twilio/jobs/7946608"
   },
+  "76fba595be58304bcd4a41b8b241a500": {
+    "company": "Twilio",
+    "created_at": "2026-06-19T11:45:30+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-19T11:45:32+00:00",
+        "from": "queued",
+        "note": "len=6997",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-19T11:45:32+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-18-twilio-machine-learning-engineer-76fba5",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Machine Learning Engineer",
+    "uid": "76fba595be58304bcd4a41b8b241a500",
+    "updated_at": "2026-06-19T11:45:32+00:00",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/8007455"
+  },
   "775d76a21ae41ad53a4c8be65567ed7e": {
     "company": "FNTIO",
     "created_at": "2026-05-30T09:28:34+00:00",
@@ -5185,6 +5320,33 @@
     "uid": "88c7575908980e26db0be766546f206a",
     "updated_at": "2026-05-04T09:35:13+00:00",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8463922002"
+  },
+  "8927fa783d356776f5391ff054364210": {
+    "company": "Twilio",
+    "created_at": "2026-06-19T11:45:29+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-19T11:45:30+00:00",
+        "from": "queued",
+        "note": "len=6999",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-19T11:45:30+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-18-twilio-machine-learning-engineer-8927fa",
+    "source": "Greenhouse",
+    "state": "error",
+    "title": "Machine Learning Engineer",
+    "uid": "8927fa783d356776f5391ff054364210",
+    "updated_at": "2026-06-19T11:45:30+00:00",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7996774"
   },
   "899fdeec640e847e3fd7e34a031de354": {
     "company": "Immovara GmbH",
@@ -7937,6 +8099,33 @@
     "updated_at": "2026-06-12T11:12:05+00:00",
     "url": "https://remoteOK.com/remote-jobs/remote-triage-paralegal-general-legal-yc26-1133241"
   },
+  "c92b2544251e24ad93d1288886668677": {
+    "company": "Spoon",
+    "created_at": "2026-06-19T11:45:28+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-19T11:45:28+00:00",
+        "from": "queued",
+        "note": "len=7607",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-19T11:45:28+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-19-spoon-blockchain-developer-base-c92b25",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "Blockchain Developer - Base",
+    "uid": "c92b2544251e24ad93d1288886668677",
+    "updated_at": "2026-06-19T11:45:28+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/spoon/blockchain-developer-base-berlin-449610"
+  },
   "c973884bf8b45690e0b74a74d9b31b87": {
     "company": "Reddit",
     "created_at": "2026-05-10T09:11:45+00:00",
@@ -8686,6 +8875,33 @@
     "uid": "def5c58654bdf3c98639e9499b423772",
     "updated_at": "2026-06-02T11:47:54+00:00",
     "url": "https://www.workingnomads.com/job/go/1640183/"
+  },
+  "dfef3e16f9fcaa00449582f6a50c2cca": {
+    "company": "Sidestream",
+    "created_at": "2026-06-19T11:45:27+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-19T11:45:27+00:00",
+        "from": "queued",
+        "note": "len=8000",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-19T11:45:27+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-19-sidestream-senior-typescript-developer-f-m-d-dfef3e",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "Senior Typescript Developer (f/m/d)",
+    "uid": "dfef3e16f9fcaa00449582f6a50c2cca",
+    "updated_at": "2026-06-19T11:45:27+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/sidestream/senior-typescript-developer-cologne-256926"
   },
   "e027b47c6cbefa090cc90d48f1f855b3": {
     "company": "Honor Foods",
