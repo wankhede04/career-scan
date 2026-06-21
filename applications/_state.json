@@ -743,6 +743,33 @@
     "updated_at": "2026-05-05T09:26:30+00:00",
     "url": "https://www.arbeitnow.com/jobs/companies/immovara-gmbh/laravel-developer-ai-first-proptech-korntal-munchingen-239743"
   },
+  "0fd6c1ed92e903a270fd366aa7715f5b": {
+    "company": "Eaton",
+    "created_at": "2026-06-21T10:51:46+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-21T10:51:46+00:00",
+        "from": "queued",
+        "note": "len=1994",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-21T10:51:46+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-20-eaton-manufacturing-operator-i-0fd6c1",
+    "source": "RemoteOK",
+    "state": "error",
+    "title": "Manufacturing Operator I",
+    "uid": "0fd6c1ed92e903a270fd366aa7715f5b",
+    "updated_at": "2026-06-21T10:51:46+00:00",
+    "url": "https://remoteOK.com/remote-jobs/remote-manufacturing-operator-i-eaton-1133763"
+  },
   "0ff9218c21a89559069e3fef22ff8a75": {
     "company": "Reddit",
     "created_at": "2026-05-05T09:26:36+00:00",
@@ -7489,6 +7516,33 @@
     "uid": "b86302c04e8effb3952e56644404b56b",
     "updated_at": "2026-05-28T11:05:29+00:00",
     "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-sao-paulo-2090890"
+  },
+  "b89d5edd1453c4cfc9f90110d38b95cb": {
+    "company": "Weflow",
+    "created_at": "2026-06-21T10:51:45+00:00",
+    "error": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+    "history": [
+      {
+        "at": "2026-06-21T10:51:46+00:00",
+        "from": "queued",
+        "note": "len=8117",
+        "to": "jd_fetched"
+      },
+      {
+        "at": "2026-06-21T10:51:46+00:00",
+        "from": "jd_fetched",
+        "note": "ANTHROPIC_API_KEY is not set. Configure it as a GitHub Actions secret or export it in your local env.",
+        "to": "error"
+      }
+    ],
+    "issue_number": null,
+    "slug": "2026-06-21-weflow-head-of-creative-campaigns-m-f-d-remote-b89d5e",
+    "source": "Arbeitnow",
+    "state": "error",
+    "title": "Head of Creative Campaigns (m/f/d - Remote)",
+    "uid": "b89d5edd1453c4cfc9f90110d38b95cb",
+    "updated_at": "2026-06-21T10:51:46+00:00",
+    "url": "https://www.arbeitnow.com/jobs/companies/weflow/head-of-creative-campaigns-remote-berlin-245358"
   },
   "baf492a238abf68b39f834aa854e43c8": {
     "company": "Reddit",
